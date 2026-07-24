@@ -1,1 +1,1 @@
-{"nextSeq":1,"tickets":[]}
+{"nextSeq":2,"tickets":[{"id":"cmp_1784913459974","seqId":1,"userId":"complainer_demo","complainerName":"Ali Pengadu","floor":"36","issueType":"chiller","assetName":"AIR COOLED CHILLER 2","description":"broken fan","status":"open","evidenceFile":"evidence/cmp_1784913459974.jpg","createdAt":"2026-07-25T01:17:39.974591"}]}
