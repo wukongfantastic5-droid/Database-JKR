@@ -101,8 +101,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 32,
+      "type": "FIRE FIGHTING",
+      "qty": 35,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -135,13 +135,7 @@
         "FIRE EXTINGUISHER CO2 5",
         "FIRE EXTINGUISHER CO2 6",
         "FIRE EXTINGUISHER CO2 7",
-        "FIRE EXTINGUISHER CO2 8"
-      ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 3,
-      "items": [
+        "FIRE EXTINGUISHER CO2 8",
         "FIREMAN SWITCH 1",
         "FIREMAN SWITCH 2",
         "FIREMAN SWITCH 3"
@@ -356,8 +350,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 19,
+      "type": "FIRE FIGHTING",
+      "qty": 21,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -377,13 +371,7 @@
         "FIRE EXTINGUISHER CO2 3",
         "FIRE EXTINGUISHER CO2 4",
         "FIRE EXTINGUISHER CO2 5",
-        "FIRE EXTINGUISHER CO2 6"
-      ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 2,
-      "items": [
+        "FIRE EXTINGUISHER CO2 6",
         "FIREMAN SWITCH 1",
         "FIREMAN SWITCH 2"
       ]
@@ -603,8 +591,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 16,
+      "type": "FIRE FIGHTING",
+      "qty": 17,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -621,12 +609,9 @@
         "FIRE EXTINGUISHER ABC 13",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "GRID CONNECTED PHOTOVOLTAIC(PV)",
@@ -807,8 +792,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -817,12 +802,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -933,8 +915,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -943,12 +925,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -1058,8 +1037,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -1068,12 +1047,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -1183,8 +1159,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -1193,12 +1169,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -1308,8 +1281,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -1318,12 +1291,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -1433,8 +1403,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -1443,12 +1413,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -1558,8 +1525,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -1568,12 +1535,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -1683,8 +1647,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -1693,12 +1657,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -1800,8 +1761,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -1810,12 +1771,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -1925,8 +1883,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -1935,12 +1893,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -2050,8 +2005,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -2060,12 +2015,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -2175,8 +2127,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -2185,12 +2137,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -2290,8 +2239,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -2300,12 +2249,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -2415,8 +2361,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -2425,12 +2371,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -2572,8 +2515,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 12,
+      "type": "FIRE FIGHTING",
+      "qty": 13,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -2586,12 +2529,9 @@
         "FIRE EXTINGUISHER CO2 2",
         "FIRE EXTINGUISHER CO2 3",
         "FIRE EXTINGUISHER CO2 4",
-        "FIRE EXTINGUISHER CO2 5"
+        "FIRE EXTINGUISHER CO2 5",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "FM 200",
@@ -2785,8 +2725,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 9,
+      "type": "FIRE FIGHTING",
+      "qty": 11,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -2796,13 +2736,7 @@
         "FIRE EXTINGUISHER ABC 6",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
-      ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 2,
-      "items": [
+        "FIRE EXTINGUISHER CO2 3",
         "FIREMAN SWITCH 1",
         "FIREMAN SWITCH 2"
       ]
@@ -2952,8 +2886,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 9,
+      "type": "FIRE FIGHTING",
+      "qty": 10,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -2963,12 +2897,9 @@
         "FIRE EXTINGUISHER ABC 6",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -3078,8 +3009,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 9,
+      "type": "FIRE FIGHTING",
+      "qty": 10,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -3089,12 +3020,9 @@
         "FIRE EXTINGUISHER ABC 6",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -3204,8 +3132,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 9,
+      "type": "FIRE FIGHTING",
+      "qty": 10,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -3215,12 +3143,9 @@
         "FIRE EXTINGUISHER ABC 6",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -3330,8 +3255,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 9,
+      "type": "FIRE FIGHTING",
+      "qty": 10,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -3341,12 +3266,9 @@
         "FIRE EXTINGUISHER ABC 6",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -3456,8 +3378,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 9,
+      "type": "FIRE FIGHTING",
+      "qty": 10,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -3467,12 +3389,9 @@
         "FIRE EXTINGUISHER ABC 6",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -3580,8 +3499,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 9,
+      "type": "FIRE FIGHTING",
+      "qty": 10,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -3591,12 +3510,9 @@
         "FIRE EXTINGUISHER ABC 6",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -3704,8 +3620,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 9,
+      "type": "FIRE FIGHTING",
+      "qty": 10,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -3715,12 +3631,9 @@
         "FIRE EXTINGUISHER ABC 6",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -3828,8 +3741,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 9,
+      "type": "FIRE FIGHTING",
+      "qty": 10,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -3839,12 +3752,9 @@
         "FIRE EXTINGUISHER ABC 6",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -3952,8 +3862,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 9,
+      "type": "FIRE FIGHTING",
+      "qty": 10,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -3963,12 +3873,9 @@
         "FIRE EXTINGUISHER ABC 6",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -4076,8 +3983,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 9,
+      "type": "FIRE FIGHTING",
+      "qty": 10,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -4087,12 +3994,9 @@
         "FIRE EXTINGUISHER ABC 6",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -4200,8 +4104,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 9,
+      "type": "FIRE FIGHTING",
+      "qty": 10,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -4211,12 +4115,9 @@
         "FIRE EXTINGUISHER ABC 6",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -4324,8 +4225,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 9,
+      "type": "FIRE FIGHTING",
+      "qty": 10,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -4335,12 +4236,9 @@
         "FIRE EXTINGUISHER ABC 6",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -4449,8 +4347,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 9,
+      "type": "FIRE FIGHTING",
+      "qty": 10,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -4460,12 +4358,9 @@
         "FIRE EXTINGUISHER ABC 6",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -4585,8 +4480,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -4595,12 +4490,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -4719,8 +4611,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -4729,12 +4621,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -4861,8 +4750,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 8,
+      "type": "FIRE FIGHTING",
+      "qty": 9,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -4871,12 +4760,9 @@
         "FIRE EXTINGUISHER ABC 5",
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
-        "FIRE EXTINGUISHER CO2 3"
+        "FIRE EXTINGUISHER CO2 3",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "HAND DRYER",
@@ -5015,8 +4901,8 @@
       ]
     },
     {
-      "type": "FIRE EXTINGUISHER",
-      "qty": 9,
+      "type": "FIRE FIGHTING",
+      "qty": 10,
       "items": [
         "FIRE EXTINGUISHER ABC 1",
         "FIRE EXTINGUISHER ABC 2",
@@ -5026,12 +4912,9 @@
         "FIRE EXTINGUISHER CO2 1",
         "FIRE EXTINGUISHER CO2 2",
         "FIRE EXTINGUISHER CO2 3",
-        "FIRE EXTINGUISHER CO2 4"
+        "FIRE EXTINGUISHER CO2 4",
+        "FIREMAN SWITCH"
       ]
-    },
-    {
-      "type": "FIREMAN SWITCH",
-      "qty": 1
     },
     {
       "type": "GONDOLA",
@@ -5097,7 +4980,7 @@
   ],
   "L37": [
     {
-      "type": "FIRE EXTINGUISHER",
+      "type": "FIRE FIGHTING",
       "qty": 2,
       "items": [
         "FIRE EXTINGUISHER ABC",
