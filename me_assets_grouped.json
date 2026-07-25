@@ -1,0 +1,5131 @@
+{
+  "L1": [
+    {
+      "type": "CONFERENCE SYSTEM",
+      "qty": 7,
+      "items": [
+        "CONFERENCE SYSTEM 1",
+        "CONFERENCE SYSTEM 2",
+        "CONFERENCE SYSTEM 3",
+        "CONFERENCE SYSTEM 4",
+        "CONFERENCE SYSTEM 5",
+        "CONFERENCE SYSTEM 6",
+        "CONFERENCE SYSTEM 7"
+      ]
+    },
+    {
+      "type": "COOLING TOWER",
+      "qty": 3,
+      "items": [
+        "COOLING TOWER 1",
+        "COOLING TOWER 2",
+        "COOLING TOWER 3"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 18,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10",
+        "DB 11",
+        "DB 12",
+        "DB 13",
+        "DB 14",
+        "DB 15",
+        "DB 16",
+        "DB 17",
+        "DB 18"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 6,
+      "items": [
+        "EL 1",
+        "EL 2",
+        "EL 3",
+        "EL 4",
+        "EL 5",
+        "EL 6"
+      ]
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 6,
+      "items": [
+        "EXIT SIGN 1",
+        "EXIT SIGN 2",
+        "EXIT SIGN 3",
+        "EXIT SIGN 4",
+        "EXIT SIGN 5",
+        "EXIT SIGN 6"
+      ]
+    },
+    {
+      "type": "FCU",
+      "qty": 24,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2",
+        "FCU (VRF) 1",
+        "FCU (VRF) 2",
+        "FCU (VRF) 3",
+        "FCU (VRF) 4",
+        "FCU (VRF) 5",
+        "FCU (VRF) 6",
+        "FCU (VRF) 7",
+        "FCU (VRF) 8",
+        "FCU (VRF) 9",
+        "FCU (VRF) 10",
+        "FCU (VRF) 11",
+        "FCU (VRF) 12",
+        "FCU (VRF) 13",
+        "FCU (VRF) 14",
+        "FCU (VRF) 15",
+        "FCU (VRF) 16",
+        "FCU (VRF) 17",
+        "FCU (VRF) 18",
+        "FCU (VRF) 19",
+        "FCU (VRF) 20",
+        "FCU (VRF) 21",
+        "FCU (VRF) 22"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 32,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER ABC 7",
+        "FIRE EXTINGUISHER ABC 8",
+        "FIRE EXTINGUISHER ABC 9",
+        "FIRE EXTINGUISHER ABC 10",
+        "FIRE EXTINGUISHER ABC 11",
+        "FIRE EXTINGUISHER ABC 12",
+        "FIRE EXTINGUISHER ABC 13",
+        "FIRE EXTINGUISHER ABC 14",
+        "FIRE EXTINGUISHER ABC 15",
+        "FIRE EXTINGUISHER ABC 16",
+        "FIRE EXTINGUISHER ABC 17",
+        "FIRE EXTINGUISHER ABC 18",
+        "FIRE EXTINGUISHER ABC 19",
+        "FIRE EXTINGUISHER ABC 20",
+        "FIRE EXTINGUISHER ABC 21",
+        "FIRE EXTINGUISHER ABC 22",
+        "FIRE EXTINGUISHER ABC 23",
+        "FIRE EXTINGUISHER ABC 24",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3",
+        "FIRE EXTINGUISHER CO2 4",
+        "FIRE EXTINGUISHER CO2 5",
+        "FIRE EXTINGUISHER CO2 6",
+        "FIRE EXTINGUISHER CO2 7",
+        "FIRE EXTINGUISHER CO2 8"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 3,
+      "items": [
+        "FIREMAN SWITCH 1",
+        "FIREMAN SWITCH 2",
+        "FIREMAN SWITCH 3"
+      ]
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LPG SYSTEM",
+      "qty": 1
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 6,
+      "items": [
+        "LUMINARIES 1",
+        "LUMINARIES 2",
+        "LUMINARIES 3",
+        "LUMINARIES 4",
+        "LUMINARIES 5",
+        "LUMINARIES 6"
+      ]
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "REFRIGERANT LEAK DETECTOR",
+      "qty": 3,
+      "items": [
+        "REFRIGERANT LEAK DETECTOR 1",
+        "REFRIGERANT LEAK DETECTOR 2",
+        "REFRIGERANT LEAK DETECTOR 3"
+      ]
+    },
+    {
+      "type": "S/S/O",
+      "qty": 6,
+      "items": [
+        "S/S/O 1",
+        "S/S/O 2",
+        "S/S/O 3",
+        "S/S/O 4",
+        "S/S/O 5",
+        "S/S/O 6"
+      ]
+    },
+    {
+      "type": "SOUND REINFORCEMENT SYSTEM",
+      "qty": 7,
+      "items": [
+        "SOUND REINFORCEMENT SYSTEM 1",
+        "SOUND REINFORCEMENT SYSTEM 2",
+        "SOUND REINFORCEMENT SYSTEM 3",
+        "SOUND REINFORCEMENT SYSTEM 4",
+        "SOUND REINFORCEMENT SYSTEM 5",
+        "SOUND REINFORCEMENT SYSTEM 6",
+        "SOUND REINFORCEMENT SYSTEM 7"
+      ]
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VISUAL PROJECTION",
+      "qty": 9,
+      "items": [
+        "VISUAL PROJECTION 1",
+        "VISUAL PROJECTION 2",
+        "VISUAL PROJECTION 3",
+        "VISUAL PROJECTION 4",
+        "VISUAL PROJECTION 5",
+        "VISUAL PROJECTION 6",
+        "VISUAL PROJECTION 7",
+        "VISUAL PROJECTION 8",
+        "VISUAL PROJECTION 9"
+      ]
+    },
+    {
+      "type": "VRF",
+      "qty": 2,
+      "items": [
+        "VRF OUTDOOR UNIT 1",
+        "VRF OUTDOOR UNIT 2"
+      ]
+    },
+    {
+      "type": "WATER TREATMENT",
+      "qty": 2,
+      "items": [
+        "NON CHEMICAL WATER TREATMENT(P5A) 1",
+        "NON CHEMICAL WATER TREATMENT(P5A) 2"
+      ]
+    }
+  ],
+  "L2": [
+    {
+      "type": "AUDIO VISUAL",
+      "qty": 1,
+      "items": [
+        "INTEGRATED CONTROL FOR AUDIO & VISUAL SYSTEM"
+      ]
+    },
+    {
+      "type": "BOOM GATE",
+      "qty": 2,
+      "items": [
+        "BOOM GATE 1",
+        "BOOM GATE 2"
+      ]
+    },
+    {
+      "type": "CONFERENCE SYSTEM",
+      "qty": 3,
+      "items": [
+        "CONFERENCE SYSTEM 1",
+        "CONFERENCE SYSTEM 2",
+        "CONFERENCE SYSTEM 3"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 18,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10",
+        "DB 11",
+        "DB 12",
+        "DB 13",
+        "DB 14",
+        "DB 15",
+        "DB 16",
+        "DB 17",
+        "DB 18"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 3,
+      "items": [
+        "EL 1",
+        "EL 2",
+        "EL 3"
+      ]
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 3,
+      "items": [
+        "EXIT SIGN 1",
+        "EXIT SIGN 2",
+        "EXIT SIGN 3"
+      ]
+    },
+    {
+      "type": "FAN",
+      "qty": 1,
+      "items": [
+        "EXHAUST FAN"
+      ]
+    },
+    {
+      "type": "FCU",
+      "qty": 23,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2",
+        "FCU (VRF) 1",
+        "FCU (VRF) 2",
+        "FCU (VRF) 3",
+        "FCU (VRF) 4",
+        "FCU (VRF) 5",
+        "FCU (VRF) 6",
+        "FCU (VRF) 7",
+        "FCU (VRF) 8",
+        "FCU (VRF) 9",
+        "FCU (VRF) 10",
+        "FCU (VRF) 11",
+        "FCU (VRF) 12",
+        "FCU (VRF) 13",
+        "FCU (VRF) 14",
+        "FCU (VRF) 15",
+        "FCU (VRF) 16",
+        "FCU (VRF) 17",
+        "FCU (VRF) 18",
+        "FCU (VRF) 19",
+        "FCU (VRF) 20",
+        "FCU (VRF) 21"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 19,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER ABC 7",
+        "FIRE EXTINGUISHER ABC 8",
+        "FIRE EXTINGUISHER ABC 9",
+        "FIRE EXTINGUISHER ABC 10",
+        "FIRE EXTINGUISHER ABC 11",
+        "FIRE EXTINGUISHER ABC 12",
+        "FIRE EXTINGUISHER ABC 13",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3",
+        "FIRE EXTINGUISHER CO2 4",
+        "FIRE EXTINGUISHER CO2 5",
+        "FIRE EXTINGUISHER CO2 6"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 2,
+      "items": [
+        "FIREMAN SWITCH 1",
+        "FIREMAN SWITCH 2"
+      ]
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "HYDRANT PILLAR",
+      "qty": 1
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 3,
+      "items": [
+        "LUMINARIES 1",
+        "LUMINARIES 2",
+        "LUMINARIES 3"
+      ]
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 3,
+      "items": [
+        "S/S/O 1",
+        "S/S/O 2",
+        "S/S/O 3"
+      ]
+    },
+    {
+      "type": "SOLAR INVERTER",
+      "qty": 9,
+      "items": [
+        "SOLAR INVERTER 1",
+        "SOLAR INVERTER 2",
+        "SOLAR INVERTER 3",
+        "SOLAR INVERTER 4",
+        "SOLAR INVERTER 5",
+        "SOLAR INVERTER 6",
+        "SOLAR INVERTER 7",
+        "SOLAR INVERTER 8",
+        "SOLAR INVERTER 9"
+      ]
+    },
+    {
+      "type": "SOUND REINFORCEMENT SYSTEM",
+      "qty": 3,
+      "items": [
+        "SOUND REINFORCEMENT SYSTEM 1",
+        "SOUND REINFORCEMENT SYSTEM 2",
+        "SOUND REINFORCEMENT SYSTEM 3"
+      ]
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VISUAL PROJECTION",
+      "qty": 11,
+      "items": [
+        "VISUAL PROJECTION 1",
+        "VISUAL PROJECTION 2",
+        "VISUAL PROJECTION 3",
+        "VISUAL PROJECTION 4",
+        "VISUAL PROJECTION 5",
+        "VISUAL PROJECTION 6",
+        "VISUAL PROJECTION 7",
+        "VISUAL PROJECTION 8",
+        "VISUAL PROJECTION 9",
+        "VISUAL PROJECTION 10",
+        "VISUAL PROJECTION 11"
+      ]
+    },
+    {
+      "type": "VRF",
+      "qty": 2,
+      "items": [
+        "VRF OUTDOOR UNIT 1",
+        "VRF OUTDOOR UNIT 2"
+      ]
+    }
+  ],
+  "L3": [
+    {
+      "type": "ACSU",
+      "qty": 4,
+      "items": [
+        "ACSU 1",
+        "ACSU 2",
+        "ACSU 3",
+        "ACSU 4"
+      ]
+    },
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR CURTAIN",
+      "qty": 16,
+      "items": [
+        "AIR CURTAIN 1",
+        "AIR CURTAIN 2",
+        "AIR CURTAIN 3",
+        "AIR CURTAIN 4",
+        "AIR CURTAIN 5",
+        "AIR CURTAIN 6",
+        "AIR CURTAIN 7",
+        "AIR CURTAIN 8",
+        "AIR CURTAIN 9",
+        "AIR CURTAIN 10",
+        "AIR CURTAIN 11",
+        "AIR CURTAIN 12",
+        "AIR CURTAIN 13",
+        "AIR CURTAIN 14",
+        "AIR CURTAIN 15",
+        "AIR CURTAIN 16"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "AUDIO VISUAL",
+      "qty": 1,
+      "items": [
+        "AUDIO VISUAL EQUIPMENT"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 16,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10",
+        "DB 11",
+        "DB 12",
+        "DB 13",
+        "DB 14",
+        "DB 15",
+        "DB 16"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 2,
+      "items": [
+        "EL 1",
+        "EL 2"
+      ]
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 2,
+      "items": [
+        "EXIT SIGN 1",
+        "EXIT SIGN 2"
+      ]
+    },
+    {
+      "type": "FAN",
+      "qty": 7,
+      "items": [
+        "BIRFUCATED DUCT KITCHEN FAN EQUIPMENT 1",
+        "BIRFUCATED DUCT KITCHEN FAN EQUIPMENT 2",
+        "KITCHEN MECHANICAL EXAUST FAN 1",
+        "KITCHEN MECHANICAL EXAUST FAN 2",
+        "PRESSURISATION FAN 1",
+        "PRESSURISATION FAN 2",
+        "PRESSURISATION FAN 3"
+      ]
+    },
+    {
+      "type": "FCU",
+      "qty": 6,
+      "items": [
+        "FCU (ACSU) 1",
+        "FCU (ACSU) 2",
+        "FCU (ACSU) 3",
+        "FCU (ACSU) 4",
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 16,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER ABC 7",
+        "FIRE EXTINGUISHER ABC 8",
+        "FIRE EXTINGUISHER ABC 9",
+        "FIRE EXTINGUISHER ABC 10",
+        "FIRE EXTINGUISHER ABC 11",
+        "FIRE EXTINGUISHER ABC 12",
+        "FIRE EXTINGUISHER ABC 13",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "GRID CONNECTED PHOTOVOLTAIC(PV)",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "KITCHEN EXHAUST HOOD",
+      "qty": 6,
+      "items": [
+        "KITCHEN EXHAUST HOOD 1",
+        "KITCHEN EXHAUST HOOD 2",
+        "KITCHEN EXHAUST HOOD 3",
+        "KITCHEN EXHAUST HOOD 4",
+        "KITCHEN EXHAUST HOOD 5",
+        "KITCHEN EXHAUST HOOD 6"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 2,
+      "items": [
+        "LUMINARIES 1",
+        "LUMINARIES 2"
+      ]
+    },
+    {
+      "type": "OUTDOOR LIGHTING",
+      "qty": 4,
+      "items": [
+        "OUTDOOR LIGHTING 1",
+        "OUTDOOR LIGHTING 2",
+        "OUTDOOR LIGHTING 3",
+        "OUTDOOR LIGHTING 4"
+      ]
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "ROLLER SHUTTER",
+      "qty": 12,
+      "items": [
+        "ROLLER SHUTTER 03 - KAFE A1",
+        "ROLLER SHUTTER 04 - KAFE A1",
+        "ROLLER SHUTTER 05 - KAFE A2",
+        "ROLLER SHUTTER 06 - KAFE A2",
+        "ROLLER SHUTTER 07 - KAFE A3",
+        "ROLLER SHUTTER 08 - KAFE A3",
+        "ROLLER SHUTTER 09 - KAFE B1",
+        "ROLLER SHUTTER 10 - KAFE B1",
+        "ROLLER SHUTTER 11 - KAFE B2",
+        "ROLLER SHUTTER 12 - KAFE B2",
+        "ROLLER SHUTTER 13 - KAFE B3",
+        "ROLLER SHUTTER 14 - KAFE B3"
+      ]
+    },
+    {
+      "type": "S/S/O",
+      "qty": 2,
+      "items": [
+        "S/S/O 1",
+        "S/S/O 2"
+      ]
+    },
+    {
+      "type": "SSB",
+      "qty": 6,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5",
+        "SSB 6"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 10,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10"
+      ]
+    },
+    {
+      "type": "VISUAL PROJECTION",
+      "qty": 1
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    },
+    {
+      "type": "WATER FILTER",
+      "qty": 1
+    },
+    {
+      "type": "WET CHEMICAL SYSTEM",
+      "qty": 6,
+      "items": [
+        "WET CHEMICAL SYSTEM - KAFETERIA 1",
+        "WET CHEMICAL SYSTEM - KAFETERIA 2",
+        "WET CHEMICAL SYSTEM - KAFETERIA 3",
+        "WET CHEMICAL SYSTEM - KAFETERIA 4",
+        "WET CHEMICAL SYSTEM - KAFETERIA 5",
+        "WET CHEMICAL SYSTEM - KAFETERIA 6"
+      ]
+    }
+  ],
+  "L4": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 6,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5",
+        "SSB 6"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L5": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L6": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L7": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L8": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L9": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L10": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L11": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L12": [
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L13": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L14": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L15": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 10,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L16": [
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L17": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L18": [
+    {
+      "type": "ACB",
+      "qty": 1
+    },
+    {
+      "type": "ACSU",
+      "qty": 2,
+      "items": [
+        "ACSU 1",
+        "ACSU 2"
+      ]
+    },
+    {
+      "type": "CAP BANK",
+      "qty": 2,
+      "items": [
+        "CAP BANK 1",
+        "CAP BANK 2"
+      ]
+    },
+    {
+      "type": "CHWP",
+      "qty": 3,
+      "items": [
+        "SECONDARY CHILLED WATER PUMP (CHWP) 1",
+        "SECONDARY CHILLED WATER PUMP (CHWP) 2",
+        "SECONDARY CHILLED WATER PUMP (CHWP) 3"
+      ]
+    },
+    {
+      "type": "COLD WATER PUMP",
+      "qty": 1,
+      "items": [
+        "COLD WATER INTERMIDIATE SUCTION PUMP"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 4,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FAN",
+      "qty": 13,
+      "items": [
+        "EXHAUST FAN 1",
+        "EXHAUST FAN 2",
+        "EXHAUST FAN 3",
+        "FAN 1",
+        "FAN 2",
+        "FRESH AIR FAN",
+        "PRESSURISATION FAN 1",
+        "PRESSURISATION FAN 2",
+        "PRESSURISATION FAN 3",
+        "PRESSURISATION FAN 4",
+        "SMOKE SPILL FAN 1",
+        "SMOKE SPILL FAN 2",
+        "SMOKE SPILL FAN 3"
+      ]
+    },
+    {
+      "type": "FCU",
+      "qty": 1,
+      "items": [
+        "FCU (CHW)"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 12,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER ABC 7",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3",
+        "FIRE EXTINGUISHER CO2 4",
+        "FIRE EXTINGUISHER CO2 5"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "FM 200",
+      "qty": 2,
+      "items": [
+        "FM 200 1",
+        "FM 200 2"
+      ]
+    },
+    {
+      "type": "HEAT EXCHANGER",
+      "qty": 2,
+      "items": [
+        "HEAT EXCHANGER 1",
+        "HEAT EXCHANGER 2"
+      ]
+    },
+    {
+      "type": "HEAT RECOVERY WHEEL",
+      "qty": 1
+    },
+    {
+      "type": "LIFT LOWZONE",
+      "qty": 6,
+      "items": [
+        "LIFT-PL07 LOWZONE",
+        "LIFT-PL08 LOWZONE",
+        "LIFT-PL09 LOWZONE",
+        "LIFT-PL10 LOWZONE",
+        "LIFT-PL11 LOWZONE",
+        "LIFT-PL12 LOWZONE"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "LV ROOM",
+      "qty": 1
+    },
+    {
+      "type": "METERING (VOLT & AMPS)",
+      "qty": 1
+    },
+    {
+      "type": "MSB",
+      "qty": 2,
+      "items": [
+        "MSB 1",
+        "MSB 2"
+      ]
+    },
+    {
+      "type": "RMU",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SPRINKLER CONTROL PANEL",
+      "qty": 2,
+      "items": [
+        "SPRINKLER DUTY PUMP CONTROL PANEL-STAGE3",
+        "SPRINKLER DUTY PUMP CONTROL PANEL-STAGE4"
+      ]
+    },
+    {
+      "type": "SPRINKLER PUMP",
+      "qty": 6,
+      "items": [
+        "SPRINKLER DUTY PUMP-STAGE3",
+        "SPRINKLER DUTY PUMP-STAGE4",
+        "SPRINKLER JOCKEY PUMP-STAGE3",
+        "SPRINKLER JOCKEY PUMP-STAGE4",
+        "SPRINKLER STANDBY PUMP-STAGE3",
+        "SPRINKLER STANDBY PUMP-STAGE4"
+      ]
+    },
+    {
+      "type": "SSB",
+      "qty": 8,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5",
+        "SSB 6",
+        "SSB 7",
+        "SSB 8"
+      ]
+    },
+    {
+      "type": "SWITCH ROOM HV",
+      "qty": 1
+    },
+    {
+      "type": "TX",
+      "qty": 2,
+      "items": [
+        "TX 1",
+        "TX 2"
+      ]
+    },
+    {
+      "type": "WATER PUMP",
+      "qty": 1,
+      "items": [
+        "TREATED GREY WATER INTERMEDIATE PUMP SET"
+      ]
+    },
+    {
+      "type": "WATER TANK",
+      "qty": 8,
+      "items": [
+        "CHILLED WATER EXPANSION TANK",
+        "COOLING TOWER MAKE UP WATER STORAGE TANK",
+        "DCW INTERMEDIATE STORAGE TANK 1(BASIN)",
+        "DCW INTERMEDIATE STORAGE TANK 2(WC&URINAL)",
+        "DCW INTERMEDIATE SUCTION TANK",
+        "SPRINKLER TANK",
+        "TREATED WASTE WATER INTERMEDIATE TANK",
+        "WET RISER INTERMEDIATE TANK"
+      ]
+    },
+    {
+      "type": "WET RISER CONTROL PANEL",
+      "qty": 2,
+      "items": [
+        "WET RISER PUMP CONTROL PANEL -STAGE 2",
+        "WET RISER PUMP CONTROL PANEL -STAGE 3"
+      ]
+    },
+    {
+      "type": "WET RISER PUMP",
+      "qty": 6,
+      "items": [
+        "WET RISER DUTY PUMP -STAGE 2",
+        "WET RISER DUTY PUMP -STAGE 3",
+        "WET RISER JOCKEY PUMP -STAGE 2",
+        "WET RISER JOCKEY PUMP -STAGE 3",
+        "WET RISER STANDBY PUMP -STAGE 2",
+        "WET RISER STANDBY PUMP -STAGE 3"
+      ]
+    }
+  ],
+  "L19": [
+    {
+      "type": "AHU",
+      "qty": 1
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 1,
+      "items": [
+        "ELECTRONIC AIR FLITER"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 7,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 4,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2",
+        "FCU (CHW) 3",
+        "FCU (CHW) 4"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 9,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 2,
+      "items": [
+        "FIREMAN SWITCH 1",
+        "FIREMAN SWITCH 2"
+      ]
+    },
+    {
+      "type": "FM 200",
+      "qty": 4,
+      "items": [
+        "FM 200 1",
+        "FM 200 2",
+        "FM 200 3",
+        "FM 200 4"
+      ]
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PABX",
+      "qty": 1
+    },
+    {
+      "type": "PAC",
+      "qty": 3,
+      "items": [
+        "PAC 1",
+        "PAC 2",
+        "PAC 3"
+      ]
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "ROLLER SHUTTER",
+      "qty": 4,
+      "items": [
+        "FIRE RATED ROLLER SHUTTER 1",
+        "FIRE RATED ROLLER SHUTTER 2",
+        "FIRE RATED ROLLER SHUTTER 3",
+        "FIRE RATED ROLLER SHUTTER 4"
+      ]
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "UPS",
+      "qty": 1
+    },
+    {
+      "type": "VAV",
+      "qty": 6,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6"
+      ]
+    },
+    {
+      "type": "VESDA",
+      "qty": 4,
+      "items": [
+        "VESDA 1",
+        "VESDA 2",
+        "VESDA 3",
+        "VESDA 4"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 1
+    }
+  ],
+  "L20": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 9,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L21": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 9,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L22": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 9,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L23": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 9,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 12,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10",
+        "VAV 11",
+        "VAV 12"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L24": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 9,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 10,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L25": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 9,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 10,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L26": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 9,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 10,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L27": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 9,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 10,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L28": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 9,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 10,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L29": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 9,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 10,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L30": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 9,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 10,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L31": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 9,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 10,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L32": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 3,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2",
+        "FCU (CHW) 3"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 9,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "OUTDOOR LIGHTING",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 10,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8",
+        "VAV 9",
+        "VAV 10"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L33": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FAN",
+      "qty": 1,
+      "items": [
+        "EXHAUST FAN"
+      ]
+    },
+    {
+      "type": "FCU",
+      "qty": 3,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2",
+        "FCU (CHW) 3"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "INSTANT WATER HEATER",
+      "qty": 1
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "OUTDOOR LIGHTING",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 8,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8"
+      ]
+    },
+    {
+      "type": "VISUAL PROJECTION",
+      "qty": 1
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L34": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 3,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2",
+        "FCU (CHW) 3"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "INSTANT WATER HEATER",
+      "qty": 2,
+      "items": [
+        "INSTANT WATER HEATER 1",
+        "INSTANT WATER HEATER 2"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "OUTDOOR LIGHTING",
+      "qty": 1
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 8,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8"
+      ]
+    },
+    {
+      "type": "VISUAL PROJECTION",
+      "qty": 1
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L35": [
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "CONFERENCE SYSTEM",
+      "qty": 1
+    },
+    {
+      "type": "DB",
+      "qty": 10,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FCU",
+      "qty": 3,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2",
+        "FCU (CHW) 3"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 8,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "HAND DRYER",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "INSTANT WATER HEATER",
+      "qty": 1
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "OUTDOOR LIGHTING",
+      "qty": 2,
+      "items": [
+        "OUTDOOR LIGHTING 1",
+        "OUTDOOR LIGHTING 2"
+      ]
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SOUND REINFORCEMENT SYSTEM",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 5,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 6,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6"
+      ]
+    },
+    {
+      "type": "VISUAL PROJECTION",
+      "qty": 1
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    }
+  ],
+  "L36": [
+    {
+      "type": "ACSU",
+      "qty": 5,
+      "items": [
+        "ACSU 1",
+        "ACSU 2",
+        "ACSU 3",
+        "ACSU 4",
+        "ACSU 5"
+      ]
+    },
+    {
+      "type": "AIR COOLED CHILLER",
+      "qty": 2,
+      "items": [
+        "AIR COOLED CHILLER 1",
+        "AIR COOLED CHILLER 2"
+      ]
+    },
+    {
+      "type": "CHWP",
+      "qty": 2,
+      "items": [
+        "CHWP 1",
+        "CHWP 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 4,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4"
+      ]
+    },
+    {
+      "type": "DOMESTIC COLD WATER BOOSTER PUMP",
+      "qty": 2,
+      "items": [
+        "DOMESTIC COLD WATER BOOSTER PUMP(WASH BASIN)",
+        "DOMESTIC COLD WATER BOOSTER PUMP(WC FLUSH VALVE)"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "FAN",
+      "qty": 4,
+      "items": [
+        "EXHAUST FAN",
+        "FRESH AIR FAN",
+        "SMOKE SPILL FAN 1",
+        "SMOKE SPILL FAN 2"
+      ]
+    },
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 9,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3",
+        "FIRE EXTINGUISHER CO2 4"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
+    },
+    {
+      "type": "GONDOLA",
+      "qty": 1
+    },
+    {
+      "type": "HEAT RECOVERY WHEEL",
+      "qty": 1
+    },
+    {
+      "type": "HOSE REEL PUMP",
+      "qty": 2,
+      "items": [
+        "HOSE REEL DUTY PUMP",
+        "HOSE REEL STANDBY PUMP"
+      ]
+    },
+    {
+      "type": "HOSE REEL PUMP CONTROL PANEL",
+      "qty": 1
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "OUTDOOR LIGHTING",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 11,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5",
+        "SSB 6",
+        "SSB 7",
+        "SSB 8",
+        "SSB 9",
+        "SSB 10",
+        "SSB 11"
+      ]
+    },
+    {
+      "type": "WATER TANK",
+      "qty": 6,
+      "items": [
+        "DCW STORAGE TANK 1(BASIN)",
+        "DCW STORAGE TANK 2(WC&URINAL)",
+        "HOSE REEL WATER TANK STORAGE",
+        "RAIN WATER HARVESTING TANK",
+        "SECONDARY CHILLED WATER EXPANSION TANK",
+        "TREATED WASTE WATER ROOF STORAGE TANK (WC&URINAL)"
+      ]
+    }
+  ],
+  "L37": [
+    {
+      "type": "FIRE EXTINGUISHER",
+      "qty": 2,
+      "items": [
+        "FIRE EXTINGUISHER ABC",
+        "FIRE EXTINGUISHER CO2"
+      ]
+    },
+    {
+      "type": "LIFT",
+      "qty": 1,
+      "items": [
+        "LIFT-FL1"
+      ]
+    },
+    {
+      "type": "LIFT HIGHZONE",
+      "qty": 6,
+      "items": [
+        "LIFT-PL01 HIGHZONE",
+        "LIFT-PL02 HIGHZONE",
+        "LIFT-PL03 HIGHZONE",
+        "LIFT-PL04 HIGHZONE",
+        "LIFT-PL05 HIGHZONE",
+        "LIFT-PL06 HIGHZONE"
+      ]
+    },
+    {
+      "type": "SMATV",
+      "qty": 1
+    }
+  ]
+}
