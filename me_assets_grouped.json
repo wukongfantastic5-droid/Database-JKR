@@ -5602,6 +5602,22 @@
     {
       "type": "S/S/O",
       "qty": 1
+    },
+    {
+      "type": "GREY WATER FILTER",
+      "qty": 1
+    },
+    {
+      "type": "GREY WATER PUMP",
+      "qty": 1
+    },
+    {
+      "type": "IRRIGATION PUMP",
+      "qty": 1
+    },
+    {
+      "type": "RAIN WATER FILTER",
+      "qty": 1
     }
   ],
   "LB1": [
@@ -5755,6 +5771,14 @@
         "SSB 5",
         "SSB 6"
       ]
+    },
+    {
+      "type": "VIDEO DISPLAY",
+      "qty": 1
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 1
     }
   ],
   "LM": [
@@ -6019,6 +6043,40 @@
         "SSB 7",
         "SSB 8"
       ]
+    },
+    {
+      "type": "HEAT EXCHANGER",
+      "qty": 3,
+      "items": [
+        "ATB 1",
+        "ATB 2",
+        "ATB 3"
+      ]
+    },
+    {
+      "type": "CDWP",
+      "qty": 3,
+      "items": [
+        "CDWP 1",
+        "CDWP 2",
+        "CDWP 3"
+      ]
+    },
+    {
+      "type": "WATER TANK",
+      "qty": 1
+    },
+    {
+      "type": "DOMESTIC COLD WATER SUCTION PUMP",
+      "qty": 1
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 1
+    },
+    {
+      "type": "MSB",
+      "qty": 1
     }
   ],
   "LP1": [
@@ -6320,6 +6378,160 @@
         "SSB 9",
         "SSB 10",
         "SSB 11"
+      ]
+    },
+    {
+      "type": "BMS",
+      "qty": 1
+    },
+    {
+      "type": "EMS SERVER",
+      "qty": 1
+    },
+    {
+      "type": "FIREMAN INTERCOM PANEL",
+      "qty": 1
+    },
+    {
+      "type": "LIFT PC AND INTERCOM",
+      "qty": 1
+    },
+    {
+      "type": "MAIN FIRE ALARM PANEL",
+      "qty": 1
+    },
+    {
+      "type": "ROLLER SHUTTER",
+      "qty": 2,
+      "items": [
+        "ROLLER SHUTTER 01 - RUMAH SAMPAH",
+        "ROLLER SHUTTER 02 - RUMAH SAMPAH"
+      ]
+    },
+    {
+      "type": "RAIN WATER PUMP",
+      "qty": 1
+    },
+    {
+      "type": "SPKA",
+      "qty": 1
+    },
+    {
+      "type": "SPRINKLER DUTY PUMP CONTROL PANEL-STAGE2",
+      "qty": 1
+    },
+    {
+      "type": "SPRINKLER DUTY PUMP-STAGE2",
+      "qty": 1
+    },
+    {
+      "type": "SPRINKLER JOCKEY PUMP-STAGE2",
+      "qty": 1
+    },
+    {
+      "type": "SPRINKLER STANDBY PUMP-STAGE2",
+      "qty": 1
+    },
+    {
+      "type": "SPRINKLER SYSTEM STAGE 1 (GRAVITY)",
+      "qty": 1
+    },
+    {
+      "type": "WET RISER DUTY PUMP -STAGE 1",
+      "qty": 1
+    },
+    {
+      "type": "WET RISER JOCKEY PUMP -STAGE 1",
+      "qty": 1
+    },
+    {
+      "type": "WET RISER PUMP CONTROL PANEL -STAGE 1",
+      "qty": 1
+    },
+    {
+      "type": "WET RISER STANDBY PUMP -STAGE 1",
+      "qty": 1
+    },
+    {
+      "type": "BATTERY DC SUPPLY",
+      "qty": 1
+    },
+    {
+      "type": "CAMS SYSTEM",
+      "qty": 1
+    },
+    {
+      "type": "CCTV SYSTEM",
+      "qty": 1
+    },
+    {
+      "type": "COMPUTER AIDED VIDEO INFORMATION DISPLAY",
+      "qty": 1
+    },
+    {
+      "type": "EARTHING SYSTEM",
+      "qty": 1
+    },
+    {
+      "type": "FEEDER PILLAR",
+      "qty": 2,
+      "items": [
+        "FEEDER PILLAR 1",
+        "FEEDER PILLAR 2"
+      ]
+    },
+    {
+      "type": "INDOOR & OUTDOOR ELECTRICAL DISPLAY BOARD",
+      "qty": 1
+    },
+    {
+      "type": "INFO CHANNEL SYSTEM",
+      "qty": 1
+    },
+    {
+      "type": "LIGHTING SYSTEM",
+      "qty": 1
+    },
+    {
+      "type": "MEDIUM VOLTAGE CABLE",
+      "qty": 1
+    },
+    {
+      "type": "MEDIUM VOLTAGE SWITCHGEAR",
+      "qty": 7,
+      "items": [
+        "MV SWITCHGEAR 1",
+        "MV SWITCHGEAR 2",
+        "MV SWITCHGEAR 3",
+        "MV SWITCHGEAR 4",
+        "MV SWITCHGEAR 5",
+        "MV SWITCHGEAR 6",
+        "MV SWITCHGEAR 7"
+      ]
+    },
+    {
+      "type": "OUTDOOR LIGHTING",
+      "qty": 1
+    },
+    {
+      "type": "PA SYSTEM",
+      "qty": 1
+    },
+    {
+      "type": "PAPER/XLPE/PVC INSULATED ARMOURED UNDERGROUND CABLE",
+      "qty": 1
+    },
+    {
+      "type": "VCB",
+      "qty": 7,
+      "items": [
+        "VCB 1",
+        "VCB 2",
+        "VCB 3",
+        "VCB 4",
+        "VCB 5",
+        "VCB 6",
+        "VCB 7"
       ]
     }
   ]
