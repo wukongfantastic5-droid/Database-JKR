@@ -5486,5 +5486,841 @@
       "type": "SMATV",
       "qty": 1
     }
+  ],
+  "LB2": [
+    {
+      "type": "ACSU",
+      "qty": 4,
+      "items": [
+        "ACSU 1",
+        "ACSU 2",
+        "ACSU 3",
+        "ACSU 4"
+      ]
+    },
+    {
+      "type": "FAN",
+      "qty": 24,
+      "items": [
+        "EXHAUST FAN 1",
+        "EXHAUST FAN 2",
+        "SMOKE SPILL FAN 1",
+        "SMOKE SPILL FAN 2",
+        "SMOKE SPILL FAN 3",
+        "SMOKE SPILL FAN 4",
+        "SMOKE SPILL FAN 5",
+        "SMOKE SPILL FAN 6",
+        "JET FAN 1",
+        "JET FAN 2",
+        "JET FAN 3",
+        "JET FAN 4",
+        "JET FAN 5",
+        "JET FAN 6",
+        "JET FAN 7",
+        "JET FAN 8",
+        "JET FAN 9",
+        "JET FAN 10",
+        "JET FAN 11",
+        "JET FAN 12",
+        "JET FAN 13",
+        "JET FAN 14",
+        "JET FAN 15",
+        "JET FAN 16"
+      ]
+    },
+    {
+      "type": "FCU",
+      "qty": 4,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2",
+        "FCU (CHW) 3",
+        "FCU (CHW) 4"
+      ]
+    },
+    {
+      "type": "FIRE FIGHTING",
+      "qty": 23,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER ABC 7",
+        "FIRE EXTINGUISHER ABC 8",
+        "FIRE EXTINGUISHER ABC 9",
+        "FIRE EXTINGUISHER ABC 10",
+        "FIRE EXTINGUISHER ABC 11",
+        "FIRE EXTINGUISHER ABC 12",
+        "FIRE EXTINGUISHER ABC 13",
+        "FIRE EXTINGUISHER ABC 14",
+        "FIRE EXTINGUISHER ABC 15",
+        "FIRE EXTINGUISHER ABC 16",
+        "FIRE EXTINGUISHER ABC 17",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3",
+        "FIRE EXTINGUISHER CO2 4",
+        "FIRE EXTINGUISHER CO2 5",
+        "FIRE EXTINGUISHER CO2 6"
+      ]
+    },
+    {
+      "type": "LIFT",
+      "qty": 2,
+      "items": [
+        "LIFT-PL13 BASEMENT",
+        "LIFT-PL14 BASEMENT"
+      ]
+    },
+    {
+      "type": "SUMPUMP",
+      "qty": 6,
+      "items": [
+        "SUMPUMP 1",
+        "SUMPUMP 2",
+        "SUMPUMP 3",
+        "SUMPUMP 4",
+        "SUMPUMP 5",
+        "SUMPUMP 6"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    }
+  ],
+  "LB1": [
+    {
+      "type": "ACSU",
+      "qty": 5,
+      "items": [
+        "ACSU 1",
+        "ACSU 2",
+        "ACSU 3",
+        "ACSU 4",
+        "ACSU 5"
+      ]
+    },
+    {
+      "type": "AHU",
+      "qty": 2,
+      "items": [
+        "AHU 1",
+        "AHU 2"
+      ]
+    },
+    {
+      "type": "AIR FILTER",
+      "qty": 2,
+      "items": [
+        "ELECTRONIC AIR FLITER 1",
+        "ELECTRONIC AIR FLITER 2"
+      ]
+    },
+    {
+      "type": "FAN",
+      "qty": 25,
+      "items": [
+        "EXHAUST FAN 1",
+        "EXHAUST FAN 2",
+        "EXHAUST FAN 3",
+        "JET FAN 1",
+        "JET FAN 2",
+        "JET FAN 3",
+        "JET FAN 4",
+        "JET FAN 5",
+        "JET FAN 6",
+        "JET FAN 7",
+        "JET FAN 8",
+        "JET FAN 9",
+        "JET FAN 10",
+        "JET FAN 11",
+        "JET FAN 12",
+        "JET FAN 13",
+        "JET FAN 14",
+        "JET FAN 15",
+        "JET FAN 16",
+        "SMOKE SPILL FAN 1",
+        "SMOKE SPILL FAN 2",
+        "SMOKE SPILL FAN 3",
+        "SMOKE SPILL FAN 4",
+        "SMOKE SPILL FAN 5",
+        "SMOKE SPILL FAN 6"
+      ]
+    },
+    {
+      "type": "FCU",
+      "qty": 4,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2",
+        "FCU (CHW) 3",
+        "FCU (CHW) 4"
+      ]
+    },
+    {
+      "type": "FIRE FIGHTING",
+      "qty": 23,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER ABC 7",
+        "FIRE EXTINGUISHER ABC 8",
+        "FIRE EXTINGUISHER ABC 9",
+        "FIRE EXTINGUISHER ABC 10",
+        "FIRE EXTINGUISHER ABC 11",
+        "FIRE EXTINGUISHER ABC 12",
+        "FIRE EXTINGUISHER ABC 13",
+        "FIRE EXTINGUISHER ABC 14",
+        "FIRE EXTINGUISHER ABC 15",
+        "FIRE EXTINGUISHER ABC 16",
+        "FIRE EXTINGUISHER ABC 17",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3",
+        "FIRE EXTINGUISHER CO2 4",
+        "FIRE EXTINGUISHER CO2 5",
+        "FIRE EXTINGUISHER CO2 6"
+      ]
+    },
+    {
+      "type": "SUMPUMP",
+      "qty": 1
+    },
+    {
+      "type": "VSD",
+      "qty": 2,
+      "items": [
+        "VSD 1",
+        "VSD 2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 4,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 1
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 1
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 1
+    },
+    {
+      "type": "PA SYSTEM",
+      "qty": 1
+    },
+    {
+      "type": "S/S/O",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 6,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5",
+        "SSB 6"
+      ]
+    }
+  ],
+  "LM": [
+    {
+      "type": "WATER COOLED CHILLER",
+      "qty": 3,
+      "items": [
+        "WATER COOLED CHILLER 1",
+        "WATER COOLED CHILLER 2",
+        "WATER COOLED CHILLER 3"
+      ]
+    },
+    {
+      "type": "CHWP",
+      "qty": 3,
+      "items": [
+        "CHWP 1",
+        "CHWP 2",
+        "CHWP 3"
+      ]
+    },
+    {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2"
+      ]
+    },
+    {
+      "type": "AHU",
+      "qty": 1
+    },
+    {
+      "type": "FAN",
+      "qty": 27,
+      "items": [
+        "EXHAUST FAN 1",
+        "EXHAUST FAN 2",
+        "EXHAUST FAN 3",
+        "EXHAUST FAN 4",
+        "SMOKE SPILL FAN 1",
+        "SMOKE SPILL FAN 2",
+        "SMOKE SPILL FAN 3",
+        "SMOKE SPILL FAN 4",
+        "SMOKE SPILL FAN 5",
+        "SMOKE SPILL FAN 6",
+        "SMOKE SPILL FAN 7",
+        "SMOKE SPILL FAN 8",
+        "JET FAN 1",
+        "JET FAN 2",
+        "JET FAN 3",
+        "JET FAN 4",
+        "JET FAN 5",
+        "JET FAN 6",
+        "JET FAN 7",
+        "JET FAN 8",
+        "JET FAN 9",
+        "JET FAN 10",
+        "JET FAN 11",
+        "JET FAN 12",
+        "JET FAN 13",
+        "JET FAN 14",
+        "JET FAN 15"
+      ]
+    },
+    {
+      "type": "FIRE FIGHTING",
+      "qty": 39,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER ABC 7",
+        "FIRE EXTINGUISHER ABC 8",
+        "FIRE EXTINGUISHER ABC 9",
+        "FIRE EXTINGUISHER ABC 10",
+        "FIRE EXTINGUISHER ABC 11",
+        "FIRE EXTINGUISHER ABC 12",
+        "FIRE EXTINGUISHER ABC 13",
+        "FIRE EXTINGUISHER ABC 14",
+        "FIRE EXTINGUISHER ABC 15",
+        "FIRE EXTINGUISHER ABC 16",
+        "FIRE EXTINGUISHER ABC 17",
+        "FIRE EXTINGUISHER ABC 18",
+        "FIRE EXTINGUISHER ABC 19",
+        "FIRE EXTINGUISHER ABC 20",
+        "FIRE EXTINGUISHER ABC 21",
+        "FIRE EXTINGUISHER ABC 22",
+        "FIRE EXTINGUISHER ABC 23",
+        "FIRE EXTINGUISHER ABC 24",
+        "FIRE EXTINGUISHER ABC 25",
+        "FIRE EXTINGUISHER ABC 26",
+        "FIRE EXTINGUISHER ABC 27",
+        "FIRE EXTINGUISHER ABC 28",
+        "FIRE EXTINGUISHER ABC 29",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3",
+        "FIRE EXTINGUISHER CO2 4",
+        "FIRE EXTINGUISHER CO2 5",
+        "FIRE EXTINGUISHER CO2 6",
+        "FIRE EXTINGUISHER CO2 7",
+        "FIRE EXTINGUISHER CO2 8",
+        "FIRE EXTINGUISHER CO2 9",
+        "FIRE EXTINGUISHER CO2 10"
+      ]
+    },
+    {
+      "type": "FM 200",
+      "qty": 1
+    },
+    {
+      "type": "TANDAS",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "VAV",
+      "qty": 8,
+      "items": [
+        "VAV 1",
+        "VAV 2",
+        "VAV 3",
+        "VAV 4",
+        "VAV 5",
+        "VAV 6",
+        "VAV 7",
+        "VAV 8"
+      ]
+    },
+    {
+      "type": "VSD",
+      "qty": 1
+    },
+    {
+      "type": "DB",
+      "qty": 12,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10",
+        "DB 11",
+        "DB 12"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 5,
+      "items": [
+        "EL 1",
+        "EL 2",
+        "EL 3",
+        "EL 4",
+        "EL 5"
+      ]
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 5,
+      "items": [
+        "EXIT SIGN 1",
+        "EXIT SIGN 2",
+        "EXIT SIGN 3",
+        "EXIT SIGN 4",
+        "EXIT SIGN 5"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 5,
+      "items": [
+        "LUMINARIES 1",
+        "LUMINARIES 2",
+        "LUMINARIES 3",
+        "LUMINARIES 4",
+        "LUMINARIES 5"
+      ]
+    },
+    {
+      "type": "S/S/O",
+      "qty": 5,
+      "items": [
+        "S/S/O 1",
+        "S/S/O 2",
+        "S/S/O 3",
+        "S/S/O 4",
+        "S/S/O 5"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 3,
+      "items": [
+        "FIREMAN SWITCH 1",
+        "FIREMAN SWITCH 2",
+        "FIREMAN SWITCH 3"
+      ]
+    },
+    {
+      "type": "FAN",
+      "qty": 1,
+      "items": [
+        "FAN 1"
+      ]
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 2,
+      "items": [
+        "PANIC BUTTON 1",
+        "PANIC BUTTON 2"
+      ]
+    },
+    {
+      "type": "RMU",
+      "qty": 1
+    },
+    {
+      "type": "TX",
+      "qty": 1
+    },
+    {
+      "type": "SWITCH ROOM HV",
+      "qty": 1
+    },
+    {
+      "type": "ACB",
+      "qty": 1
+    },
+    {
+      "type": "CAP BANK",
+      "qty": 1
+    },
+    {
+      "type": "LV ROOM",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 8,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5",
+        "SSB 6",
+        "SSB 7",
+        "SSB 8"
+      ]
+    }
+  ],
+  "LP1": [
+    {
+      "type": "ACSU",
+      "qty": 4,
+      "items": [
+        "ACSU 1",
+        "ACSU 2",
+        "ACSU 3",
+        "ACSU 4"
+      ]
+    },
+    {
+      "type": "FAN",
+      "qty": 21,
+      "items": [
+        "EXHAUST FAN 1",
+        "EXHAUST FAN 2",
+        "EXHAUST FAN 3",
+        "EXHAUST FAN 4",
+        "EXHAUST FAN 5",
+        "SMOKE SPILL FAN 1",
+        "SMOKE SPILL FAN 2",
+        "SMOKE SPILL FAN 3",
+        "SMOKE SPILL FAN 4",
+        "SMOKE SPILL FAN 5",
+        "SMOKE SPILL FAN 6",
+        "JET FAN 1",
+        "JET FAN 2",
+        "JET FAN 3",
+        "JET FAN 4",
+        "JET FAN 5",
+        "JET FAN 6",
+        "JET FAN 7",
+        "JET FAN 8",
+        "JET FAN 9",
+        "JET FAN 10"
+      ]
+    },
+    {
+      "type": "FCU",
+      "qty": 4,
+      "items": [
+        "FCU (CHW) 1",
+        "FCU (CHW) 2",
+        "FCU (CHW) 3",
+        "FCU (CHW) 4"
+      ]
+    },
+    {
+      "type": "FIRE FIGHTING",
+      "qty": 41,
+      "items": [
+        "FIRE EXTINGUISHER ABC 1",
+        "FIRE EXTINGUISHER ABC 2",
+        "FIRE EXTINGUISHER ABC 3",
+        "FIRE EXTINGUISHER ABC 4",
+        "FIRE EXTINGUISHER ABC 5",
+        "FIRE EXTINGUISHER ABC 6",
+        "FIRE EXTINGUISHER ABC 7",
+        "FIRE EXTINGUISHER ABC 8",
+        "FIRE EXTINGUISHER ABC 9",
+        "FIRE EXTINGUISHER ABC 10",
+        "FIRE EXTINGUISHER ABC 11",
+        "FIRE EXTINGUISHER ABC 12",
+        "FIRE EXTINGUISHER ABC 13",
+        "FIRE EXTINGUISHER ABC 14",
+        "FIRE EXTINGUISHER ABC 15",
+        "FIRE EXTINGUISHER ABC 16",
+        "FIRE EXTINGUISHER ABC 17",
+        "FIRE EXTINGUISHER ABC 18",
+        "FIRE EXTINGUISHER ABC 19",
+        "FIRE EXTINGUISHER ABC 20",
+        "FIRE EXTINGUISHER ABC 21",
+        "FIRE EXTINGUISHER ABC 22",
+        "FIRE EXTINGUISHER ABC 23",
+        "FIRE EXTINGUISHER ABC 24",
+        "FIRE EXTINGUISHER ABC 25",
+        "FIRE EXTINGUISHER ABC 26",
+        "FIRE EXTINGUISHER ABC 27",
+        "FIRE EXTINGUISHER ABC 28",
+        "FIRE EXTINGUISHER ABC 29",
+        "FIRE EXTINGUISHER ABC 30",
+        "FIRE EXTINGUISHER CO2 1",
+        "FIRE EXTINGUISHER CO2 2",
+        "FIRE EXTINGUISHER CO2 3",
+        "FIRE EXTINGUISHER CO2 4",
+        "FIRE EXTINGUISHER CO2 5",
+        "FIRE EXTINGUISHER CO2 6",
+        "FIRE EXTINGUISHER CO2 7",
+        "FIRE EXTINGUISHER CO2 8",
+        "FIRE EXTINGUISHER CO2 9",
+        "FIRE EXTINGUISHER CO2 10",
+        "FIRE EXTINGUISHER CO2 11"
+      ]
+    },
+    {
+      "type": "FM 200",
+      "qty": 4,
+      "items": [
+        "FM 200 1",
+        "FM 200 2",
+        "FM 200 3",
+        "FM 200 4"
+      ]
+    },
+    {
+      "type": "TANDAS",
+      "qty": 2,
+      "items": [
+        "HAND DRYER 1",
+        "HAND DRYER 2"
+      ]
+    },
+    {
+      "type": "HYDRANT PILLAR",
+      "qty": 2,
+      "items": [
+        "HYDRANT PILLAR 1",
+        "HYDRANT PILLAR 2"
+      ]
+    },
+    {
+      "type": "LIFT",
+      "qty": 1,
+      "items": [
+        "LIFT-FL2"
+      ]
+    },
+    {
+      "type": "DB",
+      "qty": 12,
+      "items": [
+        "DB 1",
+        "DB 2",
+        "DB 3",
+        "DB 4",
+        "DB 5",
+        "DB 6",
+        "DB 7",
+        "DB 8",
+        "DB 9",
+        "DB 10",
+        "DB 11",
+        "DB 12"
+      ]
+    },
+    {
+      "type": "EL",
+      "qty": 5,
+      "items": [
+        "EL 1",
+        "EL 2",
+        "EL 3",
+        "EL 4",
+        "EL 5"
+      ]
+    },
+    {
+      "type": "EXIT SIGN",
+      "qty": 5,
+      "items": [
+        "EXIT SIGN 1",
+        "EXIT SIGN 2",
+        "EXIT SIGN 3",
+        "EXIT SIGN 4",
+        "EXIT SIGN 5"
+      ]
+    },
+    {
+      "type": "LUMINARIES",
+      "qty": 5,
+      "items": [
+        "LUMINARIES 1",
+        "LUMINARIES 2",
+        "LUMINARIES 3",
+        "LUMINARIES 4",
+        "LUMINARIES 5"
+      ]
+    },
+    {
+      "type": "S/S/O",
+      "qty": 5,
+      "items": [
+        "S/S/O 1",
+        "S/S/O 2",
+        "S/S/O 3",
+        "S/S/O 4",
+        "S/S/O 5"
+      ]
+    },
+    {
+      "type": "FIREMAN SWITCH",
+      "qty": 7,
+      "items": [
+        "FIREMAN SWITCH 1",
+        "FIREMAN SWITCH 2",
+        "FIREMAN SWITCH 3",
+        "FIREMAN SWITCH 4",
+        "FIREMAN SWITCH 5",
+        "FIREMAN SWITCH 6",
+        "FIREMAN SWITCH 7"
+      ]
+    },
+    {
+      "type": "PANIC BUTTON",
+      "qty": 3,
+      "items": [
+        "PANIC BUTTON 1",
+        "PANIC BUTTON 2",
+        "PANIC BUTTON 3"
+      ]
+    },
+    {
+      "type": "BOOM GATE",
+      "qty": 4,
+      "items": [
+        "BOOM GATE 1",
+        "BOOM GATE 2",
+        "BOOM GATE 3",
+        "BOOM GATE 4"
+      ]
+    },
+    {
+      "type": "GENSET",
+      "qty": 2,
+      "items": [
+        "GENSET 1",
+        "GENSET 2"
+      ]
+    },
+    {
+      "type": "TX",
+      "qty": 2,
+      "items": [
+        "TX 1",
+        "TX 2"
+      ]
+    },
+    {
+      "type": "MSB",
+      "qty": 2,
+      "items": [
+        "MSB 1",
+        "MSB 2"
+      ]
+    },
+    {
+      "type": "CAP BANK",
+      "qty": 2,
+      "items": [
+        "CAP BANK 1",
+        "CAP BANK 2"
+      ]
+    },
+    {
+      "type": "RMU",
+      "qty": 1
+    },
+    {
+      "type": "METERING (VOLT & AMPS)",
+      "qty": 8,
+      "items": [
+        "METERING 1",
+        "METERING 2",
+        "METERING 3",
+        "METERING 4",
+        "METERING 5",
+        "METERING 6",
+        "METERING 7",
+        "METERING 8"
+      ]
+    },
+    {
+      "type": "SWITCH ROOM HV",
+      "qty": 1
+    },
+    {
+      "type": "ACB",
+      "qty": 1
+    },
+    {
+      "type": "LV ROOM",
+      "qty": 1
+    },
+    {
+      "type": "SSB",
+      "qty": 11,
+      "items": [
+        "SSB 1",
+        "SSB 2",
+        "SSB 3",
+        "SSB 4",
+        "SSB 5",
+        "SSB 6",
+        "SSB 7",
+        "SSB 8",
+        "SSB 9",
+        "SSB 10",
+        "SSB 11"
+      ]
+    }
   ]
 }
