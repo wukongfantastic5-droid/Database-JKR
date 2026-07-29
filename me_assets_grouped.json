@@ -5448,6 +5448,14 @@
   ],
   "L37": [
     {
+      "type": "FCU",
+      "qty": 2,
+      "items": [
+        "FCU 1",
+        "FCU 2"
+      ]
+    },
+    {
       "type": "FIRE FIGHTING",
       "qty": 2,
       "items": [
