@@ -1,43 +1,11 @@
 {
-    "L3":  [
-               {
-                   "type":  "ACSU",
-                   "qty":  4,
-                   "items":  [
-                                 "ACSU 1",
-                                 "ACSU 2",
-                                 "ACSU 3",
-                                 "ACSU 4"
-                             ]
-               },
+    "L7":  [
                {
                    "type":  "AHU",
                    "qty":  2,
                    "items":  [
                                  "AHU 1",
                                  "AHU 2"
-                             ]
-               },
-               {
-                   "type":  "AIR CURTAIN",
-                   "qty":  16,
-                   "items":  [
-                                 "AIR CURTAIN 1",
-                                 "AIR CURTAIN 2",
-                                 "AIR CURTAIN 3",
-                                 "AIR CURTAIN 4",
-                                 "AIR CURTAIN 5",
-                                 "AIR CURTAIN 6",
-                                 "AIR CURTAIN 7",
-                                 "AIR CURTAIN 8",
-                                 "AIR CURTAIN 9",
-                                 "AIR CURTAIN 10",
-                                 "AIR CURTAIN 11",
-                                 "AIR CURTAIN 12",
-                                 "AIR CURTAIN 13",
-                                 "AIR CURTAIN 14",
-                                 "AIR CURTAIN 15",
-                                 "AIR CURTAIN 16"
                              ]
                },
                {
@@ -49,15 +17,8 @@
                              ]
                },
                {
-                   "type":  "AUDIO VISUAL",
-                   "qty":  1,
-                   "items":  [
-                                 "AUDIO VISUAL EQUIPMENT"
-                             ]
-               },
-               {
                    "type":  "DB",
-                   "qty":  16,
+                   "qty":  10,
                    "items":  [
                                  "DB 1",
                                  "DB 2",
@@ -68,82 +29,39 @@
                                  "DB 7",
                                  "DB 8",
                                  "DB 9",
-                                 "DB 10",
-                                 "DB 11",
-                                 "DB 12",
-                                 "DB 13",
-                                 "DB 14",
-                                 "DB 15",
-                                 "DB 16"
+                                 "DB 10"
                              ]
                },
                {
                    "type":  "EL",
-                   "qty":  2,
-                   "items":  [
-                                 "EL 1",
-                                 "EL 2"
-                             ]
+                   "qty":  1
                },
                {
                    "type":  "EXIT SIGN",
-                   "qty":  2,
-                   "items":  [
-                                 "EXIT SIGN 1",
-                                 "EXIT SIGN 2"
-                             ]
-               },
-               {
-                   "type":  "FAN",
-                   "qty":  7,
-                   "items":  [
-                                 "BIRFUCATED DUCT KITCHEN FAN EQUIPMENT 1",
-                                 "BIRFUCATED DUCT KITCHEN FAN EQUIPMENT 2",
-                                 "KITCHEN MECHANICAL EXAUST FAN 1",
-                                 "KITCHEN MECHANICAL EXAUST FAN 2",
-                                 "PRESSURISATION FAN 1",
-                                 "PRESSURISATION FAN 2",
-                                 "PRESSURISATION FAN 3"
-                             ]
+                   "qty":  1
                },
                {
                    "type":  "FCU",
-                   "qty":  6,
+                   "qty":  2,
                    "items":  [
-                                 "FCU (ACSU) 1",
-                                 "FCU (ACSU) 2",
-                                 "FCU (ACSU) 3",
-                                 "FCU (ACSU) 4",
                                  "FCU (CHW) 1",
                                  "FCU (CHW) 2"
                              ]
                },
                {
                    "type":  "FIRE FIGHTING",
-                   "qty":  17,
+                   "qty":  9,
                    "items":  [
                                  "FIRE EXTINGUISHER ABC 1",
                                  "FIRE EXTINGUISHER ABC 2",
                                  "FIRE EXTINGUISHER ABC 3",
                                  "FIRE EXTINGUISHER ABC 4",
                                  "FIRE EXTINGUISHER ABC 5",
-                                 "FIRE EXTINGUISHER ABC 6",
-                                 "FIRE EXTINGUISHER ABC 7",
-                                 "FIRE EXTINGUISHER ABC 8",
-                                 "FIRE EXTINGUISHER ABC 9",
-                                 "FIRE EXTINGUISHER ABC 10",
-                                 "FIRE EXTINGUISHER ABC 11",
-                                 "FIRE EXTINGUISHER ABC 12",
-                                 "FIRE EXTINGUISHER ABC 13",
                                  "FIRE EXTINGUISHER CO2 1",
                                  "FIRE EXTINGUISHER CO2 2",
                                  "FIRE EXTINGUISHER CO2 3",
                                  "FIREMAN SWITCH"
                              ]
-               },
-               {
-                   "type":  "GRID CONNECTED PHOTOVOLTAIC(PV)",
-                   "qty":  1
                },
                {
                    "type":  "TANDAS",
@@ -166,27 +84,10 @@
                              ]
                },
                {
-                   "type":  "KITCHEN EXHAUST HOOD",
-                   "qty":  6,
-                   "items":  [
-                                 "KITCHEN EXHAUST HOOD 1",
-                                 "KITCHEN EXHAUST HOOD 2",
-                                 "KITCHEN EXHAUST HOOD 3",
-                                 "KITCHEN EXHAUST HOOD 4",
-                                 "KITCHEN EXHAUST HOOD 5",
-                                 "KITCHEN EXHAUST HOOD 6"
-                             ]
-               },
-               {
                    "type":  "LIGHTING",
-                   "qty":  6,
+                   "qty":  1,
                    "items":  [
-                                 "LUMINARIES 1",
-                                 "LUMINARIES 2",
-                                 "OUTDOOR LIGHTING 1",
-                                 "OUTDOOR LIGHTING 2",
-                                 "OUTDOOR LIGHTING 3",
-                                 "OUTDOOR LIGHTING 4"
+                                 "LUMINARIES"
                              ]
                },
                {
@@ -194,46 +95,23 @@
                    "qty":  1
                },
                {
-                   "type":  "ROLLER SHUTTER",
-                   "qty":  12,
-                   "items":  [
-                                 "ROLLER SHUTTER 03 - KAFE A1",
-                                 "ROLLER SHUTTER 04 - KAFE A1",
-                                 "ROLLER SHUTTER 05 - KAFE A2",
-                                 "ROLLER SHUTTER 06 - KAFE A2",
-                                 "ROLLER SHUTTER 07 - KAFE A3",
-                                 "ROLLER SHUTTER 08 - KAFE A3",
-                                 "ROLLER SHUTTER 09 - KAFE B1",
-                                 "ROLLER SHUTTER 10 - KAFE B1",
-                                 "ROLLER SHUTTER 11 - KAFE B2",
-                                 "ROLLER SHUTTER 12 - KAFE B2",
-                                 "ROLLER SHUTTER 13 - KAFE B3",
-                                 "ROLLER SHUTTER 14 - KAFE B3"
-                             ]
-               },
-               {
                    "type":  "S/S/O",
-                   "qty":  2,
-                   "items":  [
-                                 "S/S/O 1",
-                                 "S/S/O 2"
-                             ]
+                   "qty":  1
                },
                {
                    "type":  "SSB",
-                   "qty":  6,
+                   "qty":  5,
                    "items":  [
                                  "SSB 1",
                                  "SSB 2",
                                  "SSB 3",
                                  "SSB 4",
-                                 "SSB 5",
-                                 "SSB 6"
+                                 "SSB 5"
                              ]
                },
                {
                    "type":  "VAV",
-                   "qty":  10,
+                   "qty":  12,
                    "items":  [
                                  "VAV 1",
                                  "VAV 2",
@@ -244,12 +122,10 @@
                                  "VAV 7",
                                  "VAV 8",
                                  "VAV 9",
-                                 "VAV 10"
+                                 "VAV 10",
+                                 "VAV 11",
+                                 "VAV 12"
                              ]
-               },
-               {
-                   "type":  "VISUAL PROJECTION",
-                   "qty":  1
                },
                {
                    "type":  "VSD",
@@ -257,22 +133,6 @@
                    "items":  [
                                  "VSD 1",
                                  "VSD 2"
-                             ]
-               },
-               {
-                   "type":  "WATER FILTER",
-                   "qty":  1
-               },
-               {
-                   "type":  "WET CHEMICAL SYSTEM",
-                   "qty":  6,
-                   "items":  [
-                                 "WET CHEMICAL SYSTEM - KAFETERIA 1",
-                                 "WET CHEMICAL SYSTEM - KAFETERIA 2",
-                                 "WET CHEMICAL SYSTEM - KAFETERIA 3",
-                                 "WET CHEMICAL SYSTEM - KAFETERIA 4",
-                                 "WET CHEMICAL SYSTEM - KAFETERIA 5",
-                                 "WET CHEMICAL SYSTEM - KAFETERIA 6"
                              ]
                },
                {
@@ -1044,6 +904,150 @@
                     "qty":  1
                 }
             ],
+    "L24":  [
+                {
+                    "type":  "AHU",
+                    "qty":  2,
+                    "items":  [
+                                  "AHU 1",
+                                  "AHU 2"
+                              ]
+                },
+                {
+                    "type":  "AIR FILTER",
+                    "qty":  2,
+                    "items":  [
+                                  "ELECTRONIC AIR FLITER 1",
+                                  "ELECTRONIC AIR FLITER 2"
+                              ]
+                },
+                {
+                    "type":  "DB",
+                    "qty":  10,
+                    "items":  [
+                                  "DB 1",
+                                  "DB 2",
+                                  "DB 3",
+                                  "DB 4",
+                                  "DB 5",
+                                  "DB 6",
+                                  "DB 7",
+                                  "DB 8",
+                                  "DB 9",
+                                  "DB 10"
+                              ]
+                },
+                {
+                    "type":  "EL",
+                    "qty":  1
+                },
+                {
+                    "type":  "EXIT SIGN",
+                    "qty":  1
+                },
+                {
+                    "type":  "FCU",
+                    "qty":  2,
+                    "items":  [
+                                  "FCU (CHW) 1",
+                                  "FCU (CHW) 2"
+                              ]
+                },
+                {
+                    "type":  "FIRE FIGHTING",
+                    "qty":  10,
+                    "items":  [
+                                  "FIRE EXTINGUISHER ABC 1",
+                                  "FIRE EXTINGUISHER ABC 2",
+                                  "FIRE EXTINGUISHER ABC 3",
+                                  "FIRE EXTINGUISHER ABC 4",
+                                  "FIRE EXTINGUISHER ABC 5",
+                                  "FIRE EXTINGUISHER ABC 6",
+                                  "FIRE EXTINGUISHER CO2 1",
+                                  "FIRE EXTINGUISHER CO2 2",
+                                  "FIRE EXTINGUISHER CO2 3",
+                                  "FIREMAN SWITCH"
+                              ]
+                },
+                {
+                    "type":  "TANDAS",
+                    "qty":  14,
+                    "items":  [
+                                  "HAND DRYER",
+                                  "EXHAUST FAN",
+                                  "LAMP",
+                                  "SWITCH",
+                                  "BLOWER",
+                                  "MIRROR",
+                                  "TILE",
+                                  "NOZZLE",
+                                  "WATER SUPPLY",
+                                  "TOILET BOWL",
+                                  "URINAL",
+                                  "WASH BASIN",
+                                  "SOAP DISPENSER",
+                                  "TOILET PAPER HOLDER"
+                              ]
+                },
+                {
+                    "type":  "LIGHTING",
+                    "qty":  1,
+                    "items":  [
+                                  "LUMINARIES"
+                              ]
+                },
+                {
+                    "type":  "PANIC BUTTON",
+                    "qty":  1
+                },
+                {
+                    "type":  "S/S/O",
+                    "qty":  1
+                },
+                {
+                    "type":  "SSB",
+                    "qty":  5,
+                    "items":  [
+                                  "SSB 1",
+                                  "SSB 2",
+                                  "SSB 3",
+                                  "SSB 4",
+                                  "SSB 5"
+                              ]
+                },
+                {
+                    "type":  "VAV",
+                    "qty":  10,
+                    "items":  [
+                                  "VAV 1",
+                                  "VAV 2",
+                                  "VAV 3",
+                                  "VAV 4",
+                                  "VAV 5",
+                                  "VAV 6",
+                                  "VAV 7",
+                                  "VAV 8",
+                                  "VAV 9",
+                                  "VAV 10"
+                              ]
+                },
+                {
+                    "type":  "VSD",
+                    "qty":  2,
+                    "items":  [
+                                  "VSD 1",
+                                  "VSD 2"
+                              ]
+                },
+                {
+                    "type":  "AIR COOLED CHILLER",
+                    "qty":  1
+                },
+                {
+                    "type":  "WATER COOLED CHILLER",
+                    "qty":  1
+                }
+            ],
     "L27":  [
                 {
                     "type":  "AHU",
@@ -1177,6 +1181,265 @@
                     "items":  [
                                   "VSD 1",
                                   "VSD 2"
+                              ]
+                },
+                {
+                    "type":  "AIR COOLED CHILLER",
+                    "qty":  1
+                },
+                {
+                    "type":  "WATER COOLED CHILLER",
+                    "qty":  1
+                }
+            ],
+    "L18":  [
+                {
+                    "type":  "ACB",
+                    "qty":  1
+                },
+                {
+                    "type":  "ACSU",
+                    "qty":  2,
+                    "items":  [
+                                  "ACSU 1",
+                                  "ACSU 2"
+                              ]
+                },
+                {
+                    "type":  "CAP BANK",
+                    "qty":  2,
+                    "items":  [
+                                  "CAP BANK 1",
+                                  "CAP BANK 2"
+                              ]
+                },
+                {
+                    "type":  "CHWP",
+                    "qty":  3,
+                    "items":  [
+                                  "SECONDARY CHILLED WATER PUMP (CHWP) 1",
+                                  "SECONDARY CHILLED WATER PUMP (CHWP) 2",
+                                  "SECONDARY CHILLED WATER PUMP (CHWP) 3"
+                              ]
+                },
+                {
+                    "type":  "COLD WATER PUMP",
+                    "qty":  1,
+                    "items":  [
+                                  "COLD WATER INTERMIDIATE SUCTION PUMP"
+                              ]
+                },
+                {
+                    "type":  "DB",
+                    "qty":  4,
+                    "items":  [
+                                  "DB 1",
+                                  "DB 2",
+                                  "DB 3",
+                                  "DB 4"
+                              ]
+                },
+                {
+                    "type":  "EL",
+                    "qty":  1
+                },
+                {
+                    "type":  "EXIT SIGN",
+                    "qty":  1
+                },
+                {
+                    "type":  "FAN",
+                    "qty":  13,
+                    "items":  [
+                                  "EXHAUST FAN 1",
+                                  "EXHAUST FAN 2",
+                                  "EXHAUST FAN 3",
+                                  "FAN 1",
+                                  "FAN 2",
+                                  "FRESH AIR FAN",
+                                  "PRESSURISATION FAN 1",
+                                  "PRESSURISATION FAN 2",
+                                  "PRESSURISATION FAN 3",
+                                  "PRESSURISATION FAN 4",
+                                  "SMOKE SPILL FAN 1",
+                                  "SMOKE SPILL FAN 2",
+                                  "SMOKE SPILL FAN 3"
+                              ]
+                },
+                {
+                    "type":  "FCU",
+                    "qty":  1,
+                    "items":  [
+                                  "FCU (CHW)"
+                              ]
+                },
+                {
+                    "type":  "FIRE FIGHTING",
+                    "qty":  13,
+                    "items":  [
+                                  "FIRE EXTINGUISHER ABC 1",
+                                  "FIRE EXTINGUISHER ABC 2",
+                                  "FIRE EXTINGUISHER ABC 3",
+                                  "FIRE EXTINGUISHER ABC 4",
+                                  "FIRE EXTINGUISHER ABC 5",
+                                  "FIRE EXTINGUISHER ABC 6",
+                                  "FIRE EXTINGUISHER ABC 7",
+                                  "FIRE EXTINGUISHER CO2 1",
+                                  "FIRE EXTINGUISHER CO2 2",
+                                  "FIRE EXTINGUISHER CO2 3",
+                                  "FIRE EXTINGUISHER CO2 4",
+                                  "FIRE EXTINGUISHER CO2 5",
+                                  "FIREMAN SWITCH"
+                              ]
+                },
+                {
+                    "type":  "FM 200",
+                    "qty":  2,
+                    "items":  [
+                                  "FM 200 1",
+                                  "FM 200 2"
+                              ]
+                },
+                {
+                    "type":  "HEAT EXCHANGER",
+                    "qty":  2,
+                    "items":  [
+                                  "HEAT EXCHANGER 1",
+                                  "HEAT EXCHANGER 2"
+                              ]
+                },
+                {
+                    "type":  "HEAT RECOVERY WHEEL",
+                    "qty":  1
+                },
+                {
+                    "type":  "LIFT LOWZONE",
+                    "qty":  6,
+                    "items":  [
+                                  "LIFT-PL07 LOWZONE",
+                                  "LIFT-PL08 LOWZONE",
+                                  "LIFT-PL09 LOWZONE",
+                                  "LIFT-PL10 LOWZONE",
+                                  "LIFT-PL11 LOWZONE",
+                                  "LIFT-PL12 LOWZONE"
+                              ]
+                },
+                {
+                    "type":  "LIGHTING",
+                    "qty":  1,
+                    "items":  [
+                                  "LUMINARIES"
+                              ]
+                },
+                {
+                    "type":  "LV ROOM",
+                    "qty":  1
+                },
+                {
+                    "type":  "METERING (VOLT \u0026 AMPS)",
+                    "qty":  1
+                },
+                {
+                    "type":  "MSB",
+                    "qty":  2,
+                    "items":  [
+                                  "MSB 1",
+                                  "MSB 2"
+                              ]
+                },
+                {
+                    "type":  "RMU",
+                    "qty":  1
+                },
+                {
+                    "type":  "S/S/O",
+                    "qty":  1
+                },
+                {
+                    "type":  "SPRINKLER CONTROL PANEL",
+                    "qty":  2,
+                    "items":  [
+                                  "SPRINKLER DUTY PUMP CONTROL PANEL-STAGE3",
+                                  "SPRINKLER DUTY PUMP CONTROL PANEL-STAGE4"
+                              ]
+                },
+                {
+                    "type":  "SPRINKLER PUMP",
+                    "qty":  6,
+                    "items":  [
+                                  "SPRINKLER DUTY PUMP-STAGE3",
+                                  "SPRINKLER DUTY PUMP-STAGE4",
+                                  "SPRINKLER JOCKEY PUMP-STAGE3",
+                                  "SPRINKLER JOCKEY PUMP-STAGE4",
+                                  "SPRINKLER STANDBY PUMP-STAGE3",
+                                  "SPRINKLER STANDBY PUMP-STAGE4"
+                              ]
+                },
+                {
+                    "type":  "SSB",
+                    "qty":  8,
+                    "items":  [
+                                  "SSB 1",
+                                  "SSB 2",
+                                  "SSB 3",
+                                  "SSB 4",
+                                  "SSB 5",
+                                  "SSB 6",
+                                  "SSB 7",
+                                  "SSB 8"
+                              ]
+                },
+                {
+                    "type":  "SWITCH ROOM HV",
+                    "qty":  1
+                },
+                {
+                    "type":  "TX",
+                    "qty":  2,
+                    "items":  [
+                                  "TX 1",
+                                  "TX 2"
+                              ]
+                },
+                {
+                    "type":  "WATER PUMP",
+                    "qty":  1,
+                    "items":  [
+                                  "TREATED GREY WATER INTERMEDIATE PUMP SET"
+                              ]
+                },
+                {
+                    "type":  "WATER TANK",
+                    "qty":  8,
+                    "items":  [
+                                  "CHILLED WATER EXPANSION TANK",
+                                  "COOLING TOWER MAKE UP WATER STORAGE TANK",
+                                  "DCW INTERMEDIATE STORAGE TANK 1(BASIN)",
+                                  "DCW INTERMEDIATE STORAGE TANK 2(WC\u0026URINAL)",
+                                  "DCW INTERMEDIATE SUCTION TANK",
+                                  "SPRINKLER TANK",
+                                  "TREATED WASTE WATER INTERMEDIATE TANK",
+                                  "WET RISER INTERMEDIATE TANK"
+                              ]
+                },
+                {
+                    "type":  "WET RISER CONTROL PANEL",
+                    "qty":  2,
+                    "items":  [
+                                  "WET RISER PUMP CONTROL PANEL -STAGE 2",
+                                  "WET RISER PUMP CONTROL PANEL -STAGE 3"
+                              ]
+                },
+                {
+                    "type":  "WET RISER PUMP",
+                    "qty":  6,
+                    "items":  [
+                                  "WET RISER DUTY PUMP -STAGE 2",
+                                  "WET RISER DUTY PUMP -STAGE 3",
+                                  "WET RISER JOCKEY PUMP -STAGE 2",
+                                  "WET RISER JOCKEY PUMP -STAGE 3",
+                                  "WET RISER STANDBY PUMP -STAGE 2",
+                                  "WET RISER STANDBY PUMP -STAGE 3"
                               ]
                 },
                 {
@@ -1718,147 +1981,152 @@
                     "qty":  1
                 }
             ],
-    "LB2":  [
-                {
-                    "type":  "ACSU",
-                    "qty":  4,
-                    "items":  [
-                                  "ACSU 1",
-                                  "ACSU 2",
-                                  "ACSU 3",
-                                  "ACSU 4"
-                              ]
-                },
-                {
-                    "type":  "FAN",
-                    "qty":  24,
-                    "items":  [
-                                  "EXHAUST FAN 1",
-                                  "EXHAUST FAN 2",
-                                  "SMOKE SPILL FAN 1",
-                                  "SMOKE SPILL FAN 2",
-                                  "SMOKE SPILL FAN 3",
-                                  "SMOKE SPILL FAN 4",
-                                  "SMOKE SPILL FAN 5",
-                                  "SMOKE SPILL FAN 6",
-                                  "JET FAN 1",
-                                  "JET FAN 2",
-                                  "JET FAN 3",
-                                  "JET FAN 4",
-                                  "JET FAN 5",
-                                  "JET FAN 6",
-                                  "JET FAN 7",
-                                  "JET FAN 8",
-                                  "JET FAN 9",
-                                  "JET FAN 10",
-                                  "JET FAN 11",
-                                  "JET FAN 12",
-                                  "JET FAN 13",
-                                  "JET FAN 14",
-                                  "JET FAN 15",
-                                  "JET FAN 16"
-                              ]
-                },
-                {
-                    "type":  "FCU",
-                    "qty":  4,
-                    "items":  [
-                                  "FCU (CHW) 1",
-                                  "FCU (CHW) 2",
-                                  "FCU (CHW) 3",
-                                  "FCU (CHW) 4"
-                              ]
-                },
-                {
-                    "type":  "FIRE FIGHTING",
-                    "qty":  23,
-                    "items":  [
-                                  "FIRE EXTINGUISHER ABC 1",
-                                  "FIRE EXTINGUISHER ABC 2",
-                                  "FIRE EXTINGUISHER ABC 3",
-                                  "FIRE EXTINGUISHER ABC 4",
-                                  "FIRE EXTINGUISHER ABC 5",
-                                  "FIRE EXTINGUISHER ABC 6",
-                                  "FIRE EXTINGUISHER ABC 7",
-                                  "FIRE EXTINGUISHER ABC 8",
-                                  "FIRE EXTINGUISHER ABC 9",
-                                  "FIRE EXTINGUISHER ABC 10",
-                                  "FIRE EXTINGUISHER ABC 11",
-                                  "FIRE EXTINGUISHER ABC 12",
-                                  "FIRE EXTINGUISHER ABC 13",
-                                  "FIRE EXTINGUISHER ABC 14",
-                                  "FIRE EXTINGUISHER ABC 15",
-                                  "FIRE EXTINGUISHER ABC 16",
-                                  "FIRE EXTINGUISHER ABC 17",
-                                  "FIRE EXTINGUISHER CO2 1",
-                                  "FIRE EXTINGUISHER CO2 2",
-                                  "FIRE EXTINGUISHER CO2 3",
-                                  "FIRE EXTINGUISHER CO2 4",
-                                  "FIRE EXTINGUISHER CO2 5",
-                                  "FIRE EXTINGUISHER CO2 6"
-                              ]
-                },
-                {
-                    "type":  "LIFT",
-                    "qty":  2,
-                    "items":  [
-                                  "LIFT-PL13 BASEMENT",
-                                  "LIFT-PL14 BASEMENT"
-                              ]
-                },
-                {
-                    "type":  "SUMPUMP",
-                    "qty":  6,
-                    "items":  [
-                                  "SUMPUMP 1",
-                                  "SUMPUMP 2",
-                                  "SUMPUMP 3",
-                                  "SUMPUMP 4",
-                                  "SUMPUMP 5",
-                                  "SUMPUMP 6"
-                              ]
-                },
-                {
-                    "type":  "EL",
-                    "qty":  1
-                },
-                {
-                    "type":  "EXIT SIGN",
-                    "qty":  1
-                },
-                {
-                    "type":  "LUMINARIES",
-                    "qty":  1
-                },
-                {
-                    "type":  "S/S/O",
-                    "qty":  1
-                },
-                {
-                    "type":  "GREY WATER FILTER",
-                    "qty":  1
-                },
-                {
-                    "type":  "GREY WATER PUMP",
-                    "qty":  1
-                },
-                {
-                    "type":  "IRRIGATION PUMP",
-                    "qty":  1
-                },
-                {
-                    "type":  "RAIN WATER FILTER",
-                    "qty":  1
-                },
-                {
-                    "type":  "AIR COOLED CHILLER",
-                    "qty":  1
-                },
-                {
-                    "type":  "WATER COOLED CHILLER",
-                    "qty":  1
-                }
-            ],
+    "L4":  [
+               {
+                   "type":  "AHU",
+                   "qty":  2,
+                   "items":  [
+                                 "AHU 1",
+                                 "AHU 2"
+                             ]
+               },
+               {
+                   "type":  "AIR FILTER",
+                   "qty":  2,
+                   "items":  [
+                                 "ELECTRONIC AIR FLITER 1",
+                                 "ELECTRONIC AIR FLITER 2"
+                             ]
+               },
+               {
+                   "type":  "DB",
+                   "qty":  10,
+                   "items":  [
+                                 "DB 1",
+                                 "DB 2",
+                                 "DB 3",
+                                 "DB 4",
+                                 "DB 5",
+                                 "DB 6",
+                                 "DB 7",
+                                 "DB 8",
+                                 "DB 9",
+                                 "DB 10"
+                             ]
+               },
+               {
+                   "type":  "EL",
+                   "qty":  1
+               },
+               {
+                   "type":  "EXIT SIGN",
+                   "qty":  1
+               },
+               {
+                   "type":  "FCU",
+                   "qty":  2,
+                   "items":  [
+                                 "FCU (CHW) 1",
+                                 "FCU (CHW) 2"
+                             ]
+               },
+               {
+                   "type":  "FIRE FIGHTING",
+                   "qty":  9,
+                   "items":  [
+                                 "FIRE EXTINGUISHER ABC 1",
+                                 "FIRE EXTINGUISHER ABC 2",
+                                 "FIRE EXTINGUISHER ABC 3",
+                                 "FIRE EXTINGUISHER ABC 4",
+                                 "FIRE EXTINGUISHER ABC 5",
+                                 "FIRE EXTINGUISHER CO2 1",
+                                 "FIRE EXTINGUISHER CO2 2",
+                                 "FIRE EXTINGUISHER CO2 3",
+                                 "FIREMAN SWITCH"
+                             ]
+               },
+               {
+                   "type":  "TANDAS",
+                   "qty":  14,
+                   "items":  [
+                                 "HAND DRYER",
+                                 "EXHAUST FAN",
+                                 "LAMP",
+                                 "SWITCH",
+                                 "BLOWER",
+                                 "MIRROR",
+                                 "TILE",
+                                 "NOZZLE",
+                                 "WATER SUPPLY",
+                                 "TOILET BOWL",
+                                 "URINAL",
+                                 "WASH BASIN",
+                                 "SOAP DISPENSER",
+                                 "TOILET PAPER HOLDER"
+                             ]
+               },
+               {
+                   "type":  "LIGHTING",
+                   "qty":  1,
+                   "items":  [
+                                 "LUMINARIES"
+                             ]
+               },
+               {
+                   "type":  "PANIC BUTTON",
+                   "qty":  1
+               },
+               {
+                   "type":  "S/S/O",
+                   "qty":  1
+               },
+               {
+                   "type":  "SSB",
+                   "qty":  6,
+                   "items":  [
+                                 "SSB 1",
+                                 "SSB 2",
+                                 "SSB 3",
+                                 "SSB 4",
+                                 "SSB 5",
+                                 "SSB 6"
+                             ]
+               },
+               {
+                   "type":  "VAV",
+                   "qty":  12,
+                   "items":  [
+                                 "VAV 1",
+                                 "VAV 2",
+                                 "VAV 3",
+                                 "VAV 4",
+                                 "VAV 5",
+                                 "VAV 6",
+                                 "VAV 7",
+                                 "VAV 8",
+                                 "VAV 9",
+                                 "VAV 10",
+                                 "VAV 11",
+                                 "VAV 12"
+                             ]
+               },
+               {
+                   "type":  "VSD",
+                   "qty":  2,
+                   "items":  [
+                                 "VSD 1",
+                                 "VSD 2"
+                             ]
+               },
+               {
+                   "type":  "AIR COOLED CHILLER",
+                   "qty":  1
+               },
+               {
+                   "type":  "WATER COOLED CHILLER",
+                   "qty":  1
+               }
+           ],
     "L1":  [
                {
                    "type":  "COOLING TOWER",
@@ -2176,151 +2444,6 @@
                                   "FIRE EXTINGUISHER ABC 4",
                                   "FIRE EXTINGUISHER ABC 5",
                                   "FIRE EXTINGUISHER ABC 6",
-                                  "FIRE EXTINGUISHER CO2 1",
-                                  "FIRE EXTINGUISHER CO2 2",
-                                  "FIRE EXTINGUISHER CO2 3",
-                                  "FIREMAN SWITCH"
-                              ]
-                },
-                {
-                    "type":  "TANDAS",
-                    "qty":  14,
-                    "items":  [
-                                  "HAND DRYER",
-                                  "EXHAUST FAN",
-                                  "LAMP",
-                                  "SWITCH",
-                                  "BLOWER",
-                                  "MIRROR",
-                                  "TILE",
-                                  "NOZZLE",
-                                  "WATER SUPPLY",
-                                  "TOILET BOWL",
-                                  "URINAL",
-                                  "WASH BASIN",
-                                  "SOAP DISPENSER",
-                                  "TOILET PAPER HOLDER"
-                              ]
-                },
-                {
-                    "type":  "LIGHTING",
-                    "qty":  1,
-                    "items":  [
-                                  "LUMINARIES"
-                              ]
-                },
-                {
-                    "type":  "PANIC BUTTON",
-                    "qty":  1
-                },
-                {
-                    "type":  "S/S/O",
-                    "qty":  1
-                },
-                {
-                    "type":  "SSB",
-                    "qty":  5,
-                    "items":  [
-                                  "SSB 1",
-                                  "SSB 2",
-                                  "SSB 3",
-                                  "SSB 4",
-                                  "SSB 5"
-                              ]
-                },
-                {
-                    "type":  "VAV",
-                    "qty":  12,
-                    "items":  [
-                                  "VAV 1",
-                                  "VAV 2",
-                                  "VAV 3",
-                                  "VAV 4",
-                                  "VAV 5",
-                                  "VAV 6",
-                                  "VAV 7",
-                                  "VAV 8",
-                                  "VAV 9",
-                                  "VAV 10",
-                                  "VAV 11",
-                                  "VAV 12"
-                              ]
-                },
-                {
-                    "type":  "VSD",
-                    "qty":  2,
-                    "items":  [
-                                  "VSD 1",
-                                  "VSD 2"
-                              ]
-                },
-                {
-                    "type":  "AIR COOLED CHILLER",
-                    "qty":  1
-                },
-                {
-                    "type":  "WATER COOLED CHILLER",
-                    "qty":  1
-                }
-            ],
-    "L13":  [
-                {
-                    "type":  "AHU",
-                    "qty":  2,
-                    "items":  [
-                                  "AHU 1",
-                                  "AHU 2"
-                              ]
-                },
-                {
-                    "type":  "AIR FILTER",
-                    "qty":  2,
-                    "items":  [
-                                  "ELECTRONIC AIR FLITER 1",
-                                  "ELECTRONIC AIR FLITER 2"
-                              ]
-                },
-                {
-                    "type":  "DB",
-                    "qty":  10,
-                    "items":  [
-                                  "DB 1",
-                                  "DB 2",
-                                  "DB 3",
-                                  "DB 4",
-                                  "DB 5",
-                                  "DB 6",
-                                  "DB 7",
-                                  "DB 8",
-                                  "DB 9",
-                                  "DB 10"
-                              ]
-                },
-                {
-                    "type":  "EL",
-                    "qty":  1
-                },
-                {
-                    "type":  "EXIT SIGN",
-                    "qty":  1
-                },
-                {
-                    "type":  "FCU",
-                    "qty":  2,
-                    "items":  [
-                                  "FCU (CHW) 1",
-                                  "FCU (CHW) 2"
-                              ]
-                },
-                {
-                    "type":  "FIRE FIGHTING",
-                    "qty":  9,
-                    "items":  [
-                                  "FIRE EXTINGUISHER ABC 1",
-                                  "FIRE EXTINGUISHER ABC 2",
-                                  "FIRE EXTINGUISHER ABC 3",
-                                  "FIRE EXTINGUISHER ABC 4",
-                                  "FIRE EXTINGUISHER ABC 5",
                                   "FIRE EXTINGUISHER CO2 1",
                                   "FIRE EXTINGUISHER CO2 2",
                                   "FIRE EXTINGUISHER CO2 3",
@@ -2781,143 +2904,6 @@
                                   "FIRE EXTINGUISHER ABC 4",
                                   "FIRE EXTINGUISHER ABC 5",
                                   "FIRE EXTINGUISHER ABC 6",
-                                  "FIRE EXTINGUISHER CO2 1",
-                                  "FIRE EXTINGUISHER CO2 2",
-                                  "FIRE EXTINGUISHER CO2 3",
-                                  "FIREMAN SWITCH"
-                              ]
-                },
-                {
-                    "type":  "TANDAS",
-                    "qty":  14,
-                    "items":  [
-                                  "HAND DRYER",
-                                  "EXHAUST FAN",
-                                  "LAMP",
-                                  "SWITCH",
-                                  "BLOWER",
-                                  "MIRROR",
-                                  "TILE",
-                                  "NOZZLE",
-                                  "WATER SUPPLY",
-                                  "TOILET BOWL",
-                                  "URINAL",
-                                  "WASH BASIN",
-                                  "SOAP DISPENSER",
-                                  "TOILET PAPER HOLDER"
-                              ]
-                },
-                {
-                    "type":  "LIGHTING",
-                    "qty":  1,
-                    "items":  [
-                                  "LUMINARIES"
-                              ]
-                },
-                {
-                    "type":  "PANIC BUTTON",
-                    "qty":  1
-                },
-                {
-                    "type":  "S/S/O",
-                    "qty":  1
-                },
-                {
-                    "type":  "SSB",
-                    "qty":  5,
-                    "items":  [
-                                  "SSB 1",
-                                  "SSB 2",
-                                  "SSB 3",
-                                  "SSB 4",
-                                  "SSB 5"
-                              ]
-                },
-                {
-                    "type":  "VAV",
-                    "qty":  12,
-                    "items":  [
-                                  "VAV 1",
-                                  "VAV 2",
-                                  "VAV 3",
-                                  "VAV 4",
-                                  "VAV 5",
-                                  "VAV 6",
-                                  "VAV 7",
-                                  "VAV 8",
-                                  "VAV 9",
-                                  "VAV 10",
-                                  "VAV 11",
-                                  "VAV 12"
-                              ]
-                },
-                {
-                    "type":  "VSD",
-                    "qty":  2,
-                    "items":  [
-                                  "VSD 1",
-                                  "VSD 2"
-                              ]
-                },
-                {
-                    "type":  "AIR COOLED CHILLER",
-                    "qty":  1
-                },
-                {
-                    "type":  "WATER COOLED CHILLER",
-                    "qty":  1
-                }
-            ],
-    "L16":  [
-                {
-                    "type":  "AIR FILTER",
-                    "qty":  2,
-                    "items":  [
-                                  "ELECTRONIC AIR FLITER 1",
-                                  "ELECTRONIC AIR FLITER 2"
-                              ]
-                },
-                {
-                    "type":  "DB",
-                    "qty":  10,
-                    "items":  [
-                                  "DB 1",
-                                  "DB 2",
-                                  "DB 3",
-                                  "DB 4",
-                                  "DB 5",
-                                  "DB 6",
-                                  "DB 7",
-                                  "DB 8",
-                                  "DB 9",
-                                  "DB 10"
-                              ]
-                },
-                {
-                    "type":  "EL",
-                    "qty":  1
-                },
-                {
-                    "type":  "EXIT SIGN",
-                    "qty":  1
-                },
-                {
-                    "type":  "FCU",
-                    "qty":  2,
-                    "items":  [
-                                  "FCU (CHW) 1",
-                                  "FCU (CHW) 2"
-                              ]
-                },
-                {
-                    "type":  "FIRE FIGHTING",
-                    "qty":  9,
-                    "items":  [
-                                  "FIRE EXTINGUISHER ABC 1",
-                                  "FIRE EXTINGUISHER ABC 2",
-                                  "FIRE EXTINGUISHER ABC 3",
-                                  "FIRE EXTINGUISHER ABC 4",
-                                  "FIRE EXTINGUISHER ABC 5",
                                   "FIRE EXTINGUISHER CO2 1",
                                   "FIRE EXTINGUISHER CO2 2",
                                   "FIRE EXTINGUISHER CO2 3",
@@ -3585,162 +3571,149 @@
                     "qty":  1
                 }
             ],
-    "LP4A":  [
-                 {
-                     "items":  [
-                                   "ACSU 1",
-                                   "ACSU 2"
-                               ],
-                     "type":  "ACSU",
-                     "qty":  2
-                 },
-                 {
-                     "items":  [
-                                   "EXHAUST FAN 1",
-                                   "EXHAUST FAN 2",
-                                   "EXHAUST FAN 3",
-                                   "EXHAUST FAN 4",
-                                   "JET FAN 1",
-                                   "JET FAN 2",
-                                   "JET FAN 3",
-                                   "JET FAN 4",
-                                   "SMOKE SPILL FAN 1",
-                                   "SMOKE SPILL FAN 2"
-                               ],
-                     "type":  "FAN",
-                     "qty":  10
-                 },
-                 {
-                     "items":  [
-                                   "FCU (CHW) 1",
-                                   "FCU (CHW) 2"
-                               ],
-                     "type":  "FCU",
-                     "qty":  2
-                 },
-                 {
-                     "items":  [
-                                   "FIRE EXTINGUISHER ABC 1",
-                                   "FIRE EXTINGUISHER ABC 2",
-                                   "FIRE EXTINGUISHER ABC 3",
-                                   "FIRE EXTINGUISHER ABC 4",
-                                   "FIRE EXTINGUISHER ABC 5",
-                                   "FIRE EXTINGUISHER ABC 6",
-                                   "FIRE EXTINGUISHER ABC 7",
-                                   "FIRE EXTINGUISHER ABC 8",
-                                   "FIRE EXTINGUISHER CO2 1",
-                                   "FIRE EXTINGUISHER CO2 2"
-                               ],
-                     "type":  "FIRE FIGHTING",
-                     "qty":  10
-                 },
-                 {
-                     "items":  [
-                                   "HOSE REEL 1",
-                                   "HOSE REEL 2"
-                               ],
-                     "type":  "HOSE REEL",
-                     "qty":  2
-                 },
-                 {
-                     "items":  [
-                                   "LIFT-PARK 1",
-                                   "LIFT-PARK 2"
-                               ],
-                     "type":  "LIFT",
-                     "qty":  2
-                 },
-                 {
-                     "items":  [
-                                   "DB 1",
-                                   "DB 2"
-                               ],
-                     "type":  "DB",
-                     "qty":  2
-                 },
-                 {
-                     "type":  "EL",
-                     "qty":  1
-                 },
-                 {
-                     "items":  [
-                                   "EXIT SIGN 1",
-                                   "EXIT SIGN 2"
-                               ],
-                     "type":  "EXIT SIGN",
-                     "qty":  2
-                 },
-                 {
-                     "items":  [
-                                   "LUMINARIES 1",
-                                   "LUMINARIES 2"
-                               ],
-                     "type":  "LUMINARIES",
-                     "qty":  2
-                 },
-                 {
-                     "items":  [
-                                   "S/S/O 1",
-                                   "S/S/O 2"
-                               ],
-                     "type":  "S/S/O",
-                     "qty":  2
-                 },
-                 {
-                     "items":  [
-                                   "FIREMAN SWITCH 1",
-                                   "FIREMAN SWITCH 2"
-                               ],
-                     "type":  "FIREMAN SWITCH",
-                     "qty":  2
-                 },
-                 {
-                     "type":  "PANIC BUTTON",
-                     "qty":  1
-                 },
-                 {
-                     "items":  [
-                                   "BOOM GATE 1",
-                                   "BOOM GATE 2"
-                               ],
-                     "type":  "BOOM GATE",
-                     "qty":  2
-                 },
-                 {
-                     "type":  "ROLLER SHUTTER",
-                     "qty":  1
-                 },
-                 {
-                     "items":  [
-                                   "WATER PUMP 1",
-                                   "WATER PUMP 2"
-                               ],
-                     "type":  "WATER PUMP",
-                     "qty":  2
-                 },
-                 {
-                     "type":  "WATER TANK",
-                     "qty":  1
-                 },
-                 {
-                     "type":  "AIR COOLED CHILLER",
-                     "qty":  1
-                 },
-                 {
-                     "type":  "WATER COOLED CHILLER",
-                     "qty":  1
-                 },
-                 {
-                     "items":  [
-                                   "BLIND SPOT MIRROR 1",
-                                   "BLIND SPOT MIRROR 2",
-                                   "BLIND SPOT MIRROR 3",
-                                   "BLIND SPOT MIRROR 4"
-                               ],
-                     "type":  "PARKING",
-                     "qty":  1
-                 }
-             ],
+    "L15":  [
+                {
+                    "type":  "AHU",
+                    "qty":  2,
+                    "items":  [
+                                  "AHU 1",
+                                  "AHU 2"
+                              ]
+                },
+                {
+                    "type":  "AIR FILTER",
+                    "qty":  2,
+                    "items":  [
+                                  "ELECTRONIC AIR FLITER 1",
+                                  "ELECTRONIC AIR FLITER 2"
+                              ]
+                },
+                {
+                    "type":  "DB",
+                    "qty":  10,
+                    "items":  [
+                                  "DB 1",
+                                  "DB 2",
+                                  "DB 3",
+                                  "DB 4",
+                                  "DB 5",
+                                  "DB 6",
+                                  "DB 7",
+                                  "DB 8",
+                                  "DB 9",
+                                  "DB 10"
+                              ]
+                },
+                {
+                    "type":  "EL",
+                    "qty":  1
+                },
+                {
+                    "type":  "EXIT SIGN",
+                    "qty":  1
+                },
+                {
+                    "type":  "FCU",
+                    "qty":  2,
+                    "items":  [
+                                  "FCU (CHW) 1",
+                                  "FCU (CHW) 2"
+                              ]
+                },
+                {
+                    "type":  "FIRE FIGHTING",
+                    "qty":  9,
+                    "items":  [
+                                  "FIRE EXTINGUISHER ABC 1",
+                                  "FIRE EXTINGUISHER ABC 2",
+                                  "FIRE EXTINGUISHER ABC 3",
+                                  "FIRE EXTINGUISHER ABC 4",
+                                  "FIRE EXTINGUISHER ABC 5",
+                                  "FIRE EXTINGUISHER CO2 1",
+                                  "FIRE EXTINGUISHER CO2 2",
+                                  "FIRE EXTINGUISHER CO2 3",
+                                  "FIREMAN SWITCH"
+                              ]
+                },
+                {
+                    "type":  "TANDAS",
+                    "qty":  14,
+                    "items":  [
+                                  "HAND DRYER",
+                                  "EXHAUST FAN",
+                                  "LAMP",
+                                  "SWITCH",
+                                  "BLOWER",
+                                  "MIRROR",
+                                  "TILE",
+                                  "NOZZLE",
+                                  "WATER SUPPLY",
+                                  "TOILET BOWL",
+                                  "URINAL",
+                                  "WASH BASIN",
+                                  "SOAP DISPENSER",
+                                  "TOILET PAPER HOLDER"
+                              ]
+                },
+                {
+                    "type":  "LIGHTING",
+                    "qty":  1,
+                    "items":  [
+                                  "LUMINARIES"
+                              ]
+                },
+                {
+                    "type":  "PANIC BUTTON",
+                    "qty":  1
+                },
+                {
+                    "type":  "S/S/O",
+                    "qty":  1
+                },
+                {
+                    "type":  "SSB",
+                    "qty":  5,
+                    "items":  [
+                                  "SSB 1",
+                                  "SSB 2",
+                                  "SSB 3",
+                                  "SSB 4",
+                                  "SSB 5"
+                              ]
+                },
+                {
+                    "type":  "VAV",
+                    "qty":  10,
+                    "items":  [
+                                  "VAV 1",
+                                  "VAV 2",
+                                  "VAV 3",
+                                  "VAV 4",
+                                  "VAV 5",
+                                  "VAV 6",
+                                  "VAV 7",
+                                  "VAV 8",
+                                  "VAV 9",
+                                  "VAV 10"
+                              ]
+                },
+                {
+                    "type":  "VSD",
+                    "qty":  2,
+                    "items":  [
+                                  "VSD 1",
+                                  "VSD 2"
+                              ]
+                },
+                {
+                    "type":  "AIR COOLED CHILLER",
+                    "qty":  1
+                },
+                {
+                    "type":  "WATER COOLED CHILLER",
+                    "qty":  1
+                }
+            ],
     "L26":  [
                 {
                     "type":  "AHU",
@@ -3866,152 +3839,6 @@
                                   "VAV 8",
                                   "VAV 9",
                                   "VAV 10"
-                              ]
-                },
-                {
-                    "type":  "VSD",
-                    "qty":  2,
-                    "items":  [
-                                  "VSD 1",
-                                  "VSD 2"
-                              ]
-                },
-                {
-                    "type":  "AIR COOLED CHILLER",
-                    "qty":  1
-                },
-                {
-                    "type":  "WATER COOLED CHILLER",
-                    "qty":  1
-                }
-            ],
-    "L23":  [
-                {
-                    "type":  "AHU",
-                    "qty":  2,
-                    "items":  [
-                                  "AHU 1",
-                                  "AHU 2"
-                              ]
-                },
-                {
-                    "type":  "AIR FILTER",
-                    "qty":  2,
-                    "items":  [
-                                  "ELECTRONIC AIR FLITER 1",
-                                  "ELECTRONIC AIR FLITER 2"
-                              ]
-                },
-                {
-                    "type":  "DB",
-                    "qty":  10,
-                    "items":  [
-                                  "DB 1",
-                                  "DB 2",
-                                  "DB 3",
-                                  "DB 4",
-                                  "DB 5",
-                                  "DB 6",
-                                  "DB 7",
-                                  "DB 8",
-                                  "DB 9",
-                                  "DB 10"
-                              ]
-                },
-                {
-                    "type":  "EL",
-                    "qty":  1
-                },
-                {
-                    "type":  "EXIT SIGN",
-                    "qty":  1
-                },
-                {
-                    "type":  "FCU",
-                    "qty":  2,
-                    "items":  [
-                                  "FCU (CHW) 1",
-                                  "FCU (CHW) 2"
-                              ]
-                },
-                {
-                    "type":  "FIRE FIGHTING",
-                    "qty":  10,
-                    "items":  [
-                                  "FIRE EXTINGUISHER ABC 1",
-                                  "FIRE EXTINGUISHER ABC 2",
-                                  "FIRE EXTINGUISHER ABC 3",
-                                  "FIRE EXTINGUISHER ABC 4",
-                                  "FIRE EXTINGUISHER ABC 5",
-                                  "FIRE EXTINGUISHER ABC 6",
-                                  "FIRE EXTINGUISHER CO2 1",
-                                  "FIRE EXTINGUISHER CO2 2",
-                                  "FIRE EXTINGUISHER CO2 3",
-                                  "FIREMAN SWITCH"
-                              ]
-                },
-                {
-                    "type":  "TANDAS",
-                    "qty":  14,
-                    "items":  [
-                                  "HAND DRYER",
-                                  "EXHAUST FAN",
-                                  "LAMP",
-                                  "SWITCH",
-                                  "BLOWER",
-                                  "MIRROR",
-                                  "TILE",
-                                  "NOZZLE",
-                                  "WATER SUPPLY",
-                                  "TOILET BOWL",
-                                  "URINAL",
-                                  "WASH BASIN",
-                                  "SOAP DISPENSER",
-                                  "TOILET PAPER HOLDER"
-                              ]
-                },
-                {
-                    "type":  "LIGHTING",
-                    "qty":  1,
-                    "items":  [
-                                  "LUMINARIES"
-                              ]
-                },
-                {
-                    "type":  "PANIC BUTTON",
-                    "qty":  1
-                },
-                {
-                    "type":  "S/S/O",
-                    "qty":  1
-                },
-                {
-                    "type":  "SSB",
-                    "qty":  5,
-                    "items":  [
-                                  "SSB 1",
-                                  "SSB 2",
-                                  "SSB 3",
-                                  "SSB 4",
-                                  "SSB 5"
-                              ]
-                },
-                {
-                    "type":  "VAV",
-                    "qty":  12,
-                    "items":  [
-                                  "VAV 1",
-                                  "VAV 2",
-                                  "VAV 3",
-                                  "VAV 4",
-                                  "VAV 5",
-                                  "VAV 6",
-                                  "VAV 7",
-                                  "VAV 8",
-                                  "VAV 9",
-                                  "VAV 10",
-                                  "VAV 11",
-                                  "VAV 12"
                               ]
                 },
                 {
@@ -4671,37 +4498,104 @@
                    "qty":  1
                }
            ],
-    "L15":  [
+    "LB2":  [
                 {
-                    "type":  "AHU",
-                    "qty":  2,
+                    "type":  "ACSU",
+                    "qty":  4,
                     "items":  [
-                                  "AHU 1",
-                                  "AHU 2"
+                                  "ACSU 1",
+                                  "ACSU 2",
+                                  "ACSU 3",
+                                  "ACSU 4"
                               ]
                 },
                 {
-                    "type":  "AIR FILTER",
-                    "qty":  2,
+                    "type":  "FAN",
+                    "qty":  24,
                     "items":  [
-                                  "ELECTRONIC AIR FLITER 1",
-                                  "ELECTRONIC AIR FLITER 2"
+                                  "EXHAUST FAN 1",
+                                  "EXHAUST FAN 2",
+                                  "SMOKE SPILL FAN 1",
+                                  "SMOKE SPILL FAN 2",
+                                  "SMOKE SPILL FAN 3",
+                                  "SMOKE SPILL FAN 4",
+                                  "SMOKE SPILL FAN 5",
+                                  "SMOKE SPILL FAN 6",
+                                  "JET FAN 1",
+                                  "JET FAN 2",
+                                  "JET FAN 3",
+                                  "JET FAN 4",
+                                  "JET FAN 5",
+                                  "JET FAN 6",
+                                  "JET FAN 7",
+                                  "JET FAN 8",
+                                  "JET FAN 9",
+                                  "JET FAN 10",
+                                  "JET FAN 11",
+                                  "JET FAN 12",
+                                  "JET FAN 13",
+                                  "JET FAN 14",
+                                  "JET FAN 15",
+                                  "JET FAN 16"
                               ]
                 },
                 {
-                    "type":  "DB",
-                    "qty":  10,
+                    "type":  "FCU",
+                    "qty":  4,
                     "items":  [
-                                  "DB 1",
-                                  "DB 2",
-                                  "DB 3",
-                                  "DB 4",
-                                  "DB 5",
-                                  "DB 6",
-                                  "DB 7",
-                                  "DB 8",
-                                  "DB 9",
-                                  "DB 10"
+                                  "FCU (CHW) 1",
+                                  "FCU (CHW) 2",
+                                  "FCU (CHW) 3",
+                                  "FCU (CHW) 4"
+                              ]
+                },
+                {
+                    "type":  "FIRE FIGHTING",
+                    "qty":  23,
+                    "items":  [
+                                  "FIRE EXTINGUISHER ABC 1",
+                                  "FIRE EXTINGUISHER ABC 2",
+                                  "FIRE EXTINGUISHER ABC 3",
+                                  "FIRE EXTINGUISHER ABC 4",
+                                  "FIRE EXTINGUISHER ABC 5",
+                                  "FIRE EXTINGUISHER ABC 6",
+                                  "FIRE EXTINGUISHER ABC 7",
+                                  "FIRE EXTINGUISHER ABC 8",
+                                  "FIRE EXTINGUISHER ABC 9",
+                                  "FIRE EXTINGUISHER ABC 10",
+                                  "FIRE EXTINGUISHER ABC 11",
+                                  "FIRE EXTINGUISHER ABC 12",
+                                  "FIRE EXTINGUISHER ABC 13",
+                                  "FIRE EXTINGUISHER ABC 14",
+                                  "FIRE EXTINGUISHER ABC 15",
+                                  "FIRE EXTINGUISHER ABC 16",
+                                  "FIRE EXTINGUISHER ABC 17",
+                                  "FIRE EXTINGUISHER CO2 1",
+                                  "FIRE EXTINGUISHER CO2 2",
+                                  "FIRE EXTINGUISHER CO2 3",
+                                  "FIRE EXTINGUISHER CO2 4",
+                                  "FIRE EXTINGUISHER CO2 5",
+                                  "FIRE EXTINGUISHER CO2 6"
+                              ]
+                },
+                {
+                    "type":  "LIFT",
+                    "qty":  2,
+                    "items":  [
+                                  "LIFT-PL13 BASEMENT",
+                                  "LIFT-PL14 BASEMENT"
+                              ]
+                },
+                {
+                    "type":  "SUMPUMP",
+                    "qty":  6,
+                    "items":  [
+                                  "SUMPUMP 1",
+                                  "SUMPUMP 2",
+                                  "SUMPUMP 3",
+                                  "SUMPUMP 4",
+                                  "SUMPUMP 5",
+                                  "SUMPUMP 6"
                               ]
                 },
                 {
@@ -4713,57 +4607,7 @@
                     "qty":  1
                 },
                 {
-                    "type":  "FCU",
-                    "qty":  2,
-                    "items":  [
-                                  "FCU (CHW) 1",
-                                  "FCU (CHW) 2"
-                              ]
-                },
-                {
-                    "type":  "FIRE FIGHTING",
-                    "qty":  9,
-                    "items":  [
-                                  "FIRE EXTINGUISHER ABC 1",
-                                  "FIRE EXTINGUISHER ABC 2",
-                                  "FIRE EXTINGUISHER ABC 3",
-                                  "FIRE EXTINGUISHER ABC 4",
-                                  "FIRE EXTINGUISHER ABC 5",
-                                  "FIRE EXTINGUISHER CO2 1",
-                                  "FIRE EXTINGUISHER CO2 2",
-                                  "FIRE EXTINGUISHER CO2 3",
-                                  "FIREMAN SWITCH"
-                              ]
-                },
-                {
-                    "type":  "TANDAS",
-                    "qty":  14,
-                    "items":  [
-                                  "HAND DRYER",
-                                  "EXHAUST FAN",
-                                  "LAMP",
-                                  "SWITCH",
-                                  "BLOWER",
-                                  "MIRROR",
-                                  "TILE",
-                                  "NOZZLE",
-                                  "WATER SUPPLY",
-                                  "TOILET BOWL",
-                                  "URINAL",
-                                  "WASH BASIN",
-                                  "SOAP DISPENSER",
-                                  "TOILET PAPER HOLDER"
-                              ]
-                },
-                {
-                    "type":  "LIGHTING",
-                    "qty":  1,
-                    "items":  [
-                                  "LUMINARIES"
-                              ]
-                },
-                {
-                    "type":  "PANIC BUTTON",
+                    "type":  "LUMINARIES",
                     "qty":  1
                 },
                 {
@@ -4771,39 +4615,20 @@
                     "qty":  1
                 },
                 {
-                    "type":  "SSB",
-                    "qty":  5,
-                    "items":  [
-                                  "SSB 1",
-                                  "SSB 2",
-                                  "SSB 3",
-                                  "SSB 4",
-                                  "SSB 5"
-                              ]
+                    "type":  "GREY WATER FILTER",
+                    "qty":  1
                 },
                 {
-                    "type":  "VAV",
-                    "qty":  10,
-                    "items":  [
-                                  "VAV 1",
-                                  "VAV 2",
-                                  "VAV 3",
-                                  "VAV 4",
-                                  "VAV 5",
-                                  "VAV 6",
-                                  "VAV 7",
-                                  "VAV 8",
-                                  "VAV 9",
-                                  "VAV 10"
-                              ]
+                    "type":  "GREY WATER PUMP",
+                    "qty":  1
                 },
                 {
-                    "type":  "VSD",
-                    "qty":  2,
-                    "items":  [
-                                  "VSD 1",
-                                  "VSD 2"
-                              ]
+                    "type":  "IRRIGATION PUMP",
+                    "qty":  1
+                },
+                {
+                    "type":  "RAIN WATER FILTER",
+                    "qty":  1
                 },
                 {
                     "type":  "AIR COOLED CHILLER",
@@ -5589,152 +5414,167 @@
                     "qty":  1
                 }
             ],
-    "L4":  [
-               {
-                   "type":  "AHU",
-                   "qty":  2,
-                   "items":  [
-                                 "AHU 1",
-                                 "AHU 2"
-                             ]
-               },
-               {
-                   "type":  "AIR FILTER",
-                   "qty":  2,
-                   "items":  [
-                                 "ELECTRONIC AIR FLITER 1",
-                                 "ELECTRONIC AIR FLITER 2"
-                             ]
-               },
-               {
-                   "type":  "DB",
-                   "qty":  10,
-                   "items":  [
-                                 "DB 1",
-                                 "DB 2",
-                                 "DB 3",
-                                 "DB 4",
-                                 "DB 5",
-                                 "DB 6",
-                                 "DB 7",
-                                 "DB 8",
-                                 "DB 9",
-                                 "DB 10"
-                             ]
-               },
-               {
-                   "type":  "EL",
-                   "qty":  1
-               },
-               {
-                   "type":  "EXIT SIGN",
-                   "qty":  1
-               },
-               {
-                   "type":  "FCU",
-                   "qty":  2,
-                   "items":  [
-                                 "FCU (CHW) 1",
-                                 "FCU (CHW) 2"
-                             ]
-               },
-               {
-                   "type":  "FIRE FIGHTING",
-                   "qty":  9,
-                   "items":  [
-                                 "FIRE EXTINGUISHER ABC 1",
-                                 "FIRE EXTINGUISHER ABC 2",
-                                 "FIRE EXTINGUISHER ABC 3",
-                                 "FIRE EXTINGUISHER ABC 4",
-                                 "FIRE EXTINGUISHER ABC 5",
-                                 "FIRE EXTINGUISHER CO2 1",
-                                 "FIRE EXTINGUISHER CO2 2",
-                                 "FIRE EXTINGUISHER CO2 3",
-                                 "FIREMAN SWITCH"
-                             ]
-               },
-               {
-                   "type":  "TANDAS",
-                   "qty":  14,
-                   "items":  [
-                                 "HAND DRYER",
-                                 "EXHAUST FAN",
-                                 "LAMP",
-                                 "SWITCH",
-                                 "BLOWER",
-                                 "MIRROR",
-                                 "TILE",
-                                 "NOZZLE",
-                                 "WATER SUPPLY",
-                                 "TOILET BOWL",
-                                 "URINAL",
-                                 "WASH BASIN",
-                                 "SOAP DISPENSER",
-                                 "TOILET PAPER HOLDER"
-                             ]
-               },
-               {
-                   "type":  "LIGHTING",
-                   "qty":  1,
-                   "items":  [
-                                 "LUMINARIES"
-                             ]
-               },
-               {
-                   "type":  "PANIC BUTTON",
-                   "qty":  1
-               },
-               {
-                   "type":  "S/S/O",
-                   "qty":  1
-               },
-               {
-                   "type":  "SSB",
-                   "qty":  6,
-                   "items":  [
-                                 "SSB 1",
-                                 "SSB 2",
-                                 "SSB 3",
-                                 "SSB 4",
-                                 "SSB 5",
-                                 "SSB 6"
-                             ]
-               },
-               {
-                   "type":  "VAV",
-                   "qty":  12,
-                   "items":  [
-                                 "VAV 1",
-                                 "VAV 2",
-                                 "VAV 3",
-                                 "VAV 4",
-                                 "VAV 5",
-                                 "VAV 6",
-                                 "VAV 7",
-                                 "VAV 8",
-                                 "VAV 9",
-                                 "VAV 10",
-                                 "VAV 11",
-                                 "VAV 12"
-                             ]
-               },
-               {
-                   "type":  "VSD",
-                   "qty":  2,
-                   "items":  [
-                                 "VSD 1",
-                                 "VSD 2"
-                             ]
-               },
-               {
-                   "type":  "AIR COOLED CHILLER",
-                   "qty":  1
-               },
-               {
-                   "type":  "WATER COOLED CHILLER",
-                   "qty":  1
-               }
-           ],
+    "LP4A":  [
+                 {
+                     "items":  [
+                                   "ACSU 1",
+                                   "ACSU 2"
+                               ],
+                     "type":  "ACSU",
+                     "qty":  2
+                 },
+                 {
+                     "items":  [
+                                   "EXHAUST FAN 1",
+                                   "EXHAUST FAN 2",
+                                   "EXHAUST FAN 3",
+                                   "EXHAUST FAN 4",
+                                   "JET FAN 1",
+                                   "JET FAN 2",
+                                   "JET FAN 3",
+                                   "JET FAN 4",
+                                   "SMOKE SPILL FAN 1",
+                                   "SMOKE SPILL FAN 2"
+                               ],
+                     "type":  "FAN",
+                     "qty":  10
+                 },
+                 {
+                     "items":  [
+                                   "FCU (CHW) 1",
+                                   "FCU (CHW) 2"
+                               ],
+                     "type":  "FCU",
+                     "qty":  2
+                 },
+                 {
+                     "items":  [
+                                   "FIRE EXTINGUISHER ABC 1",
+                                   "FIRE EXTINGUISHER ABC 2",
+                                   "FIRE EXTINGUISHER ABC 3",
+                                   "FIRE EXTINGUISHER ABC 4",
+                                   "FIRE EXTINGUISHER ABC 5",
+                                   "FIRE EXTINGUISHER ABC 6",
+                                   "FIRE EXTINGUISHER ABC 7",
+                                   "FIRE EXTINGUISHER ABC 8",
+                                   "FIRE EXTINGUISHER CO2 1",
+                                   "FIRE EXTINGUISHER CO2 2"
+                               ],
+                     "type":  "FIRE FIGHTING",
+                     "qty":  10
+                 },
+                 {
+                     "items":  [
+                                   "HOSE REEL 1",
+                                   "HOSE REEL 2"
+                               ],
+                     "type":  "HOSE REEL",
+                     "qty":  2
+                 },
+                 {
+                     "items":  [
+                                   "LIFT-PARK 1",
+                                   "LIFT-PARK 2"
+                               ],
+                     "type":  "LIFT",
+                     "qty":  2
+                 },
+                 {
+                     "items":  [
+                                   "DB 1",
+                                   "DB 2"
+                               ],
+                     "type":  "DB",
+                     "qty":  2
+                 },
+                 {
+                     "type":  "EL",
+                     "qty":  1
+                 },
+                 {
+                     "items":  [
+                                   "EXIT SIGN 1",
+                                   "EXIT SIGN 2"
+                               ],
+                     "type":  "EXIT SIGN",
+                     "qty":  2
+                 },
+                 {
+                     "items":  [
+                                   "LUMINARIES 1",
+                                   "LUMINARIES 2"
+                               ],
+                     "type":  "LUMINARIES",
+                     "qty":  2
+                 },
+                 {
+                     "items":  [
+                                   "S/S/O 1",
+                                   "S/S/O 2"
+                               ],
+                     "type":  "S/S/O",
+                     "qty":  2
+                 },
+                 {
+                     "items":  [
+                                   "FIREMAN SWITCH 1",
+                                   "FIREMAN SWITCH 2"
+                               ],
+                     "type":  "FIREMAN SWITCH",
+                     "qty":  2
+                 },
+                 {
+                     "type":  "PANIC BUTTON",
+                     "qty":  1
+                 },
+                 {
+                     "items":  [
+                                   "BOOM GATE 1",
+                                   "BOOM GATE 2"
+                               ],
+                     "type":  "BOOM GATE",
+                     "qty":  2
+                 },
+                 {
+                     "type":  "ROLLER SHUTTER",
+                     "qty":  1
+                 },
+                 {
+                     "items":  [
+                                   "WATER PUMP 1",
+                                   "WATER PUMP 2"
+                               ],
+                     "type":  "WATER PUMP",
+                     "qty":  2
+                 },
+                 {
+                     "type":  "WATER TANK",
+                     "qty":  1
+                 },
+                 {
+                     "items":  [
+                                   "AIR COOLED CHILLER 1",
+                                   "AIR COOLED CHILLER 2",
+                                   "AIR COOLED CHILLER 3"
+                               ],
+                     "type":  "AIR COOLED CHILLER",
+                     "qty":  3
+                 },
+                 {
+                     "type":  "WATER COOLED CHILLER",
+                     "qty":  1
+                 },
+                 {
+                     "items":  [
+                                   "BLIND SPOT MIRROR 1",
+                                   "BLIND SPOT MIRROR 2",
+                                   "BLIND SPOT MIRROR 3",
+                                   "BLIND SPOT MIRROR 4"
+                               ],
+                     "type":  "PARKING",
+                     "qty":  1
+                 }
+             ],
     "L12":  [
                 {
                     "type":  "AIR FILTER",
@@ -6306,13 +6146,45 @@
                    "qty":  1
                }
            ],
-    "L7":  [
+    "L3":  [
+               {
+                   "type":  "ACSU",
+                   "qty":  4,
+                   "items":  [
+                                 "ACSU 1",
+                                 "ACSU 2",
+                                 "ACSU 3",
+                                 "ACSU 4"
+                             ]
+               },
                {
                    "type":  "AHU",
                    "qty":  2,
                    "items":  [
                                  "AHU 1",
                                  "AHU 2"
+                             ]
+               },
+               {
+                   "type":  "AIR CURTAIN",
+                   "qty":  16,
+                   "items":  [
+                                 "AIR CURTAIN 1",
+                                 "AIR CURTAIN 2",
+                                 "AIR CURTAIN 3",
+                                 "AIR CURTAIN 4",
+                                 "AIR CURTAIN 5",
+                                 "AIR CURTAIN 6",
+                                 "AIR CURTAIN 7",
+                                 "AIR CURTAIN 8",
+                                 "AIR CURTAIN 9",
+                                 "AIR CURTAIN 10",
+                                 "AIR CURTAIN 11",
+                                 "AIR CURTAIN 12",
+                                 "AIR CURTAIN 13",
+                                 "AIR CURTAIN 14",
+                                 "AIR CURTAIN 15",
+                                 "AIR CURTAIN 16"
                              ]
                },
                {
@@ -6324,8 +6196,15 @@
                              ]
                },
                {
+                   "type":  "AUDIO VISUAL",
+                   "qty":  1,
+                   "items":  [
+                                 "AUDIO VISUAL EQUIPMENT"
+                             ]
+               },
+               {
                    "type":  "DB",
-                   "qty":  10,
+                   "qty":  16,
                    "items":  [
                                  "DB 1",
                                  "DB 2",
@@ -6336,39 +6215,82 @@
                                  "DB 7",
                                  "DB 8",
                                  "DB 9",
-                                 "DB 10"
+                                 "DB 10",
+                                 "DB 11",
+                                 "DB 12",
+                                 "DB 13",
+                                 "DB 14",
+                                 "DB 15",
+                                 "DB 16"
                              ]
                },
                {
                    "type":  "EL",
-                   "qty":  1
+                   "qty":  2,
+                   "items":  [
+                                 "EL 1",
+                                 "EL 2"
+                             ]
                },
                {
                    "type":  "EXIT SIGN",
-                   "qty":  1
+                   "qty":  2,
+                   "items":  [
+                                 "EXIT SIGN 1",
+                                 "EXIT SIGN 2"
+                             ]
+               },
+               {
+                   "type":  "FAN",
+                   "qty":  7,
+                   "items":  [
+                                 "BIRFUCATED DUCT KITCHEN FAN EQUIPMENT 1",
+                                 "BIRFUCATED DUCT KITCHEN FAN EQUIPMENT 2",
+                                 "KITCHEN MECHANICAL EXAUST FAN 1",
+                                 "KITCHEN MECHANICAL EXAUST FAN 2",
+                                 "PRESSURISATION FAN 1",
+                                 "PRESSURISATION FAN 2",
+                                 "PRESSURISATION FAN 3"
+                             ]
                },
                {
                    "type":  "FCU",
-                   "qty":  2,
+                   "qty":  6,
                    "items":  [
+                                 "FCU (ACSU) 1",
+                                 "FCU (ACSU) 2",
+                                 "FCU (ACSU) 3",
+                                 "FCU (ACSU) 4",
                                  "FCU (CHW) 1",
                                  "FCU (CHW) 2"
                              ]
                },
                {
                    "type":  "FIRE FIGHTING",
-                   "qty":  9,
+                   "qty":  17,
                    "items":  [
                                  "FIRE EXTINGUISHER ABC 1",
                                  "FIRE EXTINGUISHER ABC 2",
                                  "FIRE EXTINGUISHER ABC 3",
                                  "FIRE EXTINGUISHER ABC 4",
                                  "FIRE EXTINGUISHER ABC 5",
+                                 "FIRE EXTINGUISHER ABC 6",
+                                 "FIRE EXTINGUISHER ABC 7",
+                                 "FIRE EXTINGUISHER ABC 8",
+                                 "FIRE EXTINGUISHER ABC 9",
+                                 "FIRE EXTINGUISHER ABC 10",
+                                 "FIRE EXTINGUISHER ABC 11",
+                                 "FIRE EXTINGUISHER ABC 12",
+                                 "FIRE EXTINGUISHER ABC 13",
                                  "FIRE EXTINGUISHER CO2 1",
                                  "FIRE EXTINGUISHER CO2 2",
                                  "FIRE EXTINGUISHER CO2 3",
                                  "FIREMAN SWITCH"
                              ]
+               },
+               {
+                   "type":  "GRID CONNECTED PHOTOVOLTAIC(PV)",
+                   "qty":  1
                },
                {
                    "type":  "TANDAS",
@@ -6391,10 +6313,27 @@
                              ]
                },
                {
-                   "type":  "LIGHTING",
-                   "qty":  1,
+                   "type":  "KITCHEN EXHAUST HOOD",
+                   "qty":  6,
                    "items":  [
-                                 "LUMINARIES"
+                                 "KITCHEN EXHAUST HOOD 1",
+                                 "KITCHEN EXHAUST HOOD 2",
+                                 "KITCHEN EXHAUST HOOD 3",
+                                 "KITCHEN EXHAUST HOOD 4",
+                                 "KITCHEN EXHAUST HOOD 5",
+                                 "KITCHEN EXHAUST HOOD 6"
+                             ]
+               },
+               {
+                   "type":  "LIGHTING",
+                   "qty":  6,
+                   "items":  [
+                                 "LUMINARIES 1",
+                                 "LUMINARIES 2",
+                                 "OUTDOOR LIGHTING 1",
+                                 "OUTDOOR LIGHTING 2",
+                                 "OUTDOOR LIGHTING 3",
+                                 "OUTDOOR LIGHTING 4"
                              ]
                },
                {
@@ -6402,23 +6341,46 @@
                    "qty":  1
                },
                {
+                   "type":  "ROLLER SHUTTER",
+                   "qty":  12,
+                   "items":  [
+                                 "ROLLER SHUTTER 03 - KAFE A1",
+                                 "ROLLER SHUTTER 04 - KAFE A1",
+                                 "ROLLER SHUTTER 05 - KAFE A2",
+                                 "ROLLER SHUTTER 06 - KAFE A2",
+                                 "ROLLER SHUTTER 07 - KAFE A3",
+                                 "ROLLER SHUTTER 08 - KAFE A3",
+                                 "ROLLER SHUTTER 09 - KAFE B1",
+                                 "ROLLER SHUTTER 10 - KAFE B1",
+                                 "ROLLER SHUTTER 11 - KAFE B2",
+                                 "ROLLER SHUTTER 12 - KAFE B2",
+                                 "ROLLER SHUTTER 13 - KAFE B3",
+                                 "ROLLER SHUTTER 14 - KAFE B3"
+                             ]
+               },
+               {
                    "type":  "S/S/O",
-                   "qty":  1
+                   "qty":  2,
+                   "items":  [
+                                 "S/S/O 1",
+                                 "S/S/O 2"
+                             ]
                },
                {
                    "type":  "SSB",
-                   "qty":  5,
+                   "qty":  6,
                    "items":  [
                                  "SSB 1",
                                  "SSB 2",
                                  "SSB 3",
                                  "SSB 4",
-                                 "SSB 5"
+                                 "SSB 5",
+                                 "SSB 6"
                              ]
                },
                {
                    "type":  "VAV",
-                   "qty":  12,
+                   "qty":  10,
                    "items":  [
                                  "VAV 1",
                                  "VAV 2",
@@ -6429,10 +6391,12 @@
                                  "VAV 7",
                                  "VAV 8",
                                  "VAV 9",
-                                 "VAV 10",
-                                 "VAV 11",
-                                 "VAV 12"
+                                 "VAV 10"
                              ]
+               },
+               {
+                   "type":  "VISUAL PROJECTION",
+                   "qty":  1
                },
                {
                    "type":  "VSD",
@@ -6440,6 +6404,22 @@
                    "items":  [
                                  "VSD 1",
                                  "VSD 2"
+                             ]
+               },
+               {
+                   "type":  "WATER FILTER",
+                   "qty":  1
+               },
+               {
+                   "type":  "WET CHEMICAL SYSTEM",
+                   "qty":  6,
+                   "items":  [
+                                 "WET CHEMICAL SYSTEM - KAFETERIA 1",
+                                 "WET CHEMICAL SYSTEM - KAFETERIA 2",
+                                 "WET CHEMICAL SYSTEM - KAFETERIA 3",
+                                 "WET CHEMICAL SYSTEM - KAFETERIA 4",
+                                 "WET CHEMICAL SYSTEM - KAFETERIA 5",
+                                 "WET CHEMICAL SYSTEM - KAFETERIA 6"
                              ]
                },
                {
@@ -6596,51 +6576,37 @@
                    "qty":  1
                }
            ],
-    "L18":  [
+    "L13":  [
                 {
-                    "type":  "ACB",
-                    "qty":  1
-                },
-                {
-                    "type":  "ACSU",
+                    "type":  "AHU",
                     "qty":  2,
                     "items":  [
-                                  "ACSU 1",
-                                  "ACSU 2"
+                                  "AHU 1",
+                                  "AHU 2"
                               ]
                 },
                 {
-                    "type":  "CAP BANK",
+                    "type":  "AIR FILTER",
                     "qty":  2,
                     "items":  [
-                                  "CAP BANK 1",
-                                  "CAP BANK 2"
-                              ]
-                },
-                {
-                    "type":  "CHWP",
-                    "qty":  3,
-                    "items":  [
-                                  "SECONDARY CHILLED WATER PUMP (CHWP) 1",
-                                  "SECONDARY CHILLED WATER PUMP (CHWP) 2",
-                                  "SECONDARY CHILLED WATER PUMP (CHWP) 3"
-                              ]
-                },
-                {
-                    "type":  "COLD WATER PUMP",
-                    "qty":  1,
-                    "items":  [
-                                  "COLD WATER INTERMIDIATE SUCTION PUMP"
+                                  "ELECTRONIC AIR FLITER 1",
+                                  "ELECTRONIC AIR FLITER 2"
                               ]
                 },
                 {
                     "type":  "DB",
-                    "qty":  4,
+                    "qty":  10,
                     "items":  [
                                   "DB 1",
                                   "DB 2",
                                   "DB 3",
-                                  "DB 4"
+                                  "DB 4",
+                                  "DB 5",
+                                  "DB 6",
+                                  "DB 7",
+                                  "DB 8",
+                                  "DB 9",
+                                  "DB 10"
                               ]
                 },
                 {
@@ -6652,80 +6618,46 @@
                     "qty":  1
                 },
                 {
-                    "type":  "FAN",
-                    "qty":  13,
-                    "items":  [
-                                  "EXHAUST FAN 1",
-                                  "EXHAUST FAN 2",
-                                  "EXHAUST FAN 3",
-                                  "FAN 1",
-                                  "FAN 2",
-                                  "FRESH AIR FAN",
-                                  "PRESSURISATION FAN 1",
-                                  "PRESSURISATION FAN 2",
-                                  "PRESSURISATION FAN 3",
-                                  "PRESSURISATION FAN 4",
-                                  "SMOKE SPILL FAN 1",
-                                  "SMOKE SPILL FAN 2",
-                                  "SMOKE SPILL FAN 3"
-                              ]
-                },
-                {
                     "type":  "FCU",
-                    "qty":  1,
+                    "qty":  2,
                     "items":  [
-                                  "FCU (CHW)"
+                                  "FCU (CHW) 1",
+                                  "FCU (CHW) 2"
                               ]
                 },
                 {
                     "type":  "FIRE FIGHTING",
-                    "qty":  13,
+                    "qty":  9,
                     "items":  [
                                   "FIRE EXTINGUISHER ABC 1",
                                   "FIRE EXTINGUISHER ABC 2",
                                   "FIRE EXTINGUISHER ABC 3",
                                   "FIRE EXTINGUISHER ABC 4",
                                   "FIRE EXTINGUISHER ABC 5",
-                                  "FIRE EXTINGUISHER ABC 6",
-                                  "FIRE EXTINGUISHER ABC 7",
                                   "FIRE EXTINGUISHER CO2 1",
                                   "FIRE EXTINGUISHER CO2 2",
                                   "FIRE EXTINGUISHER CO2 3",
-                                  "FIRE EXTINGUISHER CO2 4",
-                                  "FIRE EXTINGUISHER CO2 5",
                                   "FIREMAN SWITCH"
                               ]
                 },
                 {
-                    "type":  "FM 200",
-                    "qty":  2,
+                    "type":  "TANDAS",
+                    "qty":  14,
                     "items":  [
-                                  "FM 200 1",
-                                  "FM 200 2"
-                              ]
-                },
-                {
-                    "type":  "HEAT EXCHANGER",
-                    "qty":  2,
-                    "items":  [
-                                  "HEAT EXCHANGER 1",
-                                  "HEAT EXCHANGER 2"
-                              ]
-                },
-                {
-                    "type":  "HEAT RECOVERY WHEEL",
-                    "qty":  1
-                },
-                {
-                    "type":  "LIFT LOWZONE",
-                    "qty":  6,
-                    "items":  [
-                                  "LIFT-PL07 LOWZONE",
-                                  "LIFT-PL08 LOWZONE",
-                                  "LIFT-PL09 LOWZONE",
-                                  "LIFT-PL10 LOWZONE",
-                                  "LIFT-PL11 LOWZONE",
-                                  "LIFT-PL12 LOWZONE"
+                                  "HAND DRYER",
+                                  "EXHAUST FAN",
+                                  "LAMP",
+                                  "SWITCH",
+                                  "BLOWER",
+                                  "MIRROR",
+                                  "TILE",
+                                  "NOZZLE",
+                                  "WATER SUPPLY",
+                                  "TOILET BOWL",
+                                  "URINAL",
+                                  "WASH BASIN",
+                                  "SOAP DISPENSER",
+                                  "TOILET PAPER HOLDER"
                               ]
                 },
                 {
@@ -6736,23 +6668,7 @@
                               ]
                 },
                 {
-                    "type":  "LV ROOM",
-                    "qty":  1
-                },
-                {
-                    "type":  "METERING (VOLT \u0026 AMPS)",
-                    "qty":  1
-                },
-                {
-                    "type":  "MSB",
-                    "qty":  2,
-                    "items":  [
-                                  "MSB 1",
-                                  "MSB 2"
-                              ]
-                },
-                {
-                    "type":  "RMU",
+                    "type":  "PANIC BUTTON",
                     "qty":  1
                 },
                 {
@@ -6760,90 +6676,40 @@
                     "qty":  1
                 },
                 {
-                    "type":  "SPRINKLER CONTROL PANEL",
-                    "qty":  2,
-                    "items":  [
-                                  "SPRINKLER DUTY PUMP CONTROL PANEL-STAGE3",
-                                  "SPRINKLER DUTY PUMP CONTROL PANEL-STAGE4"
-                              ]
-                },
-                {
-                    "type":  "SPRINKLER PUMP",
-                    "qty":  6,
-                    "items":  [
-                                  "SPRINKLER DUTY PUMP-STAGE3",
-                                  "SPRINKLER DUTY PUMP-STAGE4",
-                                  "SPRINKLER JOCKEY PUMP-STAGE3",
-                                  "SPRINKLER JOCKEY PUMP-STAGE4",
-                                  "SPRINKLER STANDBY PUMP-STAGE3",
-                                  "SPRINKLER STANDBY PUMP-STAGE4"
-                              ]
-                },
-                {
                     "type":  "SSB",
-                    "qty":  8,
+                    "qty":  5,
                     "items":  [
                                   "SSB 1",
                                   "SSB 2",
                                   "SSB 3",
                                   "SSB 4",
-                                  "SSB 5",
-                                  "SSB 6",
-                                  "SSB 7",
-                                  "SSB 8"
+                                  "SSB 5"
                               ]
                 },
                 {
-                    "type":  "SWITCH ROOM HV",
-                    "qty":  1
+                    "type":  "VAV",
+                    "qty":  12,
+                    "items":  [
+                                  "VAV 1",
+                                  "VAV 2",
+                                  "VAV 3",
+                                  "VAV 4",
+                                  "VAV 5",
+                                  "VAV 6",
+                                  "VAV 7",
+                                  "VAV 8",
+                                  "VAV 9",
+                                  "VAV 10",
+                                  "VAV 11",
+                                  "VAV 12"
+                              ]
                 },
                 {
-                    "type":  "TX",
+                    "type":  "VSD",
                     "qty":  2,
                     "items":  [
-                                  "TX 1",
-                                  "TX 2"
-                              ]
-                },
-                {
-                    "type":  "WATER PUMP",
-                    "qty":  1,
-                    "items":  [
-                                  "TREATED GREY WATER INTERMEDIATE PUMP SET"
-                              ]
-                },
-                {
-                    "type":  "WATER TANK",
-                    "qty":  8,
-                    "items":  [
-                                  "CHILLED WATER EXPANSION TANK",
-                                  "COOLING TOWER MAKE UP WATER STORAGE TANK",
-                                  "DCW INTERMEDIATE STORAGE TANK 1(BASIN)",
-                                  "DCW INTERMEDIATE STORAGE TANK 2(WC\u0026URINAL)",
-                                  "DCW INTERMEDIATE SUCTION TANK",
-                                  "SPRINKLER TANK",
-                                  "TREATED WASTE WATER INTERMEDIATE TANK",
-                                  "WET RISER INTERMEDIATE TANK"
-                              ]
-                },
-                {
-                    "type":  "WET RISER CONTROL PANEL",
-                    "qty":  2,
-                    "items":  [
-                                  "WET RISER PUMP CONTROL PANEL -STAGE 2",
-                                  "WET RISER PUMP CONTROL PANEL -STAGE 3"
-                              ]
-                },
-                {
-                    "type":  "WET RISER PUMP",
-                    "qty":  6,
-                    "items":  [
-                                  "WET RISER DUTY PUMP -STAGE 2",
-                                  "WET RISER DUTY PUMP -STAGE 3",
-                                  "WET RISER JOCKEY PUMP -STAGE 2",
-                                  "WET RISER JOCKEY PUMP -STAGE 3",
-                                  "WET RISER STANDBY PUMP -STAGE 2",
-                                  "WET RISER STANDBY PUMP -STAGE 3"
+                                  "VSD 1",
+                                  "VSD 2"
                               ]
                 },
                 {
@@ -7155,150 +7021,6 @@
                     "qty":  1
                 }
             ],
-    "L24":  [
-                {
-                    "type":  "AHU",
-                    "qty":  2,
-                    "items":  [
-                                  "AHU 1",
-                                  "AHU 2"
-                              ]
-                },
-                {
-                    "type":  "AIR FILTER",
-                    "qty":  2,
-                    "items":  [
-                                  "ELECTRONIC AIR FLITER 1",
-                                  "ELECTRONIC AIR FLITER 2"
-                              ]
-                },
-                {
-                    "type":  "DB",
-                    "qty":  10,
-                    "items":  [
-                                  "DB 1",
-                                  "DB 2",
-                                  "DB 3",
-                                  "DB 4",
-                                  "DB 5",
-                                  "DB 6",
-                                  "DB 7",
-                                  "DB 8",
-                                  "DB 9",
-                                  "DB 10"
-                              ]
-                },
-                {
-                    "type":  "EL",
-                    "qty":  1
-                },
-                {
-                    "type":  "EXIT SIGN",
-                    "qty":  1
-                },
-                {
-                    "type":  "FCU",
-                    "qty":  2,
-                    "items":  [
-                                  "FCU (CHW) 1",
-                                  "FCU (CHW) 2"
-                              ]
-                },
-                {
-                    "type":  "FIRE FIGHTING",
-                    "qty":  10,
-                    "items":  [
-                                  "FIRE EXTINGUISHER ABC 1",
-                                  "FIRE EXTINGUISHER ABC 2",
-                                  "FIRE EXTINGUISHER ABC 3",
-                                  "FIRE EXTINGUISHER ABC 4",
-                                  "FIRE EXTINGUISHER ABC 5",
-                                  "FIRE EXTINGUISHER ABC 6",
-                                  "FIRE EXTINGUISHER CO2 1",
-                                  "FIRE EXTINGUISHER CO2 2",
-                                  "FIRE EXTINGUISHER CO2 3",
-                                  "FIREMAN SWITCH"
-                              ]
-                },
-                {
-                    "type":  "TANDAS",
-                    "qty":  14,
-                    "items":  [
-                                  "HAND DRYER",
-                                  "EXHAUST FAN",
-                                  "LAMP",
-                                  "SWITCH",
-                                  "BLOWER",
-                                  "MIRROR",
-                                  "TILE",
-                                  "NOZZLE",
-                                  "WATER SUPPLY",
-                                  "TOILET BOWL",
-                                  "URINAL",
-                                  "WASH BASIN",
-                                  "SOAP DISPENSER",
-                                  "TOILET PAPER HOLDER"
-                              ]
-                },
-                {
-                    "type":  "LIGHTING",
-                    "qty":  1,
-                    "items":  [
-                                  "LUMINARIES"
-                              ]
-                },
-                {
-                    "type":  "PANIC BUTTON",
-                    "qty":  1
-                },
-                {
-                    "type":  "S/S/O",
-                    "qty":  1
-                },
-                {
-                    "type":  "SSB",
-                    "qty":  5,
-                    "items":  [
-                                  "SSB 1",
-                                  "SSB 2",
-                                  "SSB 3",
-                                  "SSB 4",
-                                  "SSB 5"
-                              ]
-                },
-                {
-                    "type":  "VAV",
-                    "qty":  10,
-                    "items":  [
-                                  "VAV 1",
-                                  "VAV 2",
-                                  "VAV 3",
-                                  "VAV 4",
-                                  "VAV 5",
-                                  "VAV 6",
-                                  "VAV 7",
-                                  "VAV 8",
-                                  "VAV 9",
-                                  "VAV 10"
-                              ]
-                },
-                {
-                    "type":  "VSD",
-                    "qty":  2,
-                    "items":  [
-                                  "VSD 1",
-                                  "VSD 2"
-                              ]
-                },
-                {
-                    "type":  "AIR COOLED CHILLER",
-                    "qty":  1
-                },
-                {
-                    "type":  "WATER COOLED CHILLER",
-                    "qty":  1
-                }
-            ],
     "L19":  [
                 {
                     "type":  "AHU",
@@ -7467,6 +7189,289 @@
                 {
                     "type":  "VSD",
                     "qty":  1
+                },
+                {
+                    "type":  "AIR COOLED CHILLER",
+                    "qty":  1
+                },
+                {
+                    "type":  "WATER COOLED CHILLER",
+                    "qty":  1
+                }
+            ],
+    "L23":  [
+                {
+                    "type":  "AHU",
+                    "qty":  2,
+                    "items":  [
+                                  "AHU 1",
+                                  "AHU 2"
+                              ]
+                },
+                {
+                    "type":  "AIR FILTER",
+                    "qty":  2,
+                    "items":  [
+                                  "ELECTRONIC AIR FLITER 1",
+                                  "ELECTRONIC AIR FLITER 2"
+                              ]
+                },
+                {
+                    "type":  "DB",
+                    "qty":  10,
+                    "items":  [
+                                  "DB 1",
+                                  "DB 2",
+                                  "DB 3",
+                                  "DB 4",
+                                  "DB 5",
+                                  "DB 6",
+                                  "DB 7",
+                                  "DB 8",
+                                  "DB 9",
+                                  "DB 10"
+                              ]
+                },
+                {
+                    "type":  "EL",
+                    "qty":  1
+                },
+                {
+                    "type":  "EXIT SIGN",
+                    "qty":  1
+                },
+                {
+                    "type":  "FCU",
+                    "qty":  2,
+                    "items":  [
+                                  "FCU (CHW) 1",
+                                  "FCU (CHW) 2"
+                              ]
+                },
+                {
+                    "type":  "FIRE FIGHTING",
+                    "qty":  10,
+                    "items":  [
+                                  "FIRE EXTINGUISHER ABC 1",
+                                  "FIRE EXTINGUISHER ABC 2",
+                                  "FIRE EXTINGUISHER ABC 3",
+                                  "FIRE EXTINGUISHER ABC 4",
+                                  "FIRE EXTINGUISHER ABC 5",
+                                  "FIRE EXTINGUISHER ABC 6",
+                                  "FIRE EXTINGUISHER CO2 1",
+                                  "FIRE EXTINGUISHER CO2 2",
+                                  "FIRE EXTINGUISHER CO2 3",
+                                  "FIREMAN SWITCH"
+                              ]
+                },
+                {
+                    "type":  "TANDAS",
+                    "qty":  14,
+                    "items":  [
+                                  "HAND DRYER",
+                                  "EXHAUST FAN",
+                                  "LAMP",
+                                  "SWITCH",
+                                  "BLOWER",
+                                  "MIRROR",
+                                  "TILE",
+                                  "NOZZLE",
+                                  "WATER SUPPLY",
+                                  "TOILET BOWL",
+                                  "URINAL",
+                                  "WASH BASIN",
+                                  "SOAP DISPENSER",
+                                  "TOILET PAPER HOLDER"
+                              ]
+                },
+                {
+                    "type":  "LIGHTING",
+                    "qty":  1,
+                    "items":  [
+                                  "LUMINARIES"
+                              ]
+                },
+                {
+                    "type":  "PANIC BUTTON",
+                    "qty":  1
+                },
+                {
+                    "type":  "S/S/O",
+                    "qty":  1
+                },
+                {
+                    "type":  "SSB",
+                    "qty":  5,
+                    "items":  [
+                                  "SSB 1",
+                                  "SSB 2",
+                                  "SSB 3",
+                                  "SSB 4",
+                                  "SSB 5"
+                              ]
+                },
+                {
+                    "type":  "VAV",
+                    "qty":  12,
+                    "items":  [
+                                  "VAV 1",
+                                  "VAV 2",
+                                  "VAV 3",
+                                  "VAV 4",
+                                  "VAV 5",
+                                  "VAV 6",
+                                  "VAV 7",
+                                  "VAV 8",
+                                  "VAV 9",
+                                  "VAV 10",
+                                  "VAV 11",
+                                  "VAV 12"
+                              ]
+                },
+                {
+                    "type":  "VSD",
+                    "qty":  2,
+                    "items":  [
+                                  "VSD 1",
+                                  "VSD 2"
+                              ]
+                },
+                {
+                    "type":  "AIR COOLED CHILLER",
+                    "qty":  1
+                },
+                {
+                    "type":  "WATER COOLED CHILLER",
+                    "qty":  1
+                }
+            ],
+    "L16":  [
+                {
+                    "type":  "AIR FILTER",
+                    "qty":  2,
+                    "items":  [
+                                  "ELECTRONIC AIR FLITER 1",
+                                  "ELECTRONIC AIR FLITER 2"
+                              ]
+                },
+                {
+                    "type":  "DB",
+                    "qty":  10,
+                    "items":  [
+                                  "DB 1",
+                                  "DB 2",
+                                  "DB 3",
+                                  "DB 4",
+                                  "DB 5",
+                                  "DB 6",
+                                  "DB 7",
+                                  "DB 8",
+                                  "DB 9",
+                                  "DB 10"
+                              ]
+                },
+                {
+                    "type":  "EL",
+                    "qty":  1
+                },
+                {
+                    "type":  "EXIT SIGN",
+                    "qty":  1
+                },
+                {
+                    "type":  "FCU",
+                    "qty":  2,
+                    "items":  [
+                                  "FCU (CHW) 1",
+                                  "FCU (CHW) 2"
+                              ]
+                },
+                {
+                    "type":  "FIRE FIGHTING",
+                    "qty":  9,
+                    "items":  [
+                                  "FIRE EXTINGUISHER ABC 1",
+                                  "FIRE EXTINGUISHER ABC 2",
+                                  "FIRE EXTINGUISHER ABC 3",
+                                  "FIRE EXTINGUISHER ABC 4",
+                                  "FIRE EXTINGUISHER ABC 5",
+                                  "FIRE EXTINGUISHER CO2 1",
+                                  "FIRE EXTINGUISHER CO2 2",
+                                  "FIRE EXTINGUISHER CO2 3",
+                                  "FIREMAN SWITCH"
+                              ]
+                },
+                {
+                    "type":  "TANDAS",
+                    "qty":  14,
+                    "items":  [
+                                  "HAND DRYER",
+                                  "EXHAUST FAN",
+                                  "LAMP",
+                                  "SWITCH",
+                                  "BLOWER",
+                                  "MIRROR",
+                                  "TILE",
+                                  "NOZZLE",
+                                  "WATER SUPPLY",
+                                  "TOILET BOWL",
+                                  "URINAL",
+                                  "WASH BASIN",
+                                  "SOAP DISPENSER",
+                                  "TOILET PAPER HOLDER"
+                              ]
+                },
+                {
+                    "type":  "LIGHTING",
+                    "qty":  1,
+                    "items":  [
+                                  "LUMINARIES"
+                              ]
+                },
+                {
+                    "type":  "PANIC BUTTON",
+                    "qty":  1
+                },
+                {
+                    "type":  "S/S/O",
+                    "qty":  1
+                },
+                {
+                    "type":  "SSB",
+                    "qty":  5,
+                    "items":  [
+                                  "SSB 1",
+                                  "SSB 2",
+                                  "SSB 3",
+                                  "SSB 4",
+                                  "SSB 5"
+                              ]
+                },
+                {
+                    "type":  "VAV",
+                    "qty":  12,
+                    "items":  [
+                                  "VAV 1",
+                                  "VAV 2",
+                                  "VAV 3",
+                                  "VAV 4",
+                                  "VAV 5",
+                                  "VAV 6",
+                                  "VAV 7",
+                                  "VAV 8",
+                                  "VAV 9",
+                                  "VAV 10",
+                                  "VAV 11",
+                                  "VAV 12"
+                              ]
+                },
+                {
+                    "type":  "VSD",
+                    "qty":  2,
+                    "items":  [
+                                  "VSD 1",
+                                  "VSD 2"
+                              ]
                 },
                 {
                     "type":  "AIR COOLED CHILLER",
