@@ -601,6 +601,14 @@
                 {
                     "type":  "WATER COOLED CHILLER",
                     "qty":  1
+                },
+                {
+                    "items":  [
+                                  "BLIND SPOT MIRROR 1",
+                                  "BLIND SPOT MIRROR 2"
+                              ],
+                    "type":  "BLIND SPOT MIRROR",
+                    "qty":  2
                 }
             ],
     "L10":  [
@@ -896,12 +904,10 @@
                 {
                     "items":  [
                                   "BLIND SPOT MIRROR 1",
-                                  "BLIND SPOT MIRROR 2",
-                                  "BLIND SPOT MIRROR 3",
-                                  "BLIND SPOT MIRROR 4"
+                                  "BLIND SPOT MIRROR 2"
                               ],
-                    "type":  "PARKING",
-                    "qty":  1
+                    "type":  "BLIND SPOT MIRROR",
+                    "qty":  2
                 }
             ],
     "L24":  [
@@ -2837,12 +2843,10 @@
                  {
                      "items":  [
                                    "BLIND SPOT MIRROR 1",
-                                   "BLIND SPOT MIRROR 2",
-                                   "BLIND SPOT MIRROR 3",
-                                   "BLIND SPOT MIRROR 4"
+                                   "BLIND SPOT MIRROR 2"
                                ],
-                     "type":  "PARKING",
-                     "qty":  1
+                     "type":  "BLIND SPOT MIRROR",
+                     "qty":  2
                  }
              ],
     "L21":  [
@@ -4637,6 +4641,14 @@
                 {
                     "type":  "WATER COOLED CHILLER",
                     "qty":  1
+                },
+                {
+                    "items":  [
+                                  "BLIND SPOT MIRROR 1",
+                                  "BLIND SPOT MIRROR 2"
+                              ],
+                    "type":  "BLIND SPOT MIRROR",
+                    "qty":  2
                 }
             ],
     "L34":  [
@@ -5256,6 +5268,14 @@
                 {
                     "type":  "WATER COOLED CHILLER",
                     "qty":  1
+                },
+                {
+                    "items":  [
+                                  "BLIND SPOT MIRROR 1",
+                                  "BLIND SPOT MIRROR 2"
+                              ],
+                    "type":  "BLIND SPOT MIRROR",
+                    "qty":  2
                 }
             ],
     "LP6":  [
@@ -5406,12 +5426,10 @@
                 {
                     "items":  [
                                   "BLIND SPOT MIRROR 1",
-                                  "BLIND SPOT MIRROR 2",
-                                  "BLIND SPOT MIRROR 3",
-                                  "BLIND SPOT MIRROR 4"
+                                  "BLIND SPOT MIRROR 2"
                               ],
-                    "type":  "PARKING",
-                    "qty":  1
+                    "type":  "BLIND SPOT MIRROR",
+                    "qty":  2
                 }
             ],
     "LP4A":  [
@@ -5567,12 +5585,10 @@
                  {
                      "items":  [
                                    "BLIND SPOT MIRROR 1",
-                                   "BLIND SPOT MIRROR 2",
-                                   "BLIND SPOT MIRROR 3",
-                                   "BLIND SPOT MIRROR 4"
+                                   "BLIND SPOT MIRROR 2"
                                ],
-                     "type":  "PARKING",
-                     "qty":  1
+                     "type":  "BLIND SPOT MIRROR",
+                     "qty":  2
                  }
              ],
     "L12":  [
@@ -6869,12 +6885,10 @@
                 {
                     "items":  [
                                   "BLIND SPOT MIRROR 1",
-                                  "BLIND SPOT MIRROR 2",
-                                  "BLIND SPOT MIRROR 3",
-                                  "BLIND SPOT MIRROR 4"
+                                  "BLIND SPOT MIRROR 2"
                               ],
-                    "type":  "PARKING",
-                    "qty":  1
+                    "type":  "BLIND SPOT MIRROR",
+                    "qty":  2
                 }
             ],
     "L29":  [
