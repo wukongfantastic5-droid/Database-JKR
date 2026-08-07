@@ -402,15 +402,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -794,15 +818,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -1096,15 +1144,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -1326,15 +1398,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -1646,15 +1742,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -1936,15 +2056,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -2184,9 +2328,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (F)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -2402,15 +2576,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -2620,15 +2818,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -2850,15 +3072,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -3068,15 +3314,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -3298,15 +3568,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -3558,15 +3852,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -3818,15 +4136,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -4078,15 +4420,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -4338,15 +4704,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -4598,15 +4988,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -4858,15 +5272,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -5118,15 +5556,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -5584,211 +6046,7 @@
       "system": "9.0 Other Mechanical Equipment System",
       "type": "EXHAUST FAN",
       "code": null,
-      "qty": 15
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "SQUAT WC",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "FLUSHVALVE FOR SQUAT WC",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "PEDESTAL WC (WASH DOWN)",
-      "code": null,
-      "qty": 2
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "WASH DOWN WATER CLOSET",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "FLUSHVALVE FOR WC",
-      "code": null,
-      "qty": 3
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "WALL HUNG URINAL",
-      "code": null,
-      "qty": 2
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "FLUSHVALVE FOR URINAL",
-      "code": null,
-      "qty": 2
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "COUNTERTOP WASH BASIN",
-      "code": null,
-      "qty": 2
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "BASIN TAP (COUNTERTOP)",
-      "code": null,
-      "qty": 2
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "WALL HUNG WASH BASIN",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "BASIN TAP (WALL HUNG)",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "SOAP HOLDER",
-      "code": null,
-      "qty": 2
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "TOILET PAPER HOLDER",
-      "code": null,
-      "qty": 3
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "NAPKIN DISPOSER",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "LIQUID SOAP DISPENSER",
-      "code": null,
-      "qty": 3
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND BIDET",
-      "code": null,
-      "qty": 2
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "BIB TAP",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "SHOWER SET (HEAD & ARM)",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "SHOWER CONTROL TAP",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "TOWEL RAIL",
-      "code": null,
-      "qty": 2
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "ROBE HOOK",
-      "code": null,
-      "qty": 2
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "MOP RECEPTOR",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "GRAB BAR 1 (U-TYPE 800MM)",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "GRAB BAR 2 (L-TYPE 700x700)",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "GRAB BAR 3 (C-TYPE 600)",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "MIRROR",
-      "code": null,
-      "qty": 2
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "RUBBISH BIN",
-      "code": null,
-      "qty": 2
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "GRATING FOR FLOOR DRAIN",
-      "code": null,
-      "qty": 3
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "DISABLED PEDESTAL WC (WASH DOWN)",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "DISABLED PEDESTAL WC (SUITE)",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "DISABLED WASH BASIN TAP",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "DISABLED WASH BASIN",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "PAPER TOWEL DISPENSER",
-      "code": null,
-      "qty": 1
-    },
-    {
-      "system": "9.0 Other Mechanical Equipment System",
-      "type": "MODESTY PANEL",
-      "code": null,
-      "qty": 3
+      "qty": 4
     }
   ],
   "L19": [
@@ -5878,15 +6136,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -6138,15 +6420,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -6398,15 +6704,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -6658,15 +6988,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -6918,15 +7272,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -7178,15 +7556,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -7438,15 +7840,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -7698,15 +8124,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -7958,15 +8408,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -8218,15 +8692,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -8478,15 +8976,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -8738,15 +9260,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -8998,15 +9544,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -9258,15 +9828,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -9524,15 +10118,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -9784,15 +10402,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -10044,15 +10686,39 @@
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "HAND DRYER",
+      "type": "HAND DRYER (M)",
       "code": null,
-      "qty": 3
+      "qty": 1
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
-      "type": "EXHAUST FAN",
+      "type": "HAND DRYER (F)",
       "code": null,
-      "qty": 15
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER (D)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (M)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (F)",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EXHAUST FAN (D)",
+      "code": null,
+      "qty": 5
     },
     {
       "system": "9.0 Other Mechanical Equipment System",
@@ -10390,7 +11056,7 @@
       "system": "9.0 Other Mechanical Equipment System",
       "type": "EXHAUST FAN",
       "code": null,
-      "qty": 15
+      "qty": 4
     }
   ],
   "L37": [
