@@ -1,0 +1,3066 @@
+{
+  "LB1": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR COOLED SPLIT UNIT",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AXIAL",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "CENTRIFUGAL JET FAN",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 4
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "JET FAN",
+      "code": null,
+      "qty": 14
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "PROPELLER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER B1",
+      "code": null,
+      "qty": 17
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 B1",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SMOKESPILL VANE AXIAL",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "SUMP PUMP NO.1",
+      "code": null,
+      "qty": 1
+    }
+  ],
+  "LB2": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR COOLED SPLIT UNIT",
+      "code": null,
+      "qty": 4
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "CENTRIFUGAL JET FAN",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 4
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "JET FAN",
+      "code": null,
+      "qty": 14
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "PROPELLER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "SMOKESPILL VANE AXIAL",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER B2",
+      "code": null,
+      "qty": 17
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 B2",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "3.0 Lift",
+      "type": "LIFT - BASEMENT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "5.0 Cold Water Supply & Booster Pump",
+      "type": "RAIN WATER HARVESTING FILTER SYSTEM",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "8.0 Irrigation System & Landscape",
+      "type": "IRRIGATION WATER PUMP SET",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "GREY WATER HARVESTING FILTER SYSTEM",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "GREY WATER SUCTION PUMP SET",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "SUMP PUMP NO.1",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "SUMP PUMP NO.2",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "SUMP PUMP NO.3",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "SUMP PUMP NO.4",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "SUMP PUMP NO.5",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "SUMP PUMP NO.6",
+      "code": null,
+      "qty": 1
+    }
+  ],
+  "LP1": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR COOLED SPLIT UNIT",
+      "code": null,
+      "qty": 4
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AXIAL",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "CENTRIFUGAL JET FAN",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 4
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "JET FAN",
+      "code": null,
+      "qty": 9
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER P1",
+      "code": null,
+      "qty": 9
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER P1A",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER P2",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER P2A",
+      "code": null,
+      "qty": 7
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER PLAZA",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 P1",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 P1A",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 P2A",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 PLAZA",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "FIREMAN INTERCOM PANEL",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "FM 200 SYSTEM",
+      "code": null,
+      "qty": 4
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "HYDRANT PILLAR 1",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "HYDRANT PILLAR 2",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "MAIN FIRE ALARM PANEL C/W PC",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SMOKE SPILL FAN",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SPRINKLER DUTY PUMP - STAGE 2",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SPRINKLER JOCKEY PUMP - STAGE 2",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SPRINKLER PUMP CONTROL PANEL - STAGE 2",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SPRINKLER STANDBY PUMP - STAGE 2",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SPRINKLER SYSTEM STAGE 1 (GRAVITY)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "WET RISER DUTY PUMP - STAGE 1",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "WET RISER JOCKEY PUMP - STAGE 1",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "WET RISER PUMP CONTROL PANEL -STAGE 1",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "WET RISER STANDBY PUMP - STAGE 1",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "3.0 Lift",
+      "type": "LIFT - FIRE 2",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "3.0 Lift",
+      "type": "LIFT PC AND INTERCOM",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "5.0 Cold Water Supply & Booster Pump",
+      "type": "RAIN WATER HARVESTING OSD PUMP SET (PLAZA)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "BMS SERVER WORK STATION",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "EMS SERVER WORK STATION",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "ROLLER SHUTTER 1",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "ROLLER SHUTTER 2",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "SPKA - BOMBA LINK",
+      "code": null,
+      "qty": 1
+    }
+  ],
+  "LM": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AUTO TUBE BRUSHING SYSTEM CHILLER 1",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AXIAL",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "CENTRIFUGAL JET FAN",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "CHILLED WATER PUMP",
+      "code": "CHWP1",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "CHILLED WATER PUMP",
+      "code": "CHWP2",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "CHILLED WATER PUMP",
+      "code": "CHWP3",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "CONDENSER WATER PUMP",
+      "code": "CWP1",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "CONDENSER WATER PUMP",
+      "code": "CWP2",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "CONDENSER WATER PUMP",
+      "code": "CWP3",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "JET FAN",
+      "code": null,
+      "qty": 14
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "PROPELLER",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 8
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "WATER COOLED CHILLER",
+      "code": "CH1",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "WATER COOLED CHILLER",
+      "code": "CH2",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "WATER COOLED CHILLER",
+      "code": "CH3",
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER MEZZ",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER P3",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER P3A",
+      "code": null,
+      "qty": 7
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER P4",
+      "code": null,
+      "qty": 4
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER P4A",
+      "code": null,
+      "qty": 10
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 MEZZ",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 P3A",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 P4",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 P4A",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "FM 200 SYSTEM",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SMOKE SPILL FAN",
+      "code": null,
+      "qty": 8
+    },
+    {
+      "system": "5.0 Cold Water Supply & Booster Pump",
+      "type": "COLD WATER TANK - 001",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "5.0 Cold Water Supply & Booster Pump",
+      "type": "DOMESTIC COLD WATER SUCTION PUMP",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L1": [
+    {
+      "system": "1.0 ACMV",
+      "type": "COOLING TOWER",
+      "code": "CT1",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "COOLING TOWER",
+      "code": "CT2",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "COOLING TOWER",
+      "code": "CT3",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "NON CHEMICAL WATER TREATMENT 1",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "NON CHEMICAL WATER TREATMENT 2",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "REFRIGERANT LEAK DETECTOR 1",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "REFRIGERANT LEAK DETECTOR 2",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "REFRIGERANT LEAK DETECTOR 3",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE REFRIGERANT FLOW",
+      "code": null,
+      "qty": 24
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 1",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER P5",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER P5A",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER P6",
+      "code": null,
+      "qty": 4
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER P6A",
+      "code": null,
+      "qty": 7
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 1",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 P5A",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 P6A",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "LPG SYSTEM",
+      "code": null,
+      "qty": 1
+    }
+  ],
+  "L2": [
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "PROPELLER",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE REFRIGERANT FLOW",
+      "code": null,
+      "qty": 23
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 2",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER P7",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER P7A",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 2",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 P7A",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "HYDRANT PILLAR 3",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L3": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR COOLED SPLIT UNIT",
+      "code": null,
+      "qty": 8
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR CURTAIN 1 ( 3’ )",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR CURTAIN 1 ( 4’ & 3’ )",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR CURTAIN 2 ( 3’ )",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR CURTAIN 2 ( 4’ & 3’ )",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR CURTAIN 3 ( 4’ & 3’ )",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR CURTAIN 4 ( 4’ & 3’ )",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR CURTAIN 5 ( 3’ )",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR CURTAIN 6 ( 3’ )",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR CURTAIN 7 ( 3’ )",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AXIAL",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "BIRFUCATED",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 10
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 3",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER CAFE L3",
+      "code": null,
+      "qty": 8
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 3",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "PRESSURISATION FAN",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "WET CHEMICAL SYSTEM",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "5.0 Cold Water Supply & Booster Pump",
+      "type": "WATER FILTER",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "7.0 Kitchen Equipment",
+      "type": "KITCHEN EXHAUST HOOD 1",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "7.0 Kitchen Equipment",
+      "type": "KITCHEN EXHAUST HOOD 2",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "7.0 Kitchen Equipment",
+      "type": "KITCHEN EXHAUST HOOD 3",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "7.0 Kitchen Equipment",
+      "type": "KITCHEN EXHAUST HOOD 4",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "7.0 Kitchen Equipment",
+      "type": "KITCHEN EXHAUST HOOD 5",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "7.0 Kitchen Equipment",
+      "type": "KITCHEN EXHAUST HOOD 6",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "ROLLER SHUTTER 10",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "ROLLER SHUTTER 11",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "ROLLER SHUTTER 12",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "ROLLER SHUTTER 13",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "ROLLER SHUTTER 14",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "ROLLER SHUTTER 3",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "ROLLER SHUTTER 4",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "ROLLER SHUTTER 5",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "ROLLER SHUTTER 6",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "ROLLER SHUTTER 7",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "ROLLER SHUTTER 8",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "ROLLER SHUTTER 9",
+      "code": null,
+      "qty": 1
+    }
+  ],
+  "L4": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 4",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 4",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L5": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 5",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 5",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L6": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 6",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 6",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L7": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 7",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 7",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L8": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 8",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 8",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L9": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 9",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 9",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L10": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 10",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 10",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L11": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 11",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 11",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L12": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 12",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 12",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L13": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 13",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 13",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L14": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 14",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 14",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L15": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 10
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 15",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 15",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L16": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 16",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 16",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L17": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 17",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 17",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L18": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AXIAL",
+      "code": null,
+      "qty": 4
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "CHILLED WATER EXPANSION TANK",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "COOLING TOWER MAKE UP WATER STORAGE TANK",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "HEAT RECOVERY WHEEL",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "PLATE HEAT EXCHANGER",
+      "code": "HEX1",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "PLATE HEAT EXCHANGER",
+      "code": "HEX2",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "SECONDARY CHILLED WATER PUMP",
+      "code": "SCHWP1",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "SECONDARY CHILLED WATER PUMP",
+      "code": "SCHWP2",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "SECONDARY CHILLED WATER PUMP",
+      "code": "SCHWP3",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "SMOKESPILL AXIAL",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 18",
+      "code": null,
+      "qty": 7
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 18",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "FM 200 SYSTEM",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "PRESSURISATION FAN",
+      "code": null,
+      "qty": 4
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SMOKE SPILL FAN",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SPRINKLER DUTY PUMP - STAGE 3",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SPRINKLER DUTY PUMP - STAGE 4",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SPRINKLER JOCKEY PUMP - STAGE 3",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SPRINKLER JOCKEY PUMP - STAGE 4",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SPRINKLER PUMP CONTROL PANEL - STAGE 3",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SPRINKLER PUMP CONTROL PANEL - STAGE 4",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SPRINKLER STANDBY PUMP - STAGE 3",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SPRINKLER STANDBY PUMP - STAGE 4",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SPRINKLER TANK",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "WET RISER DUTY PUMP - STAGE 2",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "WET RISER DUTY PUMP - STAGE 3",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "WET RISER INTERMEDIATE TANK",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "WET RISER JOCKEY PUMP - STAGE 2",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "WET RISER JOCKEY PUMP - STAGE 3",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "WET RISER PUMP CONTROL PANEL - STAGE 2",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "WET RISER PUMP CONTROL PANEL STAGE 3",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "WET RISER STANDBY PUMP - STAGE 2",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "WET RISER STANDBY PUMP - STAGE 3",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "3.0 Lift",
+      "type": "LIFT - LOW ZONE",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "5.0 Cold Water Supply & Booster Pump",
+      "type": "COLD WATER INTERMIDIATE SUCTION PUMP",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "5.0 Cold Water Supply & Booster Pump",
+      "type": "DCW INTERMEDIATE STORAGE TANK 1(BASIN)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "5.0 Cold Water Supply & Booster Pump",
+      "type": "DCW INTERMEDIATE STORAGE TANK 2(WC & URINAL)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "5.0 Cold Water Supply & Booster Pump",
+      "type": "DCW INTERMEDIATE SUCTION TANK",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "5.0 Cold Water Supply & Booster Pump",
+      "type": "TREATED WASTE WATER INTERMEDIATE TANK",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "TREATED GREY WATER INTERMEDIATE PUMP SET",
+      "code": null,
+      "qty": 1
+    }
+  ],
+  "L19": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 4
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "PRECISION AIR CONDITIONING -1",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "PRECISION AIR CONDITIONING -2",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "PRECISION AIR CONDITIONING -3",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 19",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 19",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "FM 200 SYSTEM",
+      "code": null,
+      "qty": 4
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "VESDA SYSTEM",
+      "code": null,
+      "qty": 4
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "FIRE RATED ROLLER SHUTTER -1",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "FIRE RATED ROLLER SHUTTER -2",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L20": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 20",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 20",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L21": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 21",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 21",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L22": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 22",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 22",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L23": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 12
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 23",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 23",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L24": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 10
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 24",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 24",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L25": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 10
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 25",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 25",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L26": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 10
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 26",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 26",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L27": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 10
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 27",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 27",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L28": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 10
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 28",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 28",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L29": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 10
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 29",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 29",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L30": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 10
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 30",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 30",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L31": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 10
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 31",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 31",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L32": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 10
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 32",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 32",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L33": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "CENTRIFUGAL IN LINE FAN",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 8
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 33",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 33",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L34": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 8
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 34",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 34",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L35": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR HANDLING UNIT",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "ELECTRONIC AIR FILTER",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "FAN COIL UNIT",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE AIR VOLUME",
+      "code": null,
+      "qty": 6
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "VARIABLE SPEED DRIVE",
+      "code": null,
+      "qty": 2
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 35",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 35",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "9.0 Other Mechanical Equipment System",
+      "type": "HAND DRYER",
+      "code": null,
+      "qty": 2
+    }
+  ],
+  "L36": [
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR COOLED CHILLER",
+      "code": "CH4",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AIR COOLED CHILLER",
+      "code": "CH5",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "AXIAL",
+      "code": null,
+      "qty": 3
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "CHILLED WATER PUMP",
+      "code": "CHWP4",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "CHILLED WATER PUMP",
+      "code": "CHWP5",
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "HEAT RECOVERY WHEEL",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "1.0 ACMV",
+      "type": "SECONDARY CHILLED WATER EXPANSION TANK",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 36",
+      "code": null,
+      "qty": 5
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 36",
+      "code": null,
+      "qty": 4
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "HOSE REEL DUTY PUMP",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "HOSE REEL PUMP CONTROL PANEL",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "HOSE REEL STANDBY PUMP",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "HOSEREEL WATER TANK STORAGE",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "SMOKE SPILL FAN",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "4.0 Gondola",
+      "type": "GONDOLA",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "5.0 Cold Water Supply & Booster Pump",
+      "type": "DCW STORAGE TANK 1(BASIN)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "5.0 Cold Water Supply & Booster Pump",
+      "type": "DCW STORAGE TANK 2(WC & URINAL)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "5.0 Cold Water Supply & Booster Pump",
+      "type": "DOMESTIC COLD WATER BOOSTER PUMP ( WASH BASIN)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "5.0 Cold Water Supply & Booster Pump",
+      "type": "DOMESTIC COLD WATER BOOSTER PUMP (WC FLUSH VALVE)",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "5.0 Cold Water Supply & Booster Pump",
+      "type": "RAINWATER HARVESTING TANK",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "5.0 Cold Water Supply & Booster Pump",
+      "type": "TREATED WASTE WATER ROOF STORAGE TANK(WC&URINAL)",
+      "code": null,
+      "qty": 1
+    }
+  ],
+  "L37": [
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "ABC DRY POWDER ARAS 37",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "2.0 Fire Fighting",
+      "type": "CO2 ARAS 37",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "3.0 Lift",
+      "type": "LIFT - FIRE 1",
+      "code": null,
+      "qty": 1
+    },
+    {
+      "system": "3.0 Lift",
+      "type": "LIFT - HIGH ZONE",
+      "code": null,
+      "qty": 6
+    }
+  ]
+}
