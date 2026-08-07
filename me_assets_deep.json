@@ -135,7 +135,7 @@
       "qty": 2
     },
     {
-      "system": "5.0 Cold Water Supply & Booster Pump",
+      "system": "9.0 Other Mechanical Equipment System",
       "type": "RAIN WATER HARVESTING FILTER SYSTEM",
       "code": null,
       "qty": 1
@@ -383,7 +383,7 @@
       "qty": 1
     },
     {
-      "system": "5.0 Cold Water Supply & Booster Pump",
+      "system": "9.0 Other Mechanical Equipment System",
       "type": "RAIN WATER HARVESTING OSD PUMP SET (PLAZA)",
       "code": null,
       "qty": 1
@@ -3025,7 +3025,7 @@
       "qty": 1
     },
     {
-      "system": "5.0 Cold Water Supply & Booster Pump",
+      "system": "9.0 Other Mechanical Equipment System",
       "type": "RAINWATER HARVESTING TANK",
       "code": null,
       "qty": 1
