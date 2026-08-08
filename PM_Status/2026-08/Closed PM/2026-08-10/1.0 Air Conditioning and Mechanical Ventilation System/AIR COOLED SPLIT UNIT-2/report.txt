@@ -1,0 +1,17 @@
+PPM TASK REPORT
+====================
+System    : 1.0 Air Conditioning and Mechanical Ventilation System / 1.1.3 Cooling Towers
+Item      : 1.1.3
+Desc      : Cooling Towers
+Frequency : D/M  Markers: D
+Status    : closed
+Technician: Mohd Sukizam bin Mohammed Ali (A)
+Attended  : 2026-08-09T01:23:54.890205
+Started   : 2026-08-09T01:23:54.890205
+Closed    : 2026-08-09T01:24:19.351487
+Floor     : Aras 31
+Asset     : AIR COOLED SPLIT UNIT-2
+WO No     : 2265
+Findings  : 
+Remark    : 
+
