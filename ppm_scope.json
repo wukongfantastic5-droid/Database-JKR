@@ -1,0 +1,6226 @@
+[
+  {
+    "sys": "1.0",
+    "sheet": "1.0 ACMV",
+    "entries": [
+      {
+        "nums": [],
+        "code": "1",
+        "sec": "",
+        "title": "AIR - CONDITIONING  AND MECHANICAL VENTILATION SYSTEM",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [],
+        "code": "a.",
+        "sec": "",
+        "title": "Operation",
+        "freq": [],
+        "items": [],
+        "prose": [
+          "Operation of ACMV will be done and monitored through Building Automation System (BMS). The Contractors Operator will man the BMS room and response to any complaint with regards to daily operation of Air-Condition and Mechanical Ventilation System. The equipment shall be monitored, inspected, checked, cleaned and etc.",
+          "The Contractor shall ensure that the readings in BMS/BSC are corresponding to the actual reading at site using sling or digital thermometer.",
+          "Please refer KeTHHA :BT18/2 Jld.2 ( ) bertarikh 19 Oktober 2011 Garis Panduan Penjimatan Tenaga Melalui Penetapan Suhu Pada Tahap Minimum 24°C Di Bangunan Kerajaan."
+        ]
+      },
+      {
+        "nums": [],
+        "code": "b.",
+        "sec": "",
+        "title": "Maintenance",
+        "freq": [],
+        "items": [],
+        "prose": [
+          "The maintenance of ACMV will be carried  out in accordance with the manufacturer's schedule. The contractor shall maintain Air-Condition and Mechanical Ventilation equipment and system and shall generally carry out the following but not limited to :-"
+        ]
+      },
+      {
+        "nums": [
+          "1.1"
+        ],
+        "code": "1.1",
+        "sec": "",
+        "title": "Chilled Water System Water  / Air Cooled Chiller System",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "1.1",
+          "1.1.1"
+        ],
+        "code": "1.1.1",
+        "sec": "",
+        "title": "Plant Room",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "1.1",
+          "1.1.1"
+        ],
+        "code": "i.",
+        "sec": "",
+        "title": "General",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect plant room cleanliness. Clean as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect for correct labelling. Do labelling as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect emergency light. Repair or replace as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect ventilation system. Repair as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect condition of door. Repair or replace as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect light intensity. Repair or replace as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect floor trap/ drain to ensure good water flow. Repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect pump circuit diagram (laminated & framed) are up to date. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect pump layout diagram (laminated & framed) are up to date.  Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect portable fire extinguisher ( ABC Dry Poder  / CO2). Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect chemical dosing pumps for condenser water system. Check the correct chemical used. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "1.1",
+          "1.1.1"
+        ],
+        "code": "ii.",
+        "sec": "",
+        "title": "Chillers",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect chillers general condition. If abnormal, trace the faults and rectify as necessary.",
+            "freq": [
+              "D"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Take reading of current, voltage, pressure, temperature, etc. Compare with design readings. If abnormal, trace the faults and rectify as necessary.",
+            "freq": [
+              "D"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect all seals, gaskets and pipes if leaks. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect oil pressure.  If abnormal, trace the faults and rectify as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect crankcase heater. Repair/  replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect chilled water pressure drop across chillers and condenser. If abnormal, trace the faults and rectify as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect the operation of all safety devices. Clean, adjust, lubricate, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect purge unit operation.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect the suction and discharge pressures of all refrigerant compressors. If abnormal, trace the faults and rectify as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Drain and flush purge unit. Replace oil.",
+            "freq": [
+              "Y"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect all refrigerant and oil levels. Charge refrigerant and oil into the refrigerant system as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Clean condenser tubes.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "m.",
+            "text": "Service chillers including changing of compressor oil, filter, leak test and topping up refrigerant.",
+            "freq": [
+              "6M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "1.1",
+          "1.1.1"
+        ],
+        "code": "iii.",
+        "sec": "",
+        "title": "Pumps",
+        "freq": [
+          "M"
+        ],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect condition of pumps. (Cleanliness/ appearance/ noise).",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect all pump bearings for excessive noise, vibration and wear. Lubricate with oil or grease and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect all motor bearings, lubricate with grease and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect carbon brushes and slip rings of all motors. Clean, repair or replace  as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect safety devices fitted to all motors. Clean, adjust, lubricate, repair or replace  as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect all seals for leakages. Repair or replace  as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect each pump/ motor alignment, mountings and correct rotation. Adjust or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect all rubber couplings between pumps and drive motor. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect all belt drives. Adjust and retension. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect and tighten all bolts and nuts. Replace  as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Inspect and test pressure switches and gauges. Repair or replace  as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": [
+          "g"
+        ]
+      },
+      {
+        "nums": [
+          "1.1",
+          "1.1.1"
+        ],
+        "code": "iv.",
+        "sec": "",
+        "title": "Electric Motors",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect and clean all electric motors. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect all motor bearings, lubricate with grease. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect safety devices fitted to motors. Clean, adjust, lubricate, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect motor terminal connection. Check winding, clean and retighten as necessary.",
+            "freq": [
+              "3M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Take reading of current,voltage,presssure,temperature, etc. Compare with design readings, if abnormal trace the faults and rectify as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "a.",
+            "text": "Inspect the condition of the panel and its housing. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect and test the control wiring and circuitry. Retighten, repair  or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the operation of selector switches. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect the operation of auto-manual selector switches. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect the operation of stop-start buttons. Repair or replace  as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect or replace indicating bulbs and covers as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect the routine operation of all electrical starters, electrical control gears and ancillary electrical apparatus. Repair or replace  as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect all electrical contactors relays. Clean and retighten all loose connections.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Clean or replace electrical contactors relays as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect electric fuses. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect the condition of the conduits, supports and wires. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": [
+          "v"
+        ]
+      },
+      {
+        "nums": [
+          "1.1",
+          "1.1.2"
+        ],
+        "code": "1.1.2",
+        "sec": "",
+        "title": "",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect plant room cleanliness.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect for correct labelling.",
+            "freq": [
+              "3M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect emergency light.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect condition of door.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect light intensity.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect heat exchanger in a good condition. If abnormal, trace the faults and report to utilities provider.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": [
+          "Heat Exchanger Plant Room"
+        ]
+      },
+      {
+        "nums": [
+          "1.1",
+          "1.1.3"
+        ],
+        "code": "1.1.3",
+        "sec": "",
+        "title": "",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect all water cooling towers in a good condition. If abnormal, trace the faults and rectify as necessary.",
+            "freq": [
+              "D"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect all fan and fan bearings. Lubricate with grease. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect all belt drives. Adjust and retention. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect and clean all water screens.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect the operation of all cooling tower sprinkler head. Replace if necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect the operation of all spray nozzles and clean. Replace if necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Drain, clean and flush cooling tower basin and honey-comb in-fills.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect and clean float valve. Adjust water level. Replace if necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect and service motors and controllers. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": [
+          "Cooling Towers"
+        ]
+      },
+      {
+        "nums": [
+          "1.1",
+          "1.1.4"
+        ],
+        "code": "1.1.4",
+        "sec": "",
+        "title": "",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect all chilled water storage and expansion tanks, chilled water pipes, valves, etc. Clean, service and flush as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect pipe insulation and pipe supports. Replace as necessary.",
+            "freq": [
+              "Y"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect all measuring devices for correct operation. Repair or replace as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Conduct chilled water quality test.",
+            "freq": [
+              "Y"
+            ]
+          }
+        ],
+        "prose": [
+          "Chilled Water Storage and Expansion Tanks"
+        ]
+      },
+      {
+        "nums": [
+          "1.1",
+          "1.1.5"
+        ],
+        "code": "1.1.5",
+        "sec": "",
+        "title": "",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect all air-handling units and fan-coils. If abnormal, trace the faults and rectify as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect all air filters. Clean or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect all chilled  water coils, seals and pipe lines for leaks. Rectify as necessary.",
+            "freq": [
+              "3M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect all fans and fan bearings. Lubricate with grease. Replace as necessary.",
+            "freq": [
+              "3M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect the routine operation of all automatic temperature control gears and relay.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect all bearings, pivots and other moving parts. Clean, adjust, lubricate and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect all belt drives. Adjust and retension. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect the operation of all automatic water regulating valves. Clean, adjust, lubricate and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect the operation of all automatic multi-blade face and by-pass damper. Clean, adjust and lubricate as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect operation of thermostat. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Inspect and clean strainers. Repair or replace  as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "m.",
+            "text": "Clean cooling coil with high pressure water jet and alkaline cleaning chemicals.",
+            "freq": [
+              "Y"
+            ]
+          },
+          {
+            "code": "n.",
+            "text": "Inspect insulation. Repair or replace  as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "o.",
+            "text": "Inspect and clean all electric motors. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "p.",
+            "text": "Inspect all motor bearings and lubricate with grease. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "r.",
+            "text": "Inspect leaks at joints, fittings and piping. Repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "s.",
+            "text": "Inspect leakage or clogging at drain pan and drain line. Clean, flush, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "t.",
+            "text": "Manually turn blower(s) wheel. It should run smoothly there should be no excessive noise.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "u.",
+            "text": "Inspect all heater elements and other accessories. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "v.",
+            "text": "Inspect the operation of CO2 probe and detector and damper (if available). Clean, adjust, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": [
+          "Air-Handling Units and Fan-Coils"
+        ]
+      },
+      {
+        "nums": [
+          "1.1",
+          "1.1.5"
+        ],
+        "code": "c.",
+        "sec": "",
+        "title": "Replace all :",
+        "freq": [
+          "6M"
+        ],
+        "items": [],
+        "prose": [
+          "i. Primary filters.",
+          "ii. Secondary filters. (If available)",
+          "q"
+        ]
+      },
+      {
+        "nums": [
+          "1.1",
+          "1.1.6"
+        ],
+        "code": "1.1.6",
+        "sec": "",
+        "title": "",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect all grilles, dampers including shutters if available are working correctly. Clean, adjust, repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Measure air flow. Adjust and balance air flow as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect ductwork for leaks, damage or corrosion. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect for moisture and condensation. Repair or replace insulation as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect duct insulation for tears and air leaks. Patch or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect the internal of ducting to determine dust built up. Repair and clean as necessary.",
+            "freq": [
+              "5Y"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect internal insulation supply duct after AHU. (If applicable)",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect, measure and adjust air balancing for all AHU as per technical requirement. \n(Note : Works to be delivered by 2029 or 2030 as per FSO instruction)",
+            "freq": [
+              "5Y"
+            ]
+          }
+        ],
+        "prose": [
+          "Ducting, Grilles and Dampers"
+        ]
+      },
+      {
+        "nums": [
+          "1.1",
+          "1.1.7"
+        ],
+        "code": "1.1.7",
+        "sec": "",
+        "title": "",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the function of the complete ventilation, pressurization, exhaust and smoke spill system. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Adjust air volume control dampers as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the operation of all fans and motors. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Test operation of system under simulated fire condition. Repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": [
+          "The Performance of The Complete Ventilation, Pressurization, Exhaust and Smoke Spill System"
+        ]
+      },
+      {
+        "nums": [
+          "1.4"
+        ],
+        "code": "1.4",
+        "sec": "",
+        "title": "",
+        "freq": [],
+        "items": [],
+        "prose": [
+          "Air Cooled Split Unit/ VRF"
+        ]
+      },
+      {
+        "nums": [
+          "1.4",
+          "1.4.1"
+        ],
+        "code": "1.4.1",
+        "sec": "",
+        "title": "",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect unit for any abnormalities. Trace the faults and rectify as necessary.",
+            "freq": [
+              "D"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect and clean all air filters.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect leakage or clogging at drain pan and drain line. Clean, flush, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Clean cooling coil with high pressure water jet and alkaline cleaning chemicals.",
+            "freq": [
+              "Y"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect refrigerant piping, joints, fittings and insulation for  leaks or damages. Repair and top up refrigerant as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": [
+          "Evaporator (Cooling Unit)"
+        ]
+      },
+      {
+        "nums": [
+          "1.4",
+          "1.4.2"
+        ],
+        "code": "1.4.2",
+        "sec": "",
+        "title": "",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the suction and discharge pressures of all refrigerant compressors. If abnormal, trace the faults and rectify as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect refrigerant leaks at joints, fittings, piping and compressors. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect all fans and motors as necessary. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect condensing coil. Repair or replace as necessary. Clean coil and comb the fins as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect filter dryer. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect compressor units. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect rubber padding. Replace as necessary.",
+            "freq": [
+              "Y"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Clean cooling coil with high pressure water jet and alkaline cleaning chemicals.",
+            "freq": [
+              "Y"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect bracket or hanger. Repair or replace  as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": [
+          "Condenser"
+        ]
+      },
+      {
+        "nums": [
+          "1.4",
+          "1.4.3"
+        ],
+        "code": "1.4.3",
+        "sec": "",
+        "title": "",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the condition of the panel and its housing. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect and test the control wiring and circuitry. Retighten, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the operation of selector switches. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect the operation of auto-manual selector switches. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect the operation of stop-start buttons. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect or replace indicating bulbs and covers.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect the routine operation of all electrical starters, electrical control gears and ancillary electrical apparatus. Repair or replace  as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect all electrical contactors, relays. Clean and retighten all loose connections.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Clean or replace electrical contactors, relays  as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect electric fuses. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect the condition of the conduits, supports and wires. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Check for error code using manufacturer software. Repair and troubleshoot error.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": [
+          "Electrical Switchboard / Control Panel"
+        ]
+      },
+      {
+        "nums": [
+          "1.5"
+        ],
+        "code": "1.5",
+        "sec": "",
+        "title": "",
+        "freq": [],
+        "items": [],
+        "prose": [
+          "Precision Air Conditioning"
+        ]
+      },
+      {
+        "nums": [
+          "1.5",
+          "1.5.1"
+        ],
+        "code": "1.5.1",
+        "sec": "",
+        "title": "",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect and clean all air filters",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect leakage or clogging at drain pan and drain line. Clean, flush, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect refrigerant piping, joints, fittings and insulation for  leaks or damages. Repair and top up refrigerant as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect remote control. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Clean cooling coil with suitable cleaning method.",
+            "freq": [
+              "Y"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect the suction and discharge pressures of all refrigerant compressors. If abnormal, trace the faults and rectify as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect refrigerant leaks at joints, fittings, piping and compressors. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect all fans and motors as necessary. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect condensing coil. Repair as necessary. Clean coil and comb the fins as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect filter dryer. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect compressor units. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Inspect bracket/ hanger. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "m.",
+            "text": "Inspect rubber padding. Replace as necessary.",
+            "freq": [
+              "Y"
+            ]
+          }
+        ],
+        "prose": [
+          "Evaporator / Condensor"
+        ]
+      },
+      {
+        "nums": [
+          "1.5",
+          "1.5.2"
+        ],
+        "code": "1.5.2",
+        "sec": "",
+        "title": "",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the condition of the panel and its housing. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect and test the control wiring and circuitry. Retighten, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the operation of selector switches. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect the operation of auto-manual selector switches. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect the operation of stop-start buttons. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect or replace indicating bulbs and covers.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect the routine operation of all electrical starters, electrical control gears and ancillary electrical apparatus. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect all electrical contactors, relays. Clean and retighten all loose connections.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Clean/ replace electrical contactors, relays  as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect electric fuses. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect the condition of the conduits, supports and wires. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Check for error code using manufacturer software. Repair and troubleshoot error.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": [
+          "Electrical Switchboard / Control Panel"
+        ]
+      },
+      {
+        "nums": [
+          "1.6"
+        ],
+        "code": "1.6",
+        "sec": "",
+        "title": "",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the condition of every pipe. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect the condition of the pipe supports, brackets, pipe sleeves and piping joints. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the condition of every valve and fitting. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect and clean strainers. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect for correct labeling. Clean and relabeling as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect chilled water pipe insulation. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect painting anti-rust coating. Repaint  as necessary",
+            "freq": [
+              "6M"
+            ]
+          }
+        ],
+        "prose": [
+          "Piping and Fittings (Expose and Accessable)"
+        ]
+      },
+      {
+        "nums": [
+          "1.7"
+        ],
+        "code": "1.7",
+        "sec": "",
+        "title": "",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Clean rust and paint with appropriate one layer of anti-rust paint and finished with existing coloured paint.",
+            "freq": [
+              "Y"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Redo all arrow and labeling.",
+            "freq": [
+              "Y"
+            ]
+          }
+        ],
+        "prose": [
+          "Painting"
+        ]
+      },
+      {
+        "nums": [
+          "1.8"
+        ],
+        "code": "1.8",
+        "sec": "",
+        "title": "",
+        "freq": [
+          "D"
+        ],
+        "items": [],
+        "prose": [
+          "Other Components or Equipments of The Air-Conditioning System"
+        ]
+      }
+    ]
+  },
+  {
+    "sys": "2.0",
+    "sheet": "2.0 Fire Fighting",
+    "entries": [
+      {
+        "nums": [
+          "2",
+          "2.0"
+        ],
+        "code": "2.0",
+        "sec": "",
+        "title": "FIRE FIGHTING SYSTEM",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.1"
+        ],
+        "code": "2.1",
+        "sec": "",
+        "title": "General",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Control and monitoring of all fire systems.",
+            "freq": [
+              "D"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Man in the fire control room during and after office hours ( 24 hours )",
+            "freq": [
+              "D"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect, repair or replace and test the operation of the complete fire fighting system, including the interface and operation of other systems such as lift, ventilation, smoke spill, pressurization, etc.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Test run fire fighting system and simulate fire alarm to ensure all systems are in good working order. Ensure the BOMBA link is operating.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Attend to any complaint, urgent request or complaints raised by the FSO/ SO/ Owner with regards to daily operation.",
+            "freq": [
+              "D"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Conduct fire drill with Jabatan Bomba dan Penyelamat Malaysia (JBPM) for each block / complex c/w fire extinguisher, fuel, warning sign, training fee, meal during meeting and necessary equipment.",
+            "freq": [
+              "Y"
+            ]
+          }
+        ],
+        "prose": [
+          "Manage and supervise the Fire Detection and Alarm, Fire Monitoring and Fire Fighting System operation which shall include:-"
+        ]
+      },
+      {
+        "nums": [
+          "2",
+          "2.1",
+          "2.1.1"
+        ],
+        "code": "2.1.1",
+        "sec": "",
+        "title": "Maintenance",
+        "freq": [],
+        "items": [],
+        "prose": [
+          "The maintenance of Fire Detection and Alarm, Fire monitoring and Fire Fighting System, will be carried out in accordance with the manufacturer's schedule and the schedule below (whichever more stringent) :-"
+        ]
+      },
+      {
+        "nums": [
+          "2",
+          "2.2"
+        ],
+        "code": "2.2",
+        "sec": "",
+        "title": "Wet Riser, Hose Reel and Sprinkler System",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.2",
+          "2.2.1"
+        ],
+        "code": "2.2.1",
+        "sec": "",
+        "title": "Pump Room",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect plant room cleanliness. Clean as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect for correct labelling. Do labelling as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect emergency light. Repair or replace as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect ventilation system. Repair or replace as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect condition of door. Repair or replace as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect light intensity. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect floor trap or drain to ensure good water flow. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect pump circuit and layout diagram (laminated & framed) are up to date. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect portable fire extinguisher ( ABC Dry Powder / CO2 ). Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.2",
+          "2.2.2"
+        ],
+        "code": "2.2.2",
+        "sec": "",
+        "title": "Tank",
+        "freq": [
+          "W"
+        ],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect and report for integrity of structure. Rectify as necessary.",
+            "freq": [
+              "Y"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect for leaks. Repair or replace as necessary. ( note : subject to lifecycle )",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect for rust. Repair / repaint  or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect operation of ball valve. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect water tank level indicator. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect electrode and clean. Repair or replace as necessary (if equipped).",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect for sediment or sludge. Flush and clean.",
+            "freq": [
+              "Y"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect internal and external cat ladder.  Repair/repaint or replace as necessary.",
+            "freq": [
+              "Y"
+            ]
+          }
+        ],
+        "prose": [
+          "i"
+        ]
+      },
+      {
+        "nums": [
+          "2",
+          "2.2",
+          "2.2.3"
+        ],
+        "code": "2.2.3",
+        "sec": "",
+        "title": "Pumps",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.2",
+          "2.2.3"
+        ],
+        "code": "i.",
+        "sec": "",
+        "title": "General",
+        "freq": [
+          "M"
+        ],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect condition of pumps. (Cleanliness/ appearance/ noise). Clean or repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Test run each pump on automatic and manual mode. Repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the correct cut-in or cut-out auto mode operation of the pressure switch. Check pressures. Repair / replaceas necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect all motor bearings, lubricate with grease and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect all pump bearings for excessive noise, vibration and wear. Lubricate with oil or grease and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect carbon brushes and slip rings of all motors. Clean, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect safety devices fitted to all motors. Clean, adjust, lubricate, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect all seals inculding mechanical seals for leakages. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Adjust, repack and replace pump glands as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect each pump or motor aligment, mountings and correct rotation. Adjust or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect all rubber couplings between pumps and drive motor. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Inspect all belt drives. Adjust and retension. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "m.",
+            "text": "Inspect and tighten all bolts and nuts. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "n.",
+            "text": "Inspect and test pressure switches and gauges. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": [
+          "d",
+          "o"
+        ]
+      },
+      {
+        "nums": [
+          "2",
+          "2.2",
+          "2.2.3"
+        ],
+        "code": "ii.",
+        "sec": "",
+        "title": "Control Panel",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the condition of the panel and its housing. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect and test the control wiring and circuitry. Retighten, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect electric pump starter operation, ensure that the starting sequence is correct. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect the operation of selector switches. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect the operation of auto-manual selector switches. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect the operation of stop-start buttons. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect indicating light for trip and run. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect indicating light for pump on auto and pump manual. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect ammeter and voltmeter. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect and retighten all loose connection of all electrical contactors relays as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Clean and replace  electrical contactors relays as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Replace electrical fuses as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "m.",
+            "text": "Inspect the condition of the conduits, supports and wires. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "n.",
+            "text": "Inspect or replace indicating bulbs and covers.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.2",
+          "2.2.4"
+        ],
+        "code": "2.2.4",
+        "sec": "",
+        "title": "Piping and Fittings (Expose and Accessable)",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the condition of every pipe. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect the condition of the pipe supports, brackets, pipe sleeves and piping joints (mechanical coupling/ welded coupling/ threated coupling/ etc.). Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the condition of every valve ( including motorised valves - depend on 20 years lifecycle for motorised valve only ) and fitting. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect and clean strainers. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect for correct labeling. Clean and relabeling as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect fire fighting chilled water pipe insulation. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect painting. Ensure pipes coating of anti rust and standard colour paint are clean and in good condition. Replace or repaint as necessary.",
+            "freq": [
+              "6M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.2",
+          "2.2.5"
+        ],
+        "code": "2.2.5",
+        "sec": "",
+        "title": "Landing Valves, Hose Reel Drums, Cradles, Hoses, Nozzles, etc",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect that the landing valve, canvas hose and hose reel are obstruction free.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect any missing, damaged or deteriorated parts on the landing valve, canvas hose, diffuser nozzle, cradle, hose reel drum and hose reel. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the ease of operation and swing of each cradle and hose reel drum. Adjust, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect for any leaks or drips at the landing valves, drum goose neck and gate valve. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Ensure that each of the landing valves is complete with the blank cap, chain and the hand wheel. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Ensure that the diffuser nozzle & landing valve hand wheel can be operated freely. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Ensure the hose is not twisted or curled.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Test hose reel and canvas hose for leakage. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect and test system for leaks. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.2",
+          "2.2.6"
+        ],
+        "code": "2.2.6",
+        "sec": "",
+        "title": "Sprinkler System",
+        "freq": [
+          "W"
+        ],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect that the sprinkler heads are obstruction free. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect that the sprinkler heads are free of foreign matter and suspended object. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect any missing, damaged or deteriorated parts on the sprinkler head. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect for any leaks or drips at the sprinkler heads. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect for leaks within the system by reading on the pressure gauges. Repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect and ensure the proper operation of water alarm gongs/ buzzer/ siren. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect the flow switches and its signal indication. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect the Jabatan Bomba dan Penyelamat Malaysia (JBPM) breeching inlet and its access. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": [
+          "i"
+        ]
+      },
+      {
+        "nums": [
+          "2",
+          "2.2",
+          "2.2.7"
+        ],
+        "code": "2.2.7",
+        "sec": "",
+        "title": "Breeching Inlet",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the condition of breeching box, door and lock. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect the condition of male couplings, back pressure valves, blank caps (secured with chain). Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the condition of the wired glass and letters \"Injap pancur basah\"/ \"Wet Riser\". Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.3"
+        ],
+        "code": "2.3",
+        "sec": "",
+        "title": "Fire Detection and Alarm System",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect fire detection and alarm system. Trace the faults and rectify as necessary.",
+            "freq": [
+              "D"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect and test all main power supply and earthing.  Adjust, retighten, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect and test all battery charger units. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect all battery alarm panel. Replace to ensure functionality. ( depend on 2 years lifecycle )",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect and test illumination lamps and LEDs. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect and test the functionality of break-glass unit or manual call point. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Test zone rotary switch for functionality. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect and test the functionality of detectors. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect and test system wiring. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Test bell or buzzer and isolation button. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Test alarm and evacuation switch. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Test AHU, lift, smoke spill fan and staircase pressurization tripping mechanism. Ensure all mechanism function effectively. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "m.",
+            "text": "Print out the previous month detection and alarm history. Analyze and take appropriate actions. - submit report to FSO",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "n.",
+            "text": "Inspect or replace indicating bulb and covers.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.4"
+        ],
+        "code": "2.4",
+        "sec": "",
+        "title": "Fireman Intercom System",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.4",
+          "2.4.1"
+        ],
+        "code": "2.4.1",
+        "sec": "",
+        "title": "Panel",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the condition of the panel and its housing. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Ensure that the panel is in a normal-ready condition. Repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect condition of battery charger. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.4",
+          "2.4.2"
+        ],
+        "code": "2.4.2",
+        "sec": "",
+        "title": "Battery",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the condition of the battery and its terminal. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect voltage and ammeter reading. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect and test all battery charger units. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.4",
+          "2.4.2"
+        ],
+        "code": "d.",
+        "sec": "",
+        "title": "Inspect all battery alarm panel. Replace to ensure functionality. ( depend on 2 years lifecycle )",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.4",
+          "2.4.3"
+        ],
+        "code": "2.4.3",
+        "sec": "",
+        "title": "Automatic Control",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect and test the control wiring and circuitry. Random test of the call, talk and fault mode. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect the correct operation of the master and remote handset.  Establish conference calls on auto and manual mode. Test disconnect call on auto and manual mode. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect and test the correct operation of remote status panel. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.4",
+          "2.4.4"
+        ],
+        "code": "2.4.4",
+        "sec": "",
+        "title": "Electrical",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Check the operation of the emergency change over in case of power failure. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Check the wiring connection terminals. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Check the condition of the conduits, wires and supports. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.4",
+          "2.4.5"
+        ],
+        "code": "2.4.5",
+        "sec": "",
+        "title": "Handsets",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the condition of the master hand set. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect the condition of the remote handset box. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect any missing, damaged or deteriorated parts on the remote handset and accessories. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.4",
+          "2.4.6"
+        ],
+        "code": "2.4.6",
+        "sec": "",
+        "title": "General",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Keep remote handsets clean and tidy.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Keep access to panel free from obstructions.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.5"
+        ],
+        "code": "2.5",
+        "sec": "",
+        "title": "Fire Suppression Systems",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.5",
+          "2.5.1"
+        ],
+        "code": "2.5.1",
+        "sec": "",
+        "title": "Cylinders, Hoses, Canister etc.",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect gas cylinder and canister. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect the pressure gauge reading of each cylinder. Refill or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect any missing, damaged or deteriorated parts on the cylinders, hoses, etc. Repair or replace to ensure funcionality.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect the condition of the discharge valve and the tamper seal. Repair or replace to ensure funcionality.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.5",
+          "2.5.2"
+        ],
+        "code": "2.5.2",
+        "sec": "",
+        "title": "Pilot Cylinder",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect and test gas discharge abort switch. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.5",
+          "2.5.3"
+        ],
+        "code": "2.5.3",
+        "sec": "",
+        "title": "Panel",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect and test control panel. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Visually inspect condition of components, resistors wires, zone cards, etc. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect and test AC & DC supply, conduct current voltage continuity and earthing test. Repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect and test of change over switch. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect and test indicator bulbs. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect condition of battery chargers. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect the condition of the battery and its terminal. Replace as necessary. ( depend on 2 years lifecycle )",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.5",
+          "2.5.4"
+        ],
+        "code": "2.5.4",
+        "sec": "",
+        "title": "Devices",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect and test the control wiring and circuitry. Retighten, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Ensure that the detectors are free from obstructions, dust, dirt and cobwebs. Clean as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the condition of the manual key switch/ pull handle. Repair or replace as necessary.",
+            "freq": [
+              "3M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Conduct simulation test (minus gas discharge).",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect and adjust to ensure that the time delay for the CO2 discharge is within 25 – 30 seconds. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect and test the correct operation of interface trip and fire curtain. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect and test the correct operation of the bell and warning light. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect the condition of the manual key switch or pull handle. Replace glass as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.5",
+          "2.5.5"
+        ],
+        "code": "2.5.5",
+        "sec": "",
+        "title": "Aerohub",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Check all electrical connections to ensure operation of the system in the event of a fire. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Make a general visual inspection of all aerosol generators for damage or missing parts. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect condensed aerosol generators for physical damage, such as cracks, dents, distortion or corosion. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect mounting brackets, straps and associated hardware for loose, damage or broken parts. Replace damage part and tighten all loose hardware.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect all electrical control equipments for cracks, broken or cracked glass plate, dirt or distortion. Clean and repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect all electrical connection and run electrical continuity test using Ohmmeter. Repair and replace as necesssary.",
+            "freq": [
+              "6M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.6"
+        ],
+        "code": "2.6",
+        "sec": "",
+        "title": "Portable Fire Extinguishers",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Obtain Bomba certification upon expiry date.",
+            "freq": [
+              "Y"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect any missing, damaged or deteriorated parts on the cylinder, pressure gauge, hose connector, discharge valve, handle, cylinder safety pin, seal and cylinder holder. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect fire extinguisher cabinet. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect the condition of the content. Refill or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": [
+          "Note:- \nReplace Portable Fire Extinguishers cylinder after ten (10) years."
+        ]
+      },
+      {
+        "nums": [
+          "2",
+          "2.7"
+        ],
+        "code": "2.7",
+        "sec": "",
+        "title": "BOMBA  link (SPKA)",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect equipment functionality and others part related.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Replace any missing or damaged component of parts.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Check control panel, telephone line or  mobile service provider, ability to receive SMS, network and other related are in good condition. Repair or replace to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Test the equipment and record.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.8"
+        ],
+        "code": "2.8",
+        "sec": "",
+        "title": "Hydrant System",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.8",
+          "2.8.1"
+        ],
+        "code": "2.8.1",
+        "sec": "",
+        "title": "General",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Examine structural elements for corrosion and damage.  Repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Perform general housekeeping.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect for rusty parts and replace if damages.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Painting distribution pipe, equipment and control panel.",
+            "freq": [
+              "Y"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect hose and cabinet. Replace if damages.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.8",
+          "2.8.2"
+        ],
+        "code": "2.8.2",
+        "sec": "",
+        "title": "Pump Room",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect floor trap or drain ensure good water flow. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect pump circuit diagram or pump layout diagram are up to date. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect portable fire extinguisher (CO2 ). Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.8",
+          "2.8.3"
+        ],
+        "code": "2.8.3",
+        "sec": "",
+        "title": "Tank",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect for leak and rust. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect operation of ball valve. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect water tank level indicator. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect electrode and clean. Repair or replace as necessary.",
+            "freq": [
+              "3M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect for sediment or sludge. Flush and clean.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect internal and external cat ladder. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Internal cleaning water tank (as necessary or directed).",
+            "freq": [
+              "Y"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.8",
+          "2.8.4"
+        ],
+        "code": "2.8.4",
+        "sec": "",
+        "title": "Piping and Fitting",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the condition of every pipe. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect the condition of the pipe support, brackets, pipe sleeve and piping joint. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the condition every valve and fitting. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect plumbing pipe works & fitting and pipe support. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.8",
+          "2.8.5"
+        ],
+        "code": "2.8.5",
+        "sec": "",
+        "title": "Pump & Motor",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect condition (cleanliness/ appearance) of pumps or motor. Clean as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect all bearings for excessive noise, vibration and wear. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect all motor bearing. Lubricate with grease and replace if necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect carbon brushes and slip ring all motors. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect all seals leakages. Repair or replace is necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Adjust repack and replace pump glands as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect pump or motor alignment, mountings and correct rotation. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect all rubber coupling between pump and drive motor. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect all belt drive. Adjust and retention.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect and retighten all bolts and nuts.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect all pressure switch and gauge. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.8",
+          "2.8.6"
+        ],
+        "code": "2.8.6",
+        "sec": "",
+        "title": "Electrical Switch Board",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the condition of the panel and its housing. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect and test the control wiring and circuitry. Retighten, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the operation selector switches. Retighten, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect the operation of stop-start buttons. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect and replace indicator light.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect the routine operation of all electrical starters, electrical control gears and ancillary electrical apparatus. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect all electrical contactors and electric fuses. Clean or replace if necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect the condition of the conduits, supports and wires. Replace if necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "2",
+          "2.9"
+        ],
+        "code": "2.9",
+        "sec": "",
+        "title": "Painting",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect condition of painting, ensure the system (equipment, control panel and piping) are painted with anti rust and coated with red gloss paint. Repaint or recoat as necessary.",
+            "freq": [
+              "6M"
+            ]
+          }
+        ],
+        "prose": []
+      }
+    ]
+  },
+  {
+    "sys": "3.0",
+    "sheet": "3.0 LIFT",
+    "entries": [
+      {
+        "nums": [
+          "3",
+          "3.0"
+        ],
+        "code": "3.0",
+        "sec": "",
+        "title": "LIFT",
+        "freq": [],
+        "items": [],
+        "prose": [
+          "The Contractor shall ensure proper operation of lifts and escalators and shall monitor the operation of the lift and escalator using the Building Management System (BMS) and Elevator Management System. The Contractor’s personnel shall man the BMS control room and respond to any complaint with regards day to day operation and carry out rescue operation to any person trapped in the lift and on the escalator."
+        ]
+      },
+      {
+        "nums": [
+          "3",
+          "3.1"
+        ],
+        "code": "3.1",
+        "sec": "",
+        "title": "Motor Room",
+        "freq": [
+          "M"
+        ],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect motor room cleanliness. Clean as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect for correct labelling. Do labelling as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect emergency light. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect ventilation system. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect condition of door. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect light intensity. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect circuit and layout diagram (laminated & framed) are up to date. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect portable fire extinguisher (CO2). Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect for abnormal noise and vibration. Determine source, adjust, repair or service as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect gearbox oil level, condition, leaks, play and backlash. Adjust, repair or service as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect and lubricate bushes or bearings. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Inspect leakage from traction machine cover gaskets, oil seals. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "m.",
+            "text": "Inspect brake action and adjust as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "n.",
+            "text": "Inspect brake lining and brake spring. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "o.",
+            "text": "Inspect main sheaves and beam pulley. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "p.",
+            "text": "Inspect over speed governor for abnormal noise and vibration. Clean, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "q.",
+            "text": "Inspect function of recall control switch operation. Reset or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "r.",
+            "text": "Inspect controller cooling fan operation. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "s.",
+            "text": "Inspect condition of fans, relays, contactors and contacts inside the controller. Clean, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "t.",
+            "text": "Inspect fuses and tighten terminal wires. Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "u.",
+            "text": "Inspect the operation of inverter. Inspect operation of system, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "v.",
+            "text": "Inspect EBOPS – battery or condition and emergency light or fan operation. Replace as necessary. ( depend on 8 years lifecycle )",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "w.",
+            "text": "Clean governor machine.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "x.",
+            "text": "Clean traction machine.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "y.",
+            "text": "Clean lift controller.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": [
+          "The approved Competent Person (CP) by Department Occupational of Safety and Health (DOSH) and Public Work Department (PWD) shall thoroughly examine the lift and escalator systems and cause them to be serviced and adjusted once in every month. The maintenance of lifts and escalators and its related system shall be carried out in accordance with Part III (maintenance) of the Factories and Machinery’s Act Passenger and Goods Lift) Regulations, 1970, the manufacturers schedule and the schedule below:-",
+          "z"
+        ]
+      },
+      {
+        "nums": [
+          "3",
+          "3.2"
+        ],
+        "code": "3.2",
+        "sec": "",
+        "title": "Hoist Way",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect cleanliness of car top. Clean as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect control switches and lighting. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect tightness of electrical connection in terminal box. Retighten as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect and adjust car top safety gear linkage.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect and lubricate car top pulley as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect condition and clean ventilator fan. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect and adjust door panel (door self closer). Repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect anti crime device. Repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect hoist way limit and safety switches or sensors. Adjust, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect operation of load compensating device. Adjust, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect operation of overload device or buzzer. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Inspect car guide shoes or rollers oil level and flow of automatic lubricators. Top-up as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "m.",
+            "text": "Inspect counter weights guide shoes or rollers oil level and flow of automatic lubricators. Top-up as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "n.",
+            "text": "Inspect wear on linings for car guide shoes or rollers and counter weights guide shoes or rollers. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "o.",
+            "text": "Inspect for abnormal noise. Determine source, adjust, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "p.",
+            "text": "Inspect wire ropes, governor ropes condition and tension. Retension or lubricate as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "q.",
+            "text": "Inspect conditions of guide rails.  Repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "r.",
+            "text": "Inspect traveling cable alignment. Adjust or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "s.",
+            "text": "Inspect and tighten all hoist way bolts and nuts.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "t.",
+            "text": "Inspect and clean smoke detectors. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "3",
+          "3.3"
+        ],
+        "code": "3.3",
+        "sec": "",
+        "title": "Lift Car",
+        "freq": [
+          "M"
+        ],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect riding comfort, abnormal noise, vibration and leveling. Adjust as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect alarm bell/ intercom/ voice synthesizer. Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect buttons, Braille features, switches and indicators condition. Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect emergency light and fan. Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect floor height measurement (clearance). Adjust as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect condition of suspension roller, track and doors. Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect door sill and sliding shoes. Repair and replace as necessary. Check clearance.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect door contact and check alignment. Adjust as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect function of car door safety device (safety edge/ photocell/ full height sensor). Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect tiling or wall panel, repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Recalibrate and testing of overloading device for lift system.",
+            "freq": [
+              "5Y"
+            ]
+          }
+        ],
+        "prose": [
+          "l"
+        ]
+      },
+      {
+        "nums": [
+          "3",
+          "3.4"
+        ],
+        "code": "3.4",
+        "sec": "",
+        "title": "Entrance",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect landing door contact and check alignment. Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect landing door lock switch. Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect suspension rollers and track. Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect landing sill & shoes. Repair and replace as necessary. Check clearance.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect indicators, hall lanterns, call buttons and Braille features. Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "3",
+          "3.5"
+        ],
+        "code": "3.5",
+        "sec": "",
+        "title": "Lift Pit",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect pit cleanliness and lighting. Clean, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Ensure lift pit is in dry condition. Rectify as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect oil and spring buffer. Top-up, repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect alignment of buffer strike plates. Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect, adjust and lubricate/ grease tension pulley.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect safety catch or stop switches. Adjust, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect clearance compensating pulley. Adjust as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect oil compensating pulley and compensating ropes/ chain. Top-up as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect plunger and buffer casing. Clean as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "3",
+          "3.6"
+        ],
+        "code": "3.6",
+        "sec": "",
+        "title": "Automatic Rescue Device (ARD)",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect ARD operation. Rectify as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect battery electrolyte level, top up as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect battery, grease terminals. Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect equalizing charge. Replace if defective.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "3",
+          "3.7"
+        ],
+        "code": "3.7",
+        "sec": "",
+        "title": "Building Control Room",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect operation of master intercom. Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect operation of key switches. Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect operation of indicators. Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect operation of TV monitor, CPU and keyboard. Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect operation of system. Repair and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Arrange and attend to Department of Occupational Safety and Health (DOSH) inspections, mandatory checks, tests and paying the necessary fees.",
+            "freq": [
+              "D"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "3",
+          "3.8"
+        ],
+        "code": "3.8",
+        "sec": "",
+        "title": "VIP Lift Access System",
+        "freq": [
+          "M"
+        ],
+        "items": [
+          {
+            "code": "b.",
+            "text": "Inspect voltage and ammeter reading. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect and test all battery charger units. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "3",
+          "3.8"
+        ],
+        "code": "a.",
+        "sec": "",
+        "title": "Inspect the condition of the battery and its terminal. Replace as necessary. ( depend on 2 years lifecycle )",
+        "freq": [],
+        "items": [],
+        "prose": []
+      }
+    ]
+  },
+  {
+    "sys": "4.0",
+    "sheet": "4.0 GONDOLA",
+    "entries": [
+      {
+        "nums": [
+          "4",
+          "4.0"
+        ],
+        "code": "4.0",
+        "sec": "",
+        "title": "GONDOLA",
+        "freq": [],
+        "items": [],
+        "prose": [
+          "The Contractor shall ensure proper operation of all Gondola System and equipment and shall monitor and check the system. This shall include works such as visual checking, monitoring cleaning, etc. and respond to any complaint with regards day to day operation."
+        ]
+      },
+      {
+        "nums": [
+          "4",
+          "4.1"
+        ],
+        "code": "4.1",
+        "sec": "",
+        "title": "Maintenance",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect motor bearing and other related parts. Repair or replace  any parts as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Observe for any leakage of hydraulic oil. Repair, replace or refill as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect for any missing or damaged component or parts. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect safety catch device, emergency brake, limit switch and other related parts. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect main switch, power cable, panel, supply and emergency stop button. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect and test buzzer or alarm. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Test run unit to ensure good operating condition. Repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Check and report wire ropes for damage or any defect.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Arrange and attend to Department of Occupational Safety and Health (DOSH) inspections, mandatory checks, tests and paying the necessary fees.",
+            "freq": [
+              "D"
+            ]
+          }
+        ],
+        "prose": [
+          "The approved Competent Person (CP) by Department Occupational of Safety and Health (DOSH) and Public Work Department (PWD) shall thoroughly examine the gondola and cause them to be serviced and adjusted once in every month. The maintenance of gondola and its related system shall be carried out in accordance with related regulations and guidelines by DOSH, the manufacturers schedules and the following but not limited to :-"
+        ]
+      }
+    ]
+  },
+  {
+    "sys": "5.0",
+    "sheet": "5.0 CWS  ",
+    "entries": [
+      {
+        "nums": [
+          "5",
+          "5.0"
+        ],
+        "code": "5.0",
+        "sec": "",
+        "title": "COLD WATER SUPPLY AND BOOSTER PUMP",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "5",
+          "5.0"
+        ],
+        "code": "a.",
+        "sec": "",
+        "title": "The Contractor shall ensure proper operation of cold water booster pumping system and shall monitor and check the system. This shall include works such as monitoring of water tank level, pump status, etc. and respond to any complaint with regards daily operation.",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "5",
+          "5.0"
+        ],
+        "code": "b.",
+        "sec": "",
+        "title": "The Maintenance of cold water and its related system, will be carried out in accordance with the manufacturers schedule and the schedule below :-",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "5",
+          "5.1"
+        ],
+        "code": "5.1",
+        "sec": "",
+        "title": "Pump Room",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect pump room cleanliness. Clean as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect for correct labelling. Do labelling as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect emergency light. Repair or replace as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect condition of door. Repair or replace as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect light intensity. Replace as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect floor trap/ drain to ensure good water flow. Clean or repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect pump circuit diagram (laminated & framed) are up to date. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect pump layout diagram (laminated & framed) are up to date. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect portable fire extinguisher (CO2). Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "5",
+          "5.2"
+        ],
+        "code": "5.2",
+        "sec": "",
+        "title": "Tanks (Suction & Storage)",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect for integrity of structure. Repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect for leaks. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect for rust. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect operation of ball valve. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect water tank level indicator. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect electrode and clean. Repair or replace as necessary (if equipped).",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect for sediment. Clean and flush. Do water sampling.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect internal and external cat ladder.  Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "5",
+          "5.3"
+        ],
+        "code": "5.3",
+        "sec": "",
+        "title": "Pumps",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "5",
+          "5.3"
+        ],
+        "code": "i.",
+        "sec": "",
+        "title": "General",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect condition (cleanliness or appearance) of pumps or motor.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Test run each pump on automatic and manual mode.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the correct cut-in/ cut-out auto mode operation of the pressure switch. Check pressures.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect all pump bearings for excessive noise, vibration and wear. Lubricate with oil or grease. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect all motor bearings and lubricate with grease. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect carbon brushes and slip rings of all motors. Clean, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect safety devices fitted to all motors. Clean, adjust, lubricate, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect all seals for leakage. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Adjust and re-pack and replace pump glands as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect each pump/ motor alignment, mountings and correct rotation. Adjust or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect all rubber couplings between pumps and drive motor. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Inspect all belt drives. Adjust and retension. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "m.",
+            "text": "Inspect and tighten all bolts and nuts. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "n.",
+            "text": "Inspect and test pressure switches and gauges. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "5",
+          "5.3"
+        ],
+        "code": "ii.",
+        "sec": "",
+        "title": "Control Panel",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the condition of the panel and its housing. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect and test the control wiring and circuitry. Retighten, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect electric pump starter operation, ensure that the starting sequence is correct. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect the operation of selector switches. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect the operation of auto-manual selector switches. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect the operation of stop-start buttons. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect indicating light for trip and run. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect indicating light for pump on auto and pump manual. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect ammeter and voltmeter. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect and retighten all loose connection of all electrical contactors.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Clean and replace electrical contactors as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Replace electric fuses as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "m.",
+            "text": "Inspect the condition of the conduits, wires and supports.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "n.",
+            "text": "Inspect or replace indicating bulbs and covers.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "o.",
+            "text": "Inspect and ensure tank level and pump operations are correctly registered in the Building Management System (BMS).",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "5",
+          "5.4"
+        ],
+        "code": "5.4",
+        "sec": "",
+        "title": "Piping and Fittings",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the condition of every pipe. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect the condition of the pipe supports, brackets, pipe sleeves and piping joints. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the condition of every valves and fittings. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect and clean strainers. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect for correct labeling. Clean, repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect plumbing, pipe-works & fittings and pipe supports. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Brush pipes to be cleaned from accumulated dust.",
+            "freq": [
+              "6M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "5",
+          "5.5"
+        ],
+        "code": "5.5",
+        "sec": "",
+        "title": "Pressure Vessel",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect and test pressure vessel/ hydro-pneumatic vessel for leaks. Replace diaphragm as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect and test system pressure. Adjust as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "5",
+          "5.6"
+        ],
+        "code": "5.6",
+        "sec": "",
+        "title": "Submersible Pumps",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect electrical termination for tightness.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect all seals for leakage. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect pump and motor bearings for excessive noise, vibration & wear. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect for correct rotation.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect condition of one way valve. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect float sensors for correct indication. Adjust, repair or replace as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect impeller for blockage. Clean, repair or replace as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect and test run each pump on auto and manual mode under load condition.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect the pump suction. Clean pump pit, repair or replace as necessary.",
+            "freq": [
+              "W"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "5",
+          "5.7"
+        ],
+        "code": "5.7",
+        "sec": "",
+        "title": "Painting",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect painting, ensure the system (equipment and piping) are painted with anti rust and coated with correct colour paint.  Repaint or recoat as necessary.",
+            "freq": [
+              "6M"
+            ]
+          }
+        ],
+        "prose": []
+      }
+    ]
+  },
+  {
+    "sys": "6.0",
+    "sheet": "6.0  INSPECTION MECHANICAL",
+    "entries": [
+      {
+        "nums": [
+          "6",
+          "6.0"
+        ],
+        "code": "6.0",
+        "sec": "",
+        "title": "INSPECTION OF MECHANICAL SERVICES  ABOVE CEILING",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect for proper anchorage of all mechanical services. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect for leaks at ducting, piping and insulation. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Ensure the spaces are free from debris. Remove all rubbish and wastes.",
+            "freq": [
+              "6M"
+            ]
+          }
+        ],
+        "prose": [
+          "?"
+        ]
+      }
+    ]
+  },
+  {
+    "sys": "7.0",
+    "sheet": "7.0 KITCHEN EQUIPMENT",
+    "entries": [
+      {
+        "nums": [],
+        "code": "7",
+        "sec": "",
+        "title": "KITCHEN EQUIPMENT",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Check and replace faulty lighting bulb when necessary.",
+            "freq": [
+              "3M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "7.1"
+        ],
+        "code": "7.1",
+        "sec": "",
+        "title": "Open Burner Range",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Check nozzle for blockage. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Check gas valve for leakage. Repair or replace as necessary.",
+            "freq": [
+              "3M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Check manifold for leakage, tighten all joints. Repair or replace as necessary.",
+            "freq": [
+              "3M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Clean and adjust angle of thermocouple.",
+            "freq": [
+              "3M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "7.2"
+        ],
+        "code": "7.2",
+        "sec": "",
+        "title": "Hobs",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Check gas valve for leakage. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "7.3"
+        ],
+        "code": "7.3",
+        "sec": "",
+        "title": "Kitchen Hood",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Clean kitchen hood (interior and exterior).",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect and align motor, mounts and pulley.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Grease bearings.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Balance fan blades.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect and replace belts.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect and adjust conduit, switches and housing.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect and adjust grease box, overflow and containment area.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Replace and install filters, lights, globes and blow-off caps.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "7.4"
+        ],
+        "code": "7.4",
+        "sec": "",
+        "title": "Kitchen Exhaust Fan",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the function of the complete exhaust system.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Adjust air volume control dampers to ensure functionality.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the operation of all fans and motors.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Clean the fan blade from dirt, grease, oil and etc.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Test operation of system under simulated fire condition.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Measure air flow.  Adjust and balance air flow to ensure functionality.",
+            "freq": [
+              "6M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "7.5"
+        ],
+        "code": "7.5",
+        "sec": "",
+        "title": "Wet Chemical System",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect gas cylinder and pressure gauge. Refill, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Check cylinder weight.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect any missing, damaged or deteriorated parts on the cylinders, hoses and fittings. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect and test control panel. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect and test AC & DC supply. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect and test indicator bulbs. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect condition of battery, battery terminal and battery chargers. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect and test detectors including all wirings and its functionality. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect break glass for manual switch/ pull handle. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect the condition of the manual key switch/ pull handle. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Check and ensure air-conditioning and fan trip when system operated. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Check and ensure fire curtain function when gas discharge. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "m.",
+            "text": "Ensure the detectors are free from obstruction, dust, dirt and cobweb. Clean, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "n.",
+            "text": "Painting distribution pipe, equipment and control panel.",
+            "freq": [
+              "Y"
+            ]
+          },
+          {
+            "code": "o.",
+            "text": "Inspect for rusty parts and replace if damages.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "p.",
+            "text": "Conduct simulation test (minus gas discharge).",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "q.",
+            "text": "Ensure time delay for discharge is within 25 -30 seconds.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "r.",
+            "text": "Inspect and test the correct operation of the bell and warning light. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          }
+        ],
+        "prose": []
+      }
+    ]
+  },
+  {
+    "sys": "8.0",
+    "sheet": "8.0 IRRIGATION & LANDSCAPE PUM",
+    "entries": [
+      {
+        "nums": [],
+        "code": "8",
+        "sec": "",
+        "title": "IRRIGATION SYSTEM AND LANDSCAPE",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "8.1"
+        ],
+        "code": "8.1",
+        "sec": "",
+        "title": "Water Pump",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect all bearings and lubricate with grease. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Check coupling and alignment. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Check all hold-down bolts and nuts. Tighten and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Check connections of flexible joints. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Check flow switch and pressure switch. Repair or replace as necessary.",
+            "freq": [
+              "3M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Clean pipe line filter and remove blockage. Replace as necessary.",
+            "freq": [
+              "3M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Open up pump to inspect for wear. Repair or replace any parts as necessary.",
+            "freq": [
+              "Y"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "8.2"
+        ],
+        "code": "8.2",
+        "sec": "",
+        "title": "Electrical Motor",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect and clean carbon brushes. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Check brushes tension. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Check for running ampere and voltage.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Check slip rings for smooth contact. Repair or replace as necessary.",
+            "freq": [
+              "3M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Check and lubricate bearings. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Check alignment and coupling. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Check motor terminals and tightness. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Check for winding insulation resistance by means of megaohm meter. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "8.3"
+        ],
+        "code": "8.3",
+        "sec": "",
+        "title": "Electrical Switchboard/ Control Panel",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Isolate the incoming power and check for panel control circuit operation.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect starter coil condition. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect auxiliary contact, timer and other switch gear. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Clean and adjust contacts.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Check tightness of starters connection. Repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Check for incoming voltage and running ampere.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Check thermal overload and relays. Repair or replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Check cut-out fuses. Replace as necessary.",
+            "freq": [
+              "6M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "8.4"
+        ],
+        "code": "8.4",
+        "sec": "",
+        "title": "Piping",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Check for any leakage at valves and connection of fittings. Rectify the problems as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Check any leakage at the connection of equipment.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Clean strainer.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Remove sludge blockage at aeration nozzle.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Check the flow rate of water during system operation. Record the reading. Adjust as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "8.5"
+        ],
+        "code": "8.5",
+        "sec": "",
+        "title": "Filter",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Clean the filter media. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Check pipe fittings. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "8.6"
+        ],
+        "code": "8.6",
+        "sec": "",
+        "title": "Skimmer",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Remove the debris and sludge blockage.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Check pipe fittings and filter media. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      }
+    ]
+  },
+  {
+    "sys": "9.0",
+    "sheet": "9.0  OTHER MECHANICAL",
+    "entries": [
+      {
+        "nums": [],
+        "code": "9",
+        "sec": "",
+        "title": "OTHER MECHANICAL EQUIPMENT SYSTEM OPERATION AND MAINTENANCE SCHEDULE",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect general condition of equipment and plant rooms. Ensure the equipment and plant rooms are kept free from dust, debris and dry at all time.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Test systems/ equipment for manual and automatic operation.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect, detect and rectify leakages.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect all bearings, moving parts, etc. Lubricate with oil/ grease. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect for abnormal noise/ vibration and rectify as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect all bolts and nuts and tighten as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect level control electrodes.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect instrumentation, pressure switches and gauges in working order. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect valves operation . Lubricate, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect all electric motors, fans, pump, etc. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect and test electrical control panel, starters, protection devices, etc. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [],
+        "code": "a.",
+        "sec": "",
+        "title": "Operation",
+        "freq": [
+          "D"
+        ],
+        "items": [],
+        "prose": [
+          "The Contractor shall ensure proper operation of all other mechanical systems and equipment and shall monitor and check the systems. This shall include works such as visual checking, monitoring, cleaning, etc. and respond to any complaints with regards day to day operation."
+        ]
+      },
+      {
+        "nums": [],
+        "code": "b.",
+        "sec": "",
+        "title": "Maintenance",
+        "freq": [],
+        "items": [],
+        "prose": [
+          "The Contractor shall maintain all the mechanical equipment and systems and shall generally carry out the following but not limited to :-"
+        ]
+      },
+      {
+        "nums": [
+          "9.1"
+        ],
+        "code": "9.1",
+        "sec": "",
+        "title": "Roller Shutter/ Fire Roller Shutter",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "9.1"
+        ],
+        "code": "i.",
+        "sec": "",
+        "title": "General",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Ensure the curtain, hood (coil casing), hand chain, flashing light, sounder, guides, endplates, locking, etc are in good condition.  Repair and replace to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Test the door/ roller shutter  manually. It should run smoothly and there should be no excessive noise.  Repair and replace to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Ensure the link to MFAP are in good condition.  Repair and replace to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect safety devices fitted to motors. Clean, adjust, lubricate, repair or replace to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "9.1"
+        ],
+        "code": "ii.",
+        "sec": "",
+        "title": "Electric Motors",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect and clean all electric motors. Repair or replace to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect all motor bearings, lubricate with grease. Replace to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect safety devices fitted to motors. Clean, adjust, lubricate, repair or replace to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "9.1"
+        ],
+        "code": "iii.",
+        "sec": "",
+        "title": "Electrical Switchboard/ Control  Panel",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the condition of the panel and its housing. Repair or replace to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect and test the control wiring and circuitry. Retighten, repair or replace to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the operation of selector switches. Repair or replace to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect the operation of auto-manual selector switches. Repair or replace to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect the operation of stop-start buttons. Repair / replace to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect or replace indicating bulbs and covers.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect the routine operation of all electrical starters, electrical control gears and ancillary electrical apparatus. Repair or replace to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect all electrical contactors. Clean and retighten all loose connections.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Clean or replace electrical contactors to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect electric fuses. Replace to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect the condition of the conduits, supports and wires. Replace to ensure functionality.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "9.2"
+        ],
+        "code": "9.2",
+        "sec": "",
+        "title": "Hand Dryer",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect condition of hand dryer. Repair or replace as necessary.",
+            "freq": [
+              "W"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Test run each hand dryer. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "9.3"
+        ],
+        "code": "9.3",
+        "sec": "",
+        "title": "Grey Water Harvesting System",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "9.3"
+        ],
+        "code": "i.",
+        "sec": "",
+        "title": "General",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect condition of pumps. (Cleanliness/appearance/ noice). Clean or repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Test run each pump on automatic and manual mode. Repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the correct cut-in or cut-out auto mode operation of the pressure switch. Check pressures. Repair/replaces necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect all motor bearing for excessive noice, vibration and wear. Lubricate with oil or grease and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect carbon brushes and slip rings of all motors, Clean, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect safety devices fitted to all motors. Clean, adjust, lubricate,repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect all seals inlcuding mechanical seals for leakages. Repair or replace necesscary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Adjust, repack and replace pump glands as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect each pump or motor alignment, mountings and correct rotation. Adjust or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect all rubber couplings between pumps and drive motor. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect all belt drives. Adjust and retension. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Inspect and tighten all bolts and nuts. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "m.",
+            "text": "Inspect and test pressure switches and gauges. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "n.",
+            "text": "Record running hour pump and motor of all fire fighting tank.",
+            "freq": [
+              "W"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "9.3"
+        ],
+        "code": "ii.",
+        "sec": "",
+        "title": "Control Room",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the condition of the panel and its housing. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect and test the control wiring and circuitry. Retighten, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect electric pump stater operation, ensure that the starting sequence is correct. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect the operation of selector switches. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect the operation of auto-manual selector switches. Repair or replace necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect the operation of stop-start buttons. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect indicating light for trip and run. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect indicating light for pump on auto and manual pump. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect ammeter voltmeter. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect and retighten all loose connection of all electrical contactors relay as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Clean and replace electrical contactors relays as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Replace electrical fuses as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "m.",
+            "text": "Inspect the condition of the conduits, supports and wires. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "n.",
+            "text": "Inspect or replace indicating bulbs and covers",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "9.4"
+        ],
+        "code": "9.4",
+        "sec": "",
+        "title": "Rain Water Harvesting System",
+        "freq": [],
+        "items": [],
+        "prose": []
+      },
+      {
+        "nums": [
+          "9.4"
+        ],
+        "code": "i.",
+        "sec": "",
+        "title": "General",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect condition of pumps. (Cleanliness/appearance/ noice). Clean or repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Test run each pump on automatic and manual mode. Repair as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect the correct cut-in or cut-out auto mode operation of the pressure switch. Check pressures. Repair/replaces necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect all motor bearing for excessive noice, vibration and wear. Lubricate with oil or grease and replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect carbon brushes and slip rings of all motors, Clean, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect safety devices fitted to all motors. Clean, adjust, lubricate,repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect all seals inlcuding mechanical seals for leakages. Repair or replace necesscary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Adjust, repack and replace pump glands as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect each pump or motor alignment, mountings and correct rotation. Adjust or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect all rubber couplings between pumps and drive motor. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Inspect all belt drives. Adjust and retension. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Inspect and tighten all bolts and nuts. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "m.",
+            "text": "Inspect and test pressure switches and gauges. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "n.",
+            "text": "Record running hour pump and motor of all fire fighting tank.",
+            "freq": [
+              "W"
+            ]
+          }
+        ],
+        "prose": []
+      },
+      {
+        "nums": [
+          "9.4"
+        ],
+        "code": "ii.",
+        "sec": "",
+        "title": "Control Room",
+        "freq": [],
+        "items": [
+          {
+            "code": "a.",
+            "text": "Inspect the condition of the panel and its housing. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "b.",
+            "text": "Inspect and test the control wiring and circuitry. Retighten, repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "c.",
+            "text": "Inspect electric pump stater operation, ensure that the starting sequence is correct. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "d.",
+            "text": "Inspect the operation of selector switches. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "e.",
+            "text": "Inspect the operation of auto-manual selector switches. Repair or replace necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "f.",
+            "text": "Inspect the operation of stop-start buttons. Repair or replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "g.",
+            "text": "Inspect indicating light for trip and run. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "h.",
+            "text": "Inspect indicating light for pump on auto and manual pump. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "i.",
+            "text": "Inspect ammeter voltmeter. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "j.",
+            "text": "Inspect and retighten all loose connection of all electrical contactors relay as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "k.",
+            "text": "Clean and replace electrical contactors relays as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "l.",
+            "text": "Replace electrical fuses as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "m.",
+            "text": "Inspect the condition of the conduits, supports and wires. Replace as necessary.",
+            "freq": [
+              "M"
+            ]
+          },
+          {
+            "code": "n.",
+            "text": "Inspect or replace indicating bulbs and covers",
+            "freq": [
+              "M"
+            ]
+          }
+        ],
+        "prose": []
+      }
+    ]
+  }
+]
