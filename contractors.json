@@ -1,0 +1,74 @@
+[
+    {
+        "id":  "c17862329340350",
+        "name":  "HITACHI",
+        "system":  "Lift",
+        "contact":  "",
+        "whatsapp":  "",
+        "location":  "",
+        "ppmDate":  "",
+        "ppmTime":  "",
+        "reportStatus":  "pending",
+        "updatedAt":  "2026-08-09T07:48:54.0569724+08:00"
+    },
+    {
+        "id":  "c17862329340811",
+        "name":  "ALIMAK",
+        "system":  "Gondola",
+        "contact":  "",
+        "whatsapp":  "",
+        "location":  "",
+        "ppmDate":  "",
+        "ppmTime":  "",
+        "reportStatus":  "pending",
+        "updatedAt":  "2026-08-09T07:48:54.0815845+08:00"
+    },
+    {
+        "id":  "c17862329340812",
+        "name":  "SDC",
+        "system":  "BMS",
+        "contact":  "",
+        "whatsapp":  "",
+        "location":  "",
+        "ppmDate":  "",
+        "ppmTime":  "",
+        "reportStatus":  "pending",
+        "updatedAt":  "2026-08-09T07:48:54.0815845+08:00"
+    },
+    {
+        "id":  "c17862329340813",
+        "name":  "SEMARAK",
+        "system":  "Fire Fighting System",
+        "contact":  "",
+        "whatsapp":  "",
+        "location":  "",
+        "ppmDate":  "",
+        "ppmTime":  "",
+        "reportStatus":  "pending",
+        "updatedAt":  "2026-08-09T07:48:54.0815845+08:00"
+    },
+    {
+        "id":  "c17862329340814",
+        "name":  "IGSP",
+        "system":  "Precision Air Conditioning (PAC) System",
+        "contact":  "",
+        "whatsapp":  "",
+        "location":  "",
+        "ppmDate":  "",
+        "ppmTime":  "",
+        "reportStatus":  "pending",
+        "updatedAt":  "2026-08-09T07:48:54.0815845+08:00"
+    },
+    {
+        "id":  "c17862329340815",
+        "name":  "CARRIER",
+        "system":  "ACMV System",
+        "contact":  "",
+        "whatsapp":  "",
+        "location":  "",
+        "ppmDate":  "",
+        "ppmTime":  "",
+        "reportStatus":  "pending",
+        "updatedAt":  "2026-08-09T07:48:54.0815845+08:00"
+    }
+]
