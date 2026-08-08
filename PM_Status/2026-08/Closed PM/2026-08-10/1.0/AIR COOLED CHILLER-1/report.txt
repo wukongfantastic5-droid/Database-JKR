@@ -1,0 +1,17 @@
+PPM TASK REPORT
+====================
+System    : 1.0 Air Conditioning and Mechanical Ventilation System / 1.1.1 Plant Room
+Item      : ii.
+Desc      : Chillers (Water Cooled)
+Frequency : D/M/6M/Y  Markers: D
+Status    : closed
+Technician: Mohd Sukizam bin Mohammed Ali (A)
+Attended  : 2026-08-08T16:16:50.176958
+Started   : 2026-08-08T16:16:50.176958
+Closed    : 2026-08-08T18:36:02.489300
+Floor     : Aras 36
+Asset     : AIR COOLED CHILLER-1
+WO No     : 1552
+Findings  : 
+Remark    : 
+
