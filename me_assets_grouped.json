@@ -771,6 +771,27 @@
    ]
   },
   {
+   "type": "REFRIGERANT LEAK DETECTOR 1",
+   "qty": 1,
+   "items": [
+    "RFLD-P4A-CPR-01"
+   ]
+  },
+  {
+   "type": "REFRIGERANT LEAK DETECTOR 2",
+   "qty": 1,
+   "items": [
+    "RFLD-P4A-CPR-02"
+   ]
+  },
+  {
+   "type": "REFRIGERANT LEAK DETECTOR 3",
+   "qty": 1,
+   "items": [
+    "RFLD-P4A-CPR-03"
+   ]
+  },
+  {
    "type": "VARIABLE AIR VOLUME",
    "qty": 8,
    "items": [
@@ -991,27 +1012,6 @@
    "qty": 1,
    "items": [
     "NCWR-P5A-02"
-   ]
-  },
-  {
-   "type": "REFRIGERANT LEAK DETECTOR 1",
-   "qty": 1,
-   "items": [
-    "RFLD-P4A-CPR-01"
-   ]
-  },
-  {
-   "type": "REFRIGERANT LEAK DETECTOR 2",
-   "qty": 1,
-   "items": [
-    "RFLD-P4A-CPR-02"
-   ]
-  },
-  {
-   "type": "REFRIGERANT LEAK DETECTOR 3",
-   "qty": 1,
-   "items": [
-    "RFLD-P4A-CPR-03"
    ]
   },
   {
