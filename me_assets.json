@@ -428,6 +428,21 @@
   },
   {
    "system": "1.0 ACMV",
+   "type": "REFRIGERANT LEAK DETECTOR 1",
+   "qty": 1
+  },
+  {
+   "system": "1.0 ACMV",
+   "type": "REFRIGERANT LEAK DETECTOR 2",
+   "qty": 1
+  },
+  {
+   "system": "1.0 ACMV",
+   "type": "REFRIGERANT LEAK DETECTOR 3",
+   "qty": 1
+  },
+  {
+   "system": "1.0 ACMV",
    "type": "VARIABLE AIR VOLUME",
    "qty": 8
   },
@@ -551,21 +566,6 @@
   {
    "system": "1.0 ACMV",
    "type": "NON CHEMICAL WATER TREATMENT 2",
-   "qty": 1
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "REFRIGERANT LEAK DETECTOR 1",
-   "qty": 1
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "REFRIGERANT LEAK DETECTOR 2",
-   "qty": 1
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "REFRIGERANT LEAK DETECTOR 3",
    "qty": 1
   },
   {
