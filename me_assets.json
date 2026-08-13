@@ -51,17 +51,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER B1",
    "qty": 17
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 B1",
    "qty": 6
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "SUMP PUMP NO.1",
    "qty": 1
   }
@@ -98,67 +98,67 @@
    "qty": 6
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER B2",
    "qty": 17
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 B2",
    "qty": 6
   },
   {
-   "system": "3.0 Lift",
+   "system": "3.0 LIFT",
    "type": "LIFT - BASEMENT",
    "qty": 2
   },
   {
-   "system": "5.0 Cold Water Supply & Booster Pump",
-   "type": "RAIN WATER HARVESTING FILTER SYSTEM",
-   "qty": 1
-  },
-  {
-   "system": "8.0 Irrigation System & Landscape",
-   "type": "IRRIGATION WATER PUMP SET",
-   "qty": 1
-  },
-  {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "5.0 Cold Water Supply",
    "type": "GREY WATER HARVESTING FILTER SYSTEM",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "5.0 Cold Water Supply",
    "type": "GREY WATER SUCTION PUMP SET",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "8.0 Irrigation and landscape",
+   "type": "IRRIGATION WATER PUMP SET",
+   "qty": 1
+  },
+  {
+   "system": "9.0 Other Mechanical",
+   "type": "RAIN WATER HARVESTING FILTER SYSTEM",
+   "qty": 1
+  },
+  {
+   "system": "9.0 Other Mechanical",
    "type": "SUMP PUMP NO.1",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "SUMP PUMP NO.2",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "SUMP PUMP NO.3",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "SUMP PUMP NO.4",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "SUMP PUMP NO.5",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "SUMP PUMP NO.6",
    "qty": 1
   }
@@ -181,6 +181,11 @@
   },
   {
    "system": "1.0 ACMV",
+   "type": "EMS SERVER WORK STATION",
+   "qty": 1
+  },
+  {
+   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 4
   },
@@ -190,168 +195,163 @@
    "qty": 9
   },
   {
-   "system": "2.0 Fire Fighting",
-   "type": "ABC DRY POWDER P1",
-   "qty": 9
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "ABC DRY POWDER P1A",
-   "qty": 6
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "ABC DRY POWDER P2",
-   "qty": 3
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "ABC DRY POWDER P2A",
-   "qty": 7
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "ABC DRY POWDER PLAZA",
-   "qty": 5
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "CO2 P1",
-   "qty": 6
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "CO2 P1A",
-   "qty": 1
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "CO2 P2A",
-   "qty": 2
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "CO2 PLAZA",
-   "qty": 2
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "FIREMAN INTERCOM PANEL",
-   "qty": 1
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "FM 200 SYSTEM",
-   "qty": 4
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "HYDRANT PILLAR 1",
-   "qty": 1
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "HYDRANT PILLAR 2",
-   "qty": 1
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "MAIN FIRE ALARM PANEL C/W PC",
-   "qty": 1
-  },
-  {
-   "system": "2.0 Fire Fighting",
+   "system": "1.0 ACMV",
    "type": "SMOKE SPILL FAN",
    "qty": 6
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
+   "type": "ABC DRY POWDER P1",
+   "qty": 9
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "ABC DRY POWDER P1A",
+   "qty": 6
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "ABC DRY POWDER P2",
+   "qty": 3
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "ABC DRY POWDER P2A",
+   "qty": 7
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "ABC DRY POWDER PLAZA",
+   "qty": 5
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "CO2 P1",
+   "qty": 6
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "CO2 P1A",
+   "qty": 1
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "CO2 P2A",
+   "qty": 2
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "CO2 PLAZA",
+   "qty": 2
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "FIREMAN INTERCOM PANEL",
+   "qty": 1
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "FM 200 SYSTEM",
+   "qty": 4
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "HYDRANT PILLAR 1",
+   "qty": 1
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "HYDRANT PILLAR 2",
+   "qty": 1
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "MAIN FIRE ALARM PANEL C/W PC",
+   "qty": 1
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "SPKA - BOMBA LINK",
+   "qty": 1
+  },
+  {
+   "system": "2.0 Fire Fighting system",
    "type": "SPRINKLER DUTY PUMP - STAGE 2",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "SPRINKLER JOCKEY PUMP - STAGE 2",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "SPRINKLER PUMP CONTROL PANEL - STAGE 2",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "SPRINKLER STANDBY PUMP - STAGE 2",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "SPRINKLER SYSTEM STAGE 1 (GRAVITY)",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "WET RISER DUTY PUMP - STAGE 1",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "WET RISER JOCKEY PUMP - STAGE 1",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "WET RISER PUMP CONTROL PANEL -STAGE 1",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "WET RISER STANDBY PUMP - STAGE 1",
    "qty": 1
   },
   {
-   "system": "3.0 Lift",
-   "type": "LIFT - FIRE 2",
-   "qty": 1
-  },
-  {
-   "system": "3.0 Lift",
-   "type": "LIFT PC AND INTERCOM",
-   "qty": 1
-  },
-  {
-   "system": "5.0 Cold Water Supply & Booster Pump",
-   "type": "RAIN WATER HARVESTING OSD PUMP SET (PLAZA)",
-   "qty": 1
-  },
-  {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "3.0 LIFT",
    "type": "BMS SERVER WORK STATION",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
-   "type": "EMS SERVER WORK STATION",
+   "system": "3.0 LIFT",
+   "type": "LIFT - FIRE 2",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "3.0 LIFT",
+   "type": "LIFT PC AND INTERCOM",
+   "qty": 1
+  },
+  {
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
+   "type": "RAIN WATER HARVESTING OSD PUMP SET (PLAZA)",
+   "qty": 1
+  },
+  {
+   "system": "9.0 Other Mechanical",
    "type": "ROLLER SHUTTER 1",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "ROLLER SHUTTER 2",
-   "qty": 1
-  },
-  {
-   "system": "9.0 Other Mechanical Equipment System",
-   "type": "SPKA - BOMBA LINK",
    "qty": 1
   }
  ],
@@ -443,6 +443,11 @@
   },
   {
    "system": "1.0 ACMV",
+   "type": "SMOKE SPILL FAN",
+   "qty": 8
+  },
+  {
+   "system": "1.0 ACMV",
    "type": "VARIABLE AIR VOLUME",
    "qty": 8
   },
@@ -467,72 +472,67 @@
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER MEZZ",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER P3",
    "qty": 3
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER P3A",
    "qty": 7
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER P4",
    "qty": 4
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER P4A",
    "qty": 10
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 MEZZ",
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 P3A",
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 P4",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 P4A",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "FM 200 SYSTEM",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
-   "type": "SMOKE SPILL FAN",
-   "qty": 8
-  },
-  {
-   "system": "5.0 Cold Water Supply & Booster Pump",
+   "system": "5.0 Cold Water Supply",
    "type": "COLD WATER TANK - 001",
    "qty": 1
   },
   {
-   "system": "5.0 Cold Water Supply & Booster Pump",
+   "system": "5.0 Cold Water Supply",
    "type": "DOMESTIC COLD WATER SUCTION PUMP",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -574,54 +574,54 @@
    "qty": 24
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 1",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER P5",
    "qty": 3
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER P5A",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER P6",
    "qty": 4
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER P6A",
    "qty": 7
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 1",
    "qty": 3
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 P5A",
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 P6A",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
-   "type": "HAND DRYER",
-   "qty": 2
-  },
-  {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "7.0 Kitchen Equipment",
    "type": "LPG SYSTEM",
    "qty": 1
+  },
+  {
+   "system": "9.0 Other Mechanical",
+   "type": "HAND DRYER",
+   "qty": 2
   }
  ],
  "L2": [
@@ -641,37 +641,37 @@
    "qty": 23
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 2",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER P7",
    "qty": 3
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER P7A",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 2",
    "qty": 3
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 P7A",
    "qty": 3
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "HYDRANT PILLAR 3",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -754,6 +754,11 @@
   },
   {
    "system": "1.0 ACMV",
+   "type": "PRESSURISATION FAN",
+   "qty": 3
+  },
+  {
+   "system": "1.0 ACMV",
    "type": "VARIABLE AIR VOLUME",
    "qty": 10
   },
@@ -763,34 +768,29 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "1.0 ACMV",
+   "type": "WATER FILTER",
+   "qty": 1
+  },
+  {
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 3",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER CAFE L3",
    "qty": 8
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 3",
    "qty": 3
   },
   {
-   "system": "2.0 Fire Fighting",
-   "type": "PRESSURISATION FAN",
-   "qty": 3
-  },
-  {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "WET CHEMICAL SYSTEM",
    "qty": 6
-  },
-  {
-   "system": "5.0 Cold Water Supply & Booster Pump",
-   "type": "WATER FILTER",
-   "qty": 1
   },
   {
    "system": "7.0 Kitchen Equipment",
@@ -823,67 +823,67 @@
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "ROLLER SHUTTER 10",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "ROLLER SHUTTER 11",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "ROLLER SHUTTER 12",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "ROLLER SHUTTER 13",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "ROLLER SHUTTER 14",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "ROLLER SHUTTER 3",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "ROLLER SHUTTER 4",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "ROLLER SHUTTER 5",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "ROLLER SHUTTER 6",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "ROLLER SHUTTER 7",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "ROLLER SHUTTER 8",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "ROLLER SHUTTER 9",
    "qty": 1
   }
@@ -915,17 +915,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 4",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 4",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -957,17 +957,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 5",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 5",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -999,17 +999,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 6",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 6",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1041,17 +1041,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 7",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 7",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1083,17 +1083,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 8",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 8",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1125,17 +1125,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 9",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 9",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1167,17 +1167,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 10",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 10",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1209,17 +1209,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 11",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 11",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1251,17 +1251,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 12",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 12",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1293,17 +1293,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 13",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 13",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1335,17 +1335,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 14",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 14",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1377,17 +1377,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 15",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 15",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1419,17 +1419,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 16",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 16",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1461,17 +1461,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 17",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 17",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1514,6 +1514,11 @@
   },
   {
    "system": "1.0 ACMV",
+   "type": "PRESSURISATION FAN",
+   "qty": 4
+  },
+  {
+   "system": "1.0 ACMV",
    "type": "SECONDARY CHILLED WATER PUMP - SCHWP1",
    "qty": 1
   },
@@ -1529,157 +1534,152 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "SMOKESPILL AXIAL",
-   "qty": 1
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "ABC DRY POWDER ARAS 18",
-   "qty": 7
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "CO2 ARAS 18",
-   "qty": 5
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "FM 200 SYSTEM",
-   "qty": 2
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "PRESSURISATION FAN",
-   "qty": 4
-  },
-  {
-   "system": "2.0 Fire Fighting",
    "type": "SMOKE SPILL FAN",
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "1.0 ACMV",
+   "type": "SMOKESPILL AXIAL",
+   "qty": 1
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "ABC DRY POWDER ARAS 18",
+   "qty": 7
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "CO2 ARAS 18",
+   "qty": 5
+  },
+  {
+   "system": "2.0 Fire Fighting system",
+   "type": "FM 200 SYSTEM",
+   "qty": 2
+  },
+  {
+   "system": "2.0 Fire Fighting system",
    "type": "SPRINKLER DUTY PUMP - STAGE 3",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "SPRINKLER DUTY PUMP - STAGE 4",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "SPRINKLER JOCKEY PUMP - STAGE 3",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "SPRINKLER JOCKEY PUMP - STAGE 4",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "SPRINKLER PUMP CONTROL PANEL - STAGE 3",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "SPRINKLER PUMP CONTROL PANEL - STAGE 4",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "SPRINKLER STANDBY PUMP - STAGE 3",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "SPRINKLER STANDBY PUMP - STAGE 4",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "SPRINKLER TANK",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "WET RISER DUTY PUMP - STAGE 2",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "WET RISER DUTY PUMP - STAGE 3",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "WET RISER INTERMEDIATE TANK",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "WET RISER JOCKEY PUMP - STAGE 2",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "WET RISER JOCKEY PUMP - STAGE 3",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "WET RISER PUMP CONTROL PANEL - STAGE 2",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "WET RISER PUMP CONTROL PANEL STAGE 3",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "WET RISER STANDBY PUMP - STAGE 2",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "WET RISER STANDBY PUMP - STAGE 3",
    "qty": 1
   },
   {
-   "system": "3.0 Lift",
+   "system": "3.0 LIFT",
    "type": "LIFT - LOW ZONE",
    "qty": 6
   },
   {
-   "system": "5.0 Cold Water Supply & Booster Pump",
+   "system": "5.0 Cold Water Supply",
    "type": "COLD WATER INTERMIDIATE SUCTION PUMP",
    "qty": 1
   },
   {
-   "system": "5.0 Cold Water Supply & Booster Pump",
+   "system": "5.0 Cold Water Supply",
    "type": "DCW INTERMEDIATE STORAGE TANK 1(BASIN)",
    "qty": 1
   },
   {
-   "system": "5.0 Cold Water Supply & Booster Pump",
+   "system": "5.0 Cold Water Supply",
    "type": "DCW INTERMEDIATE STORAGE TANK 2(WC & URINAL)",
    "qty": 1
   },
   {
-   "system": "5.0 Cold Water Supply & Booster Pump",
+   "system": "5.0 Cold Water Supply",
    "type": "DCW INTERMEDIATE SUCTION TANK",
    "qty": 1
   },
   {
-   "system": "5.0 Cold Water Supply & Booster Pump",
-   "type": "TREATED WASTE WATER INTERMEDIATE TANK",
+   "system": "9.0 Other Mechanical",
+   "type": "TREATED GREY WATER INTERMEDIATE PUMP SET",
    "qty": 1
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
-   "type": "TREATED GREY WATER INTERMEDIATE PUMP SET",
+   "system": "9.0 Other Mechanical",
+   "type": "TREATED WASTE WATER INTERMEDIATE TANK",
    "qty": 1
   }
  ],
@@ -1725,37 +1725,37 @@
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 19",
    "qty": 6
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 19",
    "qty": 3
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "FM 200 SYSTEM",
    "qty": 4
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "VESDA SYSTEM",
    "qty": 4
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "FIRE RATED ROLLER SHUTTER -1",
    "qty": 2
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "FIRE RATED ROLLER SHUTTER -2",
    "qty": 2
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1787,17 +1787,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 20",
    "qty": 6
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 20",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1829,17 +1829,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 21",
    "qty": 6
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 21",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1871,17 +1871,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 22",
    "qty": 6
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 22",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1913,17 +1913,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 23",
    "qty": 6
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 23",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1955,17 +1955,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 24",
    "qty": 6
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 24",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -1997,17 +1997,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 25",
    "qty": 6
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 25",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -2039,17 +2039,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 26",
    "qty": 6
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 26",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -2081,17 +2081,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 27",
    "qty": 6
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 27",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -2123,17 +2123,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 28",
    "qty": 6
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 28",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -2165,17 +2165,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 29",
    "qty": 6
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 29",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -2207,17 +2207,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 30",
    "qty": 6
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 30",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -2249,17 +2249,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 31",
    "qty": 6
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 31",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -2291,17 +2291,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 32",
    "qty": 6
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 32",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -2338,17 +2338,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 33",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 33",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -2380,17 +2380,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 34",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 34",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -2422,17 +2422,17 @@
    "qty": 2
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 35",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 35",
    "qty": 3
   },
   {
-   "system": "9.0 Other Mechanical Equipment System",
+   "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
   }
@@ -2474,38 +2474,38 @@
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "1.0 ACMV",
+   "type": "SMOKE SPILL FAN",
+   "qty": 1
+  },
+  {
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 36",
    "qty": 5
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 36",
    "qty": 4
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "HOSE REEL DUTY PUMP",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "HOSE REEL PUMP CONTROL PANEL",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "HOSE REEL STANDBY PUMP",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "HOSEREEL WATER TANK STORAGE",
-   "qty": 1
-  },
-  {
-   "system": "2.0 Fire Fighting",
-   "type": "SMOKE SPILL FAN",
    "qty": 1
   },
   {
@@ -2514,54 +2514,54 @@
    "qty": 1
   },
   {
-   "system": "5.0 Cold Water Supply & Booster Pump",
+   "system": "5.0 Cold Water Supply",
    "type": "DCW STORAGE TANK 1(BASIN)",
    "qty": 1
   },
   {
-   "system": "5.0 Cold Water Supply & Booster Pump",
+   "system": "5.0 Cold Water Supply",
    "type": "DCW STORAGE TANK 2(WC & URINAL)",
    "qty": 1
   },
   {
-   "system": "5.0 Cold Water Supply & Booster Pump",
+   "system": "5.0 Cold Water Supply",
    "type": "DOMESTIC COLD WATER BOOSTER PUMP ( WASH BASIN)",
    "qty": 1
   },
   {
-   "system": "5.0 Cold Water Supply & Booster Pump",
+   "system": "5.0 Cold Water Supply",
    "type": "DOMESTIC COLD WATER BOOSTER PUMP (WC FLUSH VALVE)",
    "qty": 1
   },
   {
-   "system": "5.0 Cold Water Supply & Booster Pump",
+   "system": "9.0 Other Mechanical",
    "type": "RAINWATER HARVESTING TANK",
    "qty": 1
   },
   {
-   "system": "5.0 Cold Water Supply & Booster Pump",
+   "system": "9.0 Other Mechanical",
    "type": "TREATED WASTE WATER ROOF STORAGE TANK(WC&URINAL)",
    "qty": 1
   }
  ],
  "L37": [
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "ABC DRY POWDER ARAS 37",
    "qty": 1
   },
   {
-   "system": "2.0 Fire Fighting",
+   "system": "2.0 Fire Fighting system",
    "type": "CO2 ARAS 37",
    "qty": 1
   },
   {
-   "system": "3.0 Lift",
+   "system": "3.0 LIFT",
    "type": "LIFT - FIRE 1",
    "qty": 1
   },
   {
-   "system": "3.0 Lift",
+   "system": "3.0 LIFT",
    "type": "LIFT - HIGH ZONE",
    "qty": 6
   }
