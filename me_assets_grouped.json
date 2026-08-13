@@ -256,20 +256,6 @@
    ]
   },
   {
-   "type": "RAIN WATER HARVESTING FILTER SYSTEM",
-   "qty": 1,
-   "items": [
-    "RW-FILTER-B2"
-   ]
-  },
-  {
-   "type": "IRRIGATION WATER PUMP SET",
-   "qty": 1,
-   "items": [
-    "IRR-PUMP-B2"
-   ]
-  },
-  {
    "type": "GREY WATER HARVESTING FILTER SYSTEM",
    "qty": 1,
    "items": [
@@ -281,6 +267,20 @@
    "qty": 1,
    "items": [
     "GW-SUC-PUMP-B2"
+   ]
+  },
+  {
+   "type": "IRRIGATION WATER PUMP SET",
+   "qty": 1,
+   "items": [
+    "IRR-PUMP-B2"
+   ]
+  },
+  {
+   "type": "RAIN WATER HARVESTING FILTER SYSTEM",
+   "qty": 1,
+   "items": [
+    "RW-FILTER-B2"
    ]
   },
   {
@@ -356,6 +356,13 @@
    ]
   },
   {
+   "type": "EMS SERVER WORK STATION",
+   "qty": 1,
+   "items": [
+    "EMS SERVER"
+   ]
+  },
+  {
    "type": "FAN COIL UNIT",
    "qty": 4,
    "items": [
@@ -378,6 +385,18 @@
     "SSJF-P2A-2",
     "SSJF-P2A-3",
     "SSJF-P2A-4"
+   ]
+  },
+  {
+   "type": "SMOKE SPILL FAN",
+   "qty": 6,
+   "items": [
+    "SSEAF-P1A-1",
+    "SSEAF-P2-1",
+    "SSEAF-P2A-1",
+    "SSFAF-P1A-1",
+    "SSFAF-P2-1",
+    "SSFAF-P2A-1"
    ]
   },
   {
@@ -514,15 +533,10 @@
    ]
   },
   {
-   "type": "SMOKE SPILL FAN",
-   "qty": 6,
+   "type": "SPKA - BOMBA LINK",
+   "qty": 1,
    "items": [
-    "SSEAF-P1A-1",
-    "SSEAF-P2-1",
-    "SSEAF-P2A-1",
-    "SSFAF-P1A-1",
-    "SSFAF-P2-1",
-    "SSFAF-P2A-1"
+    "SPKA-P-C.ROOM"
    ]
   },
   {
@@ -589,6 +603,13 @@
    ]
   },
   {
+   "type": "BMS SERVER WORK STATION",
+   "qty": 1,
+   "items": [
+    "BMS SERVER"
+   ]
+  },
+  {
    "type": "LIFT - FIRE 2",
    "qty": 1,
    "items": [
@@ -603,32 +624,18 @@
    ]
   },
   {
-   "type": "RAIN WATER HARVESTING OSD PUMP SET (PLAZA)",
-   "qty": 1,
-   "items": [
-    "RWH-PUMP-OSD-PLAZA"
-   ]
-  },
-  {
-   "type": "BMS SERVER WORK STATION",
-   "qty": 1,
-   "items": [
-    "BMS SERVER"
-   ]
-  },
-  {
-   "type": "EMS SERVER WORK STATION",
-   "qty": 1,
-   "items": [
-    "EMS SERVER"
-   ]
-  },
-  {
    "type": "HAND DRYER",
    "qty": 2,
    "items": [
     "HD-P-01",
     "HD-P-02"
+   ]
+  },
+  {
+   "type": "RAIN WATER HARVESTING OSD PUMP SET (PLAZA)",
+   "qty": 1,
+   "items": [
+    "RWH-PUMP-OSD-PLAZA"
    ]
   },
   {
@@ -643,13 +650,6 @@
    "qty": 1,
    "items": [
     "ROLLER SHUTTER 2"
-   ]
-  },
-  {
-   "type": "SPKA - BOMBA LINK",
-   "qty": 1,
-   "items": [
-    "SPKA-P-C.ROOM"
    ]
   }
  ],
@@ -792,6 +792,20 @@
    ]
   },
   {
+   "type": "SMOKE SPILL FAN",
+   "qty": 8,
+   "items": [
+    "SSEAF-P3-1",
+    "SSEAF-P3A-1",
+    "SSEAF-P4-1",
+    "SSEAF-P4A-1",
+    "SSFAF-P3-1",
+    "SSFAF-P3A-1",
+    "SSFAF-P4-1",
+    "SSFAF-P4A-1"
+   ]
+  },
+  {
    "type": "VARIABLE AIR VOLUME",
    "qty": 8,
    "items": [
@@ -931,20 +945,6 @@
    "qty": 1,
    "items": [
     "FM200-P4A-TX"
-   ]
-  },
-  {
-   "type": "SMOKE SPILL FAN",
-   "qty": 8,
-   "items": [
-    "SSEAF-P3-1",
-    "SSEAF-P3A-1",
-    "SSEAF-P4-1",
-    "SSEAF-P4A-1",
-    "SSFAF-P3-1",
-    "SSFAF-P3A-1",
-    "SSFAF-P4-1",
-    "SSFAF-P4A-1"
    ]
   },
   {
@@ -1125,18 +1125,18 @@
    ]
   },
   {
+   "type": "LPG SYSTEM",
+   "qty": 1,
+   "items": [
+    "LPG"
+   ]
+  },
+  {
    "type": "HAND DRYER",
    "qty": 2,
    "items": [
     "HD-L1-01",
     "HD-L1-02"
-   ]
-  },
-  {
-   "type": "LPG SYSTEM",
-   "qty": 1,
-   "items": [
-    "LPG"
    ]
   }
  ],
@@ -1376,6 +1376,15 @@
    ]
   },
   {
+   "type": "PRESSURISATION FAN",
+   "qty": 3,
+   "items": [
+    "LLPF-L04-02",
+    "SPF-L03-01",
+    "SPF-L03-02"
+   ]
+  },
+  {
    "type": "VARIABLE AIR VOLUME",
    "qty": 10,
    "items": [
@@ -1397,6 +1406,13 @@
    "items": [
     "VSD-L03-E",
     "VSD-L03-W"
+   ]
+  },
+  {
+   "type": "WATER FILTER",
+   "qty": 1,
+   "items": [
+    "WATER FILTER"
    ]
   },
   {
@@ -1434,15 +1450,6 @@
    ]
   },
   {
-   "type": "PRESSURISATION FAN",
-   "qty": 3,
-   "items": [
-    "LLPF-L04-02",
-    "SPF-L03-01",
-    "SPF-L03-02"
-   ]
-  },
-  {
    "type": "WET CHEMICAL SYSTEM",
    "qty": 6,
    "items": [
@@ -1452,13 +1459,6 @@
     "WETCHEM-P8-KAFE-B1",
     "WETCHEM-P8-KAFE-B2",
     "WETCHEM-P8-KAFE-B3"
-   ]
-  },
-  {
-   "type": "WATER FILTER",
-   "qty": 1,
-   "items": [
-    "WATER FILTER"
    ]
   },
   {
@@ -2768,6 +2768,16 @@
    ]
   },
   {
+   "type": "PRESSURISATION FAN",
+   "qty": 4,
+   "items": [
+    "LLPF-L18-01",
+    "SPF-L18-01",
+    "SPF-L18-02",
+    "SPF-L18-03"
+   ]
+  },
+  {
    "type": "SECONDARY CHILLED WATER PUMP - SCHWP1",
    "qty": 1,
    "items": [
@@ -2786,6 +2796,14 @@
    "qty": 1,
    "items": [
     "SCHWP-3"
+   ]
+  },
+  {
+   "type": "SMOKE SPILL FAN",
+   "qty": 2,
+   "items": [
+    "SSEAF-L18-01",
+    "SSMAF-L18-01"
    ]
   },
   {
@@ -2825,24 +2843,6 @@
    "items": [
     "FM200-L18-LV",
     "FM200-L18-TX"
-   ]
-  },
-  {
-   "type": "PRESSURISATION FAN",
-   "qty": 4,
-   "items": [
-    "LLPF-L18-01",
-    "SPF-L18-01",
-    "SPF-L18-02",
-    "SPF-L18-03"
-   ]
-  },
-  {
-   "type": "SMOKE SPILL FAN",
-   "qty": 2,
-   "items": [
-    "SSEAF-L18-01",
-    "SSMAF-L18-01"
    ]
   },
   {
@@ -3012,17 +3012,17 @@
    ]
   },
   {
-   "type": "TREATED WASTE WATER INTERMEDIATE TANK",
-   "qty": 1,
-   "items": [
-    "WT-TWW-INTER-L18"
-   ]
-  },
-  {
    "type": "TREATED GREY WATER INTERMEDIATE PUMP SET",
    "qty": 1,
    "items": [
     "TGW-INTER-PUMP-L18"
+   ]
+  },
+  {
+   "type": "TREATED WASTE WATER INTERMEDIATE TANK",
+   "qty": 1,
+   "items": [
+    "WT-TWW-INTER-L18"
    ]
   }
  ],
@@ -4482,6 +4482,13 @@
    ]
   },
   {
+   "type": "SMOKE SPILL FAN",
+   "qty": 1,
+   "items": [
+    "SSMAF-L36-01"
+   ]
+  },
+  {
    "type": "ABC DRY POWDER ARAS 36",
    "qty": 5,
    "items": [
@@ -4528,13 +4535,6 @@
    "qty": 1,
    "items": [
     "WT-HR-L36"
-   ]
-  },
-  {
-   "type": "SMOKE SPILL FAN",
-   "qty": 1,
-   "items": [
-    "SSMAF-L36-01"
    ]
   },
   {
