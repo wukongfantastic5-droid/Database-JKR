@@ -1705,6 +1705,51 @@
    "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "BASIN TAP (MALE TOILET)",
+   "qty": 4
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "BASIN TAP (FEMALE TOILET)",
+   "qty": 3
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "BASIN TAP (OKU TOILET)",
+   "qty": 1
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "BASIN TAP (PANTRY)",
+   "qty": 2
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "WATER CLOSET (MALE TOILET)",
+   "qty": 3
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "WATER CLOSET (FEMALE TOILET)",
+   "qty": 4
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "WATER CLOSET (OKU TOILET)",
+   "qty": 1
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "URINAL (MALE TOILET)",
+   "qty": 3
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "SINK (PANTRY)",
+   "qty": 2
   }
  ],
  "L21": [
@@ -1742,6 +1787,51 @@
    "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
    "qty": 2
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "BASIN TAP (MALE TOILET)",
+   "qty": 4
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "BASIN TAP (FEMALE TOILET)",
+   "qty": 3
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "BASIN TAP (OKU TOILET)",
+   "qty": 1
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "BASIN TAP (PANTRY)",
+   "qty": 2
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "WATER CLOSET (MALE TOILET)",
+   "qty": 3
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "WATER CLOSET (FEMALE TOILET)",
+   "qty": 4
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "WATER CLOSET (OKU TOILET)",
+   "qty": 1
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "URINAL (MALE TOILET)",
+   "qty": 3
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "SINK (PANTRY)",
+   "qty": 2
   }
  ],
  "L22": [
@@ -1778,6 +1868,51 @@
   {
    "system": "9.0 Other Mechanical",
    "type": "HAND DRYER",
+   "qty": 2
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "BASIN TAP (MALE TOILET)",
+   "qty": 4
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "BASIN TAP (FEMALE TOILET)",
+   "qty": 3
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "BASIN TAP (OKU TOILET)",
+   "qty": 1
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "BASIN TAP (PANTRY)",
+   "qty": 2
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "WATER CLOSET (MALE TOILET)",
+   "qty": 3
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "WATER CLOSET (FEMALE TOILET)",
+   "qty": 4
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "WATER CLOSET (OKU TOILET)",
+   "qty": 1
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "URINAL (MALE TOILET)",
+   "qty": 3
+  },
+  {
+   "system": "5.0 Cold Water Supply",
+   "type": "SINK (PANTRY)",
    "qty": 2
   }
  ],
