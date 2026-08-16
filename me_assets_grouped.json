@@ -35,14 +35,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-B1-E",
-    "EAF-B1-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 4,
    "items": [
@@ -729,13 +721,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 1,
-   "items": [
-    "EAF-LME-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 2,
    "items": [
@@ -1360,14 +1345,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L03-E",
-    "EAF-L03-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 2,
    "items": [
@@ -1606,14 +1583,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L04-E",
-    "EAF-L04-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 2,
    "items": [
@@ -1683,14 +1652,6 @@
    "items": [
     "AHU-L05-E",
     "AHU-L05-W"
-   ]
-  },
-  {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L05-E",
-    "EAF-L05-W"
    ]
   },
   {
@@ -1766,14 +1727,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L06-E",
-    "EAF-L06-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 2,
    "items": [
@@ -1843,14 +1796,6 @@
    "items": [
     "AHU-L07-E",
     "AHU-L07-W"
-   ]
-  },
-  {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L07-E",
-    "EAF-L07-W"
    ]
   },
   {
@@ -1926,14 +1871,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L08-E",
-    "EAF-L08-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 2,
    "items": [
@@ -2003,14 +1940,6 @@
    "items": [
     "AHU-L09-E",
     "AHU-L09-W"
-   ]
-  },
-  {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L09-E",
-    "EAF-L09-W"
    ]
   },
   {
@@ -2086,14 +2015,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L10-E",
-    "EAF-L10-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 2,
    "items": [
@@ -2163,14 +2084,6 @@
    "items": [
     "AHU-L11-E",
     "AHU-L11-W"
-   ]
-  },
-  {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L11-E",
-    "EAF-L11-W"
    ]
   },
   {
@@ -2246,14 +2159,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L12-E",
-    "EAF-L12-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 2,
    "items": [
@@ -2323,14 +2228,6 @@
    "items": [
     "AHU-L13-E",
     "AHU-L13-W"
-   ]
-  },
-  {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L13-E",
-    "EAF-L13-W"
    ]
   },
   {
@@ -2406,14 +2303,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L14-E",
-    "EAF-L14-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 2,
    "items": [
@@ -2483,14 +2372,6 @@
    "items": [
     "AHU-L15-E",
     "AHU-L15-W"
-   ]
-  },
-  {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L15-E",
-    "EAF-L15-W"
    ]
   },
   {
@@ -2564,14 +2445,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L16-E",
-    "EAF-L16-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 2,
    "items": [
@@ -2641,14 +2514,6 @@
    "items": [
     "AHU-L17-E",
     "AHU-L17-W"
-   ]
-  },
-  {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L17-E",
-    "EAF-L17-W"
    ]
   },
   {
@@ -3035,13 +2900,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 1,
-   "items": [
-    "EAF-L19-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 4,
    "items": [
@@ -3167,14 +3025,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L20-E",
-    "EAF-L20-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 2,
    "items": [
@@ -3245,14 +3095,6 @@
    "items": [
     "AHU-L21-E",
     "AHU-L21-W"
-   ]
-  },
-  {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L21-E",
-    "EAF-L21-W"
    ]
   },
   {
@@ -3329,14 +3171,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L22-E",
-    "EAF-L22-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 2,
    "items": [
@@ -3407,14 +3241,6 @@
    "items": [
     "AHU-L23-E",
     "AHU-L23-W"
-   ]
-  },
-  {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L23-E",
-    "EAF-L23-W"
    ]
   },
   {
@@ -3491,14 +3317,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L24-E",
-    "EAF-L24-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 2,
    "items": [
@@ -3567,14 +3385,6 @@
    "items": [
     "AHU-L25-E",
     "AHU-L25-W"
-   ]
-  },
-  {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L25-E",
-    "EAF-L25-W"
    ]
   },
   {
@@ -3649,14 +3459,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L26-E",
-    "EAF-L26-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 2,
    "items": [
@@ -3725,14 +3527,6 @@
    "items": [
     "AHU-L27-E",
     "AHU-L27-W"
-   ]
-  },
-  {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L27-E",
-    "EAF-L27-W"
    ]
   },
   {
@@ -3807,14 +3601,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L28-E",
-    "EAF-L28-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 2,
    "items": [
@@ -3883,14 +3669,6 @@
    "items": [
     "AHU-L29-E",
     "AHU-L29-W"
-   ]
-  },
-  {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L29-E",
-    "EAF-L29-W"
    ]
   },
   {
@@ -3965,14 +3743,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L30-E",
-    "EAF-L30-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 2,
    "items": [
@@ -4044,14 +3814,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L31-E",
-    "EAF-L31-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 2,
    "items": [
@@ -4120,14 +3882,6 @@
    "items": [
     "AHU-L32-E",
     "AHU-L32-W"
-   ]
-  },
-  {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L32-E",
-    "EAF-L32-W"
    ]
   },
   {
@@ -4210,14 +3964,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L33-E",
-    "EAF-L33-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 3,
    "items": [
@@ -4287,14 +4033,6 @@
    ]
   },
   {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L34-E",
-    "EAF-L34-W"
-   ]
-  },
-  {
    "type": "FAN COIL UNIT",
    "qty": 3,
    "items": [
@@ -4361,14 +4099,6 @@
    "items": [
     "AHU-L35-E",
     "AHU-L35-W"
-   ]
-  },
-  {
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2,
-   "items": [
-    "EAF-L35-E",
-    "EAF-L35-W"
    ]
   },
   {
