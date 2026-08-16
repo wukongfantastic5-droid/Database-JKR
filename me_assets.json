@@ -22,11 +22,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 4
   },
@@ -408,11 +403,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 1
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 2
   },
@@ -744,11 +734,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 2
   },
@@ -896,11 +881,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 2
   },
@@ -934,11 +914,6 @@
   {
    "system": "1.0 ACMV",
    "type": "AIR HANDLING UNIT",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
    "qty": 2
   },
   {
@@ -980,11 +955,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 2
   },
@@ -1018,11 +988,6 @@
   {
    "system": "1.0 ACMV",
    "type": "AIR HANDLING UNIT",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
    "qty": 2
   },
   {
@@ -1064,11 +1029,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 2
   },
@@ -1102,11 +1062,6 @@
   {
    "system": "1.0 ACMV",
    "type": "AIR HANDLING UNIT",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
    "qty": 2
   },
   {
@@ -1148,11 +1103,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 2
   },
@@ -1186,11 +1136,6 @@
   {
    "system": "1.0 ACMV",
    "type": "AIR HANDLING UNIT",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
    "qty": 2
   },
   {
@@ -1232,11 +1177,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 2
   },
@@ -1270,11 +1210,6 @@
   {
    "system": "1.0 ACMV",
    "type": "AIR HANDLING UNIT",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
    "qty": 2
   },
   {
@@ -1316,11 +1251,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 2
   },
@@ -1354,11 +1284,6 @@
   {
    "system": "1.0 ACMV",
    "type": "AIR HANDLING UNIT",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
    "qty": 2
   },
   {
@@ -1400,11 +1325,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 2
   },
@@ -1438,11 +1358,6 @@
   {
    "system": "1.0 ACMV",
    "type": "AIR HANDLING UNIT",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
    "qty": 2
   },
   {
@@ -1691,11 +1606,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 1
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 4
   },
@@ -1768,11 +1678,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 2
   },
@@ -1806,11 +1711,6 @@
   {
    "system": "1.0 ACMV",
    "type": "AIR HANDLING UNIT",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
    "qty": 2
   },
   {
@@ -1852,11 +1752,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 2
   },
@@ -1890,11 +1785,6 @@
   {
    "system": "1.0 ACMV",
    "type": "AIR HANDLING UNIT",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
    "qty": 2
   },
   {
@@ -1981,11 +1871,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 2
   },
@@ -2019,11 +1904,6 @@
   {
    "system": "1.0 ACMV",
    "type": "AIR HANDLING UNIT",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
    "qty": 2
   },
   {
@@ -2065,11 +1945,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 2
   },
@@ -2103,11 +1978,6 @@
   {
    "system": "1.0 ACMV",
    "type": "AIR HANDLING UNIT",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
    "qty": 2
   },
   {
@@ -2149,11 +2019,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 2
   },
@@ -2187,11 +2052,6 @@
   {
    "system": "1.0 ACMV",
    "type": "AIR HANDLING UNIT",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
    "qty": 2
   },
   {
@@ -2233,11 +2093,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 2
   },
@@ -2275,11 +2130,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 2
   },
@@ -2313,11 +2163,6 @@
   {
    "system": "1.0 ACMV",
    "type": "AIR HANDLING UNIT",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
    "qty": 2
   },
   {
@@ -2364,11 +2209,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 3
   },
@@ -2406,11 +2246,6 @@
   },
   {
    "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
    "type": "FAN COIL UNIT",
    "qty": 3
   },
@@ -2444,11 +2279,6 @@
   {
    "system": "1.0 ACMV",
    "type": "AIR HANDLING UNIT",
-   "qty": 2
-  },
-  {
-   "system": "1.0 ACMV",
-   "type": "ELECTRONIC AIR FILTER",
    "qty": 2
   },
   {
