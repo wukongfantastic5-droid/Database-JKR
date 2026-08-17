@@ -2163,60 +2163,6 @@
    "type": "HAND DRYER",
    "code": "HD-L20-02",
    "qty": 1
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "BASIN TAP (MALE TOILET)",
-   "code": null,
-   "qty": 4
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "BASIN TAP (FEMALE TOILET)",
-   "code": null,
-   "qty": 3
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "BASIN TAP (OKU TOILET)",
-   "code": null,
-   "qty": 1
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "BASIN TAP (PANTRY)",
-   "code": null,
-   "qty": 2
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "WATER CLOSET (MALE TOILET)",
-   "code": null,
-   "qty": 3
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "WATER CLOSET (FEMALE TOILET)",
-   "code": null,
-   "qty": 4
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "WATER CLOSET (OKU TOILET)",
-   "code": null,
-   "qty": 1
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "URINAL (MALE TOILET)",
-   "code": null,
-   "qty": 3
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "SINK (PANTRY)",
-   "code": null,
-   "qty": 2
   }
  ],
  "L21": [
@@ -2267,60 +2213,6 @@
    "type": "HAND DRYER",
    "code": "HD-L21-02",
    "qty": 1
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "BASIN TAP (MALE TOILET)",
-   "code": null,
-   "qty": 4
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "BASIN TAP (FEMALE TOILET)",
-   "code": null,
-   "qty": 3
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "BASIN TAP (OKU TOILET)",
-   "code": null,
-   "qty": 1
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "BASIN TAP (PANTRY)",
-   "code": null,
-   "qty": 2
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "WATER CLOSET (MALE TOILET)",
-   "code": null,
-   "qty": 3
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "WATER CLOSET (FEMALE TOILET)",
-   "code": null,
-   "qty": 4
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "WATER CLOSET (OKU TOILET)",
-   "code": null,
-   "qty": 1
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "URINAL (MALE TOILET)",
-   "code": null,
-   "qty": 3
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "SINK (PANTRY)",
-   "code": null,
-   "qty": 2
   }
  ],
  "L22": [
@@ -2371,60 +2263,6 @@
    "type": "HAND DRYER",
    "code": "HD-L22-02",
    "qty": 1
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "BASIN TAP (MALE TOILET)",
-   "code": null,
-   "qty": 4
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "BASIN TAP (FEMALE TOILET)",
-   "code": null,
-   "qty": 3
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "BASIN TAP (OKU TOILET)",
-   "code": null,
-   "qty": 1
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "BASIN TAP (PANTRY)",
-   "code": null,
-   "qty": 2
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "WATER CLOSET (MALE TOILET)",
-   "code": null,
-   "qty": 3
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "WATER CLOSET (FEMALE TOILET)",
-   "code": null,
-   "qty": 4
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "WATER CLOSET (OKU TOILET)",
-   "code": null,
-   "qty": 1
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "URINAL (MALE TOILET)",
-   "code": null,
-   "qty": 3
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "SINK (PANTRY)",
-   "code": null,
-   "qty": 2
   }
  ],
  "L23": [
@@ -2475,60 +2313,6 @@
    "type": "HAND DRYER",
    "code": "HD-L23-02",
    "qty": 1
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "BASIN TAP (MALE TOILET)",
-   "code": null,
-   "qty": 4
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "BASIN TAP (FEMALE TOILET)",
-   "code": null,
-   "qty": 3
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "BASIN TAP (OKU TOILET)",
-   "code": null,
-   "qty": 1
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "BASIN TAP (PANTRY)",
-   "code": null,
-   "qty": 2
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "WATER CLOSET (MALE TOILET)",
-   "code": null,
-   "qty": 3
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "WATER CLOSET (FEMALE TOILET)",
-   "code": null,
-   "qty": 4
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "WATER CLOSET (OKU TOILET)",
-   "code": null,
-   "qty": 1
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "URINAL (MALE TOILET)",
-   "code": null,
-   "qty": 3
-  },
-  {
-   "system": "5.0 Cold Water Supply",
-   "type": "SINK (PANTRY)",
-   "code": null,
-   "qty": 2
   }
  ],
  "L24": [
